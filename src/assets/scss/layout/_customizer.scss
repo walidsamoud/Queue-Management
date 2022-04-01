@@ -1,0 +1,45 @@
+.customizer-panel .vs-sidebar {
+	padding: 5px 15px 15px;
+	max-width: 300px;
+}
+
+body .btn-customizer {
+	position: fixed;
+	top: 50%;
+	right: -1px;
+	height: 48px;
+	z-index: 10;
+	padding: 12px 15px;
+	border-radius: 60px 0 0 60px;
+}
+
+.customizer-list {
+	li {
+		width: 20px;
+		height: 20px;
+		border-radius: 100%;
+		margin: 5px 5px;
+		border: 1px solid rgba(0, 0, 0, 0.2);
+		cursor: pointer;
+	}
+}
+
+.inservice {
+	background: linear-gradient(90deg, #3aa6fe 0%, #49deff 100%) !important;
+	color: #fff !important;
+}
+
+.urgent {
+	background: linear-gradient(90deg, #fe1205 0%, #ba3019 100%) !important;
+	color: #fff !important;
+}
+
+.lg-modal > .vs-dialog {
+	max-width: 550px !important;
+	width: 550px;
+
+	.con-select {
+		width: 100px;
+		clear: both;
+	}
+}

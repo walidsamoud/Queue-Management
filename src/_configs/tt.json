@@ -1,0 +1,258 @@
+{
+    "is_organization": false,
+    "organization_id": 0,
+    "organization_name": "Tunisie Telecom",
+    "default_business_id": 43,
+    "default_business_short_code": "Espace-DME",
+    "default_business_name": "Tunisie Telecom",
+    "server": "tn",
+    "api": "https://api.liberrex.tn/v1",
+    "sms_config": {
+        "gateway_id": 140,
+        "sender_name": "DME TT"
+    },
+    "colors":{
+        "special_font": "#3E4958",
+        "primary":{
+            "default": "#225FAF",
+            "hover": "#133562",
+            "font": "#fff"
+        },
+        "secondary":{
+            "default": "#36A9E0",
+            "hover": "#1b7eac",
+            "font": "#fff"
+        },
+        "danger":{
+            "default": "#c01616",
+            "hover": "#cf2c2c",
+            "font": "#fff"
+        },
+        "success":{
+            "default": "#00C851",
+            "hover": "#54b573",
+            "font": "#fff"
+        },
+        "info":{
+            "default": "#008fca",
+            "hover": "#39a5d1",
+            "font": "#fff"
+        }
+    },
+    "logo": {
+        "favicon": "/tt/logo-tt.svg",
+        "header": {
+            "url": "/tt/logo-tt.svg",
+            "width": "100%",
+            "max_width": "80px",
+            "min_width": "80px"
+        },
+        "icon": "/tt/logo-tt.svg"
+    },
+    "allow_queues": true,
+    "allow_bookings": true,
+    "default_language": "fr",
+    "header": {
+        "login": {
+            "status": true,
+            "logged_out_label": {
+                "default": "Login",
+                "fr": "Login",
+                "en": "Login",
+                "ar": "تسجيل الدخول"
+            },
+            "logged_in_label": {
+                "default": "Profil",
+                "fr": "Profil",
+                "en": "Profile",
+                "ar": "حسابي"
+            }
+        },
+        "items": [
+            {
+                "status": true,
+                "label": {
+                    "default": "Accueil",
+                    "fr": "Accueil",
+                    "en": "Home",
+                    "ar": "الرئيسية"
+                },
+                "url": "/",
+                "modal": false
+            },
+            {
+                "status": true,
+                "label": {
+                    "default": "A Propos",
+                    "fr": "A Propos",
+                    "en": "About",
+                    "ar": "من نحن "
+                },
+                "url": "#About",
+                "modal": false
+            },
+            {
+                "status": true,
+                "label": {
+                    "default": "Contact",
+                    "fr": "Contact",
+                    "en": "Contact",
+                    "ar": "إتصل بنا"
+                },
+                "url": "#Contact",
+                "modal": false
+            },
+            {
+                "status": false,
+                "label": {
+                    "default": "Test",
+                    "fr": "Test",
+                    "en": "Test",
+                    "ar": "Test"
+                },
+                "url": "#Test",
+                "modal": false
+            }
+        ],
+        "mobile_max_width": 800
+    },
+    "footer": {
+        "terms": {
+            "status": true,
+            "url": "https://liberrex.com/terms-conditions"
+        },
+        "policy": {
+            "status": true,
+            "url": "https://liberrex.com/privacy-policy"
+        },
+        "copyright": {
+            "status": true,
+            "text": {
+                "default": "Powered By ",
+                "fr": "Powered By ",
+                "en": "Powered By ",
+                "ar": "Powered By "
+            },
+            "logo": {
+                "url": "liberrex_white.png",
+                "height": "12px",
+                "width": ""
+            }
+        },
+        "language_selector": true,
+        "mobile_max_width": 800
+    },
+    "home": {
+        "title1": {
+            "default": "Prenez un",
+            "fr": "Prenez un",
+            "en": "Book an",
+            "ar": "قم بحجز"
+        },
+        "title2": {
+            "default": "Rendez-vous",
+            "fr": "Rendez-vous",
+            "en": "appointment",
+            "ar": "موعدك الآن"
+        },
+        "text": {
+            "default": "Ne perdez plus votre temps à attendre dans les files d'attente, <br> Prenez un rendez-vous ou reservez votre ticket en ligne via notre plateforme 'MonRDV TT'.",
+            "fr": "Ne perdez plus votre temps à attendre dans les files d'attente, <br> Prenez un rendez-vous ou reservez votre ticket en ligne via notre plateforme 'MonRDV TT'.",
+            "en": "Don't waste your time waiting in queues, <br> Make an appointment or book your ticket online via our platform 'MonRDV TT' .",
+            "ar": "لا تضيع وقتك في الانتظار في الصفوف  ، <br> حدد موعدًا أو احجز تذكرتك عبر الإنترنت عبر منصة 'موعدي' الخاصة بنا."
+        },
+        "button_text": {
+            "default": "Prendre un rendez-vous",
+            "fr": "Prendre un rendez-vous",
+            "en": "Book an appointment",
+            "ar": "خذ موعد"
+        },
+        "image": "/tt/tt_illustration.png",
+        "mobile_max_width": 800
+    },
+    "vendor": {
+        "icons_color_in_list": null,
+        "icons": {
+            "clock": "/Date2.png",
+            "info": "/info.png",
+            "location": "/Location2.png"
+        }
+    },
+    "map": {
+        "google_map_key": "AIzaSyCCu5z_wOjyw1iBONIykXU8dms7RfOKwCQ",
+        "marker": "/pinBiat.png",
+        "pin_me": "/pinMeBiat2.png"
+    },
+    "recommendation_badge": "/biat_badge.png",
+    "recommendation_text_color": null,
+    "options": {
+        "agencies_filter_radius": 2000,
+        "phone_max_length": 8,
+        "phone_default_prefix": "+216",
+        
+        "padding_bottom_for_header": "10px",
+
+        "padding_top_for_home_section": "150px",
+        "padding_bottom_for_home_section": "50px",
+
+        "padding_top_for_agencies_section": "70px",
+        "padding_bottom_for_agencies_section": "40px",
+
+        "padding_top_for_vendor_section": "70px",
+        "padding_bottom_for_vendor_section": "35px",
+        
+        "padding_top_for_profile_section": "150px",
+        "padding_bottom_for_profile_section": "50px",
+
+        "choose_department_label": {
+            "default": "Choisir un departement",
+            "fr": "Choisir un departement",
+            "en": "Choose a departement",
+            "ar": "اختر القسم"
+        },
+        "choose_member_label": {
+            "default": "Choisir un membre",
+            "fr": "Choisir un membre",
+            "en": "Choose a member",
+            "ar": "اختر عضوا"
+        },
+        "how_to_spell_agency": {
+            "default": "Agence",
+            "fr": "Agence",
+            "en": "Agency",
+            "ar": "وكالة"
+        }
+    },
+    "queue_status_icons": {
+        "show_1_person_until": 5, 
+        "show_2_persons_until": 15, 
+        "show_3_persons_until": 30, 
+        "show_4_persons_until": 45
+    },
+    "ticket": {
+        "ads": {
+            "status": true,
+            "type": "image",
+            "url": "/biat_ticket_pub.png",
+            "href": "#"
+        },
+        "copyright": {
+            "status": true,
+            "logo": {
+                "url": "/liberrex.png",
+                "height": "23px",
+                "width": ""
+            },
+            "text": {
+                "default": "Copyright © Liberrex 2022",
+                "fr": "Copyright © Liberrex 2022",
+                "en": "Copyright © Liberrex 2022",
+                "ar": "Copyright © Liberrex 2022"
+            },
+            "link": {
+                "href": "https://liberrex.com",
+                "text": "www.liberrex.com"
+            }
+        }
+    }
+}

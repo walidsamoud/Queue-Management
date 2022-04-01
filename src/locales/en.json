@@ -1,0 +1,1590 @@
+{
+	"AlreadyHaveTicketBookFailedTitle": "You already have a ticket",
+	"AlreadyHaveTicketBookFailedHint": "Error Occurred",
+	"AlreadyHaveTicketBookFailedMessage": "You already have a ticket booked in this queue, please click below to view your ticket.",
+	"AlreadyHaveTicketBookFailedButton": "Visit my ticket",
+	"SocialReason": "Social Reason",
+	"Min": "min",
+	"About": "About",
+	"AcceptTerms": "I accept all terms and conditions.",
+	"AgencyMaintenance": "This agency is being prepared",
+	"Anonymous": "Anonymous",
+	"Appointment": "Appointment",
+	"AppointmentBookFailedButton": "To close",
+	"AppointmentBookFailedHint": "An error has occurred",
+	"AppointmentBookFailedMessage": "An error has occurred, please try again later or contact us",
+	"AppointmentBookFailedTitle": "whoops",
+	"AppointmentBookedSuccessffullyButton": "Continue",
+	"AppointmentBookedSuccessffullyMessage": "We have sent you an SMS where you can track your ticket via your phone in real time, Thank you.",
+	"AppointmentBookedSuccessffullyTitle": "Appointment successfully made",
+	"Approved": "Approved",
+	"BeThereAt": "Be there at",
+	"Cancel": "Cancel",
+	"ChooseDateAndSlots": "Choose the date and time you need",
+	"ChooseServices": "Please select the services you want",
+	"Closed": "Closed",
+	"Confirm": "To confirm",
+	"ConfirmDeleteTicket": "Are you sure you want to delete this ticket?",
+	"DeleteTicket": "Delete Ticket",
+	"Directions": "Directions",
+	"Email": "Email",
+	"EnterTheCode": "Enter the code we sent you",
+	"ErrorOccured": "An error has occurred, please try again later",
+	"FindYourService": "Find your service...",
+	"FullName": "Fullname",
+	"Home": "Home",
+	"InformationUpdateError": "There was an error updating your information, please try again!",
+	"InformationUpdatedSuccessfully": "Your information has been updated successfully",
+	"JoinQueue": "Join Queue",
+	"JoinedAt": "Joined At",
+	"Km": "km",
+	"Late": "Late",
+	"LateMessage": "Please note that the service provider may update your classification or cancel your ticket.",
+	"Loading": "Loading...",
+	"LoginMaxLength": "The length of the telephone must be equal to",
+	"LoginModalSpeech": "For your safety, <a href='https://liberrex.com' target='_blank'>Liberrex</a> wants to make sure it is you. We will send you an SMS with a 6-digit verification code.",
+	"LoginVerifyButton": "Verify",
+	"Modify": "Edit",
+	"ModifyProfile": "Edit My Profile",
+	"MyPlans": "My Plans",
+	"MyPosition": "My position",
+	"NewImage": "New picture",
+	"Next": "Next",
+	"NoPlansYet": "You don't have any plans yet",
+	"NoReviewsYet": "There are no reviews yet",
+	"NoSlotsYet": "There are no slots available for this date.",
+	"Open": "Open",
+	"PleaseRegister": "Please create an account",
+	"Recommended": "Recommended",
+	"Return": "Return",
+	"Reviews": "Reviews",
+	"Services": "Services",
+	"ServicesPlural": "Service(s)",
+	"ShowMore": "Show more",
+	"Ticket": "Ticket",
+	"TicketBookFailedButton": "Close",
+	"TicketBookFailedHint": "An error has occurred",
+	"TicketBookFailedMessage": "An error has occurred, please try again later or contact us",
+	"TicketBookFailedTitle": "whoops",
+	"TicketBookedSuccessffullyButton": "Visit my ticket",
+	"TicketBookedSuccessffullyMessage": "Appointment made successfully, we have already sent you a confirmation SMS and we will remind you by SMS a few hours before the appointment. Thank you",
+	"TicketBookedSuccessffullyTitle": "Ticket booked successfully",
+	"TicketNo": "N° ",
+	"TicketNumber": "Ticket No.",
+	"Waiting": "Waiting",
+	"WrongCode": "Invalid verification code",
+	"YouCanAlsoFind": "You can also find",
+	"YouLate": "Are you late?",
+	"YouSentLateNotif": "You have sent a delay notification",
+	"YourRank": "Your Rank",
+	"YourTurn1": "This is",
+	"YourTurn2": "Your turn",
+	"YourTurnIn": "is in",
+	"irreversible": "This task is irreversible",
+	"Auth": {
+		"AcceptTerms": "I accept all Terms and Conditions of use.",
+		"AcceptTermsAndConditions": "I accept all terms and conditions.",
+		"AlreadyHasCode": "I already have a verification code",
+		"AlreadyHaveResetCodeButton": "Already have a reset code?",
+		"CodePlaceholder": "Code",
+		"CreateAnAccount": "Create an Account",
+		"DoHaveAnAccount": "Do you have an account ?",
+		"DontHaveAnAccount": "Don't have an account ?",
+		"Email": "Email",
+		"EnterPhoneNumber": "Enter a phone number",
+		"ErrorTitle": "Please correct the following errors",
+		"FirstName": "First Name",
+		"ForgotPassword": "Forgot Password?",
+		"IncorrectCode": "Invalid code. Please try again.",
+		"IncorrectFields": "Some fields are incorrect. Please try again",
+		"IncorrectPhone": "Incorrect phone number. Please try again",
+		"LastName": "Last Name",
+		"Login": "Login",
+		"LoginButton": "Login",
+		"NoAccountMatches": "No account matches ",
+		"Password": "Password",
+		"PasswordForgotGoToLoginText": "If you remember your password, please click on the login button below to take you to the authentication page.",
+		"PasswordForgotSubmitButton": "Send Reset Code",
+		"PasswordForgotText": "Forgotten your password? Enter your e-mail address below, and we'll send you an e-mail allowing you to reset it.",
+		"PasswordForgotTitle": "Forgot Password",
+		"PhoneIsAlreadyUsed": "is already used!",
+		"PleaseRegister": "Please register",
+		"Register": "Register",
+		"RegisterSubmit": "Submit",
+		"RegisterSuccess": [
+			"Register successful",
+			"Congratulations your account has been created, and it will be approved soon"
+		],
+		"RegisterTermsIntro": "Thank you for your interest in Liberrex, before we can create your account we need to make sure that you have read, understood and agree to the ",
+		"RegisterTermsIntroAnd": "and",
+		"Remember": "Remember me?",
+		"ResetPasswordCode": "Reset Code",
+		"ResetPasswordSubmitButton": "Reset Password",
+		"ResetPasswordTitle": "Reset Password",
+		"SendVerificationCode": "Send Verification Code",
+		"TermsAndConditions": "Terms and conditions",
+		"WelcomeBack": "Welcome"
+	},
+	"Billing": {
+		"AddBillingMethod": {
+			"AddCardButton": "Add credit card",
+			"Text": "Please note that our payment system is provided by Stripe.",
+			"Title": "Add payment method",
+			"ToastFail": "Cannot add payment method",
+			"ToastSuccess": "Payment method added"
+		},
+		"BillingMethodLabel": "Payment Method",
+		"BillingMethodPlaceholder": "Select a payment method",
+		"BillingMethods": "Payment Methods",
+		"Content": [
+			"All your billing information is listed here like invoices, payment methods etc.",
+			"All your invoices are listed in this section. You can download your invoice by clicking the <strong>Download</strong> button",
+			"You can manage your credit card(s) here in this section."
+		],
+		"DeleteBillingMethod": {
+			"Text": "Are you sure you want to delete the billing method ending with {last4} ?.",
+			"Title": "Delete Billing Method",
+			"ToastFail": "Cannot delete billing method",
+			"ToastSuccess": "Billing method deleted"
+		},
+		"Download": "Download",
+		"EndingWith": "ending with",
+		"Expires": "Expires",
+		"Invoices": "Invoices",
+		"NoBillingMethodsAttached": "No payment methods attached to your business account",
+		"UseNewBillingMethod": "Use a new payment method"
+	},
+	"Booking": {
+		"ActionsBookingsButton": "Actions",
+		"Calendar": {
+			"Day": "Day",
+			"List": "List",
+			"Month": "Month",
+			"More": "Booking",
+			"Today": "Today",
+			"Week": "Week"
+		},
+		"CalendarMode": "Calendar mode",
+		"Content": [
+			"List of bookings shown on a calender.",
+			"All recent booking requests are listed here."
+		],
+		"CreateBookingButton": "Create",
+		"CreatePrompt": {
+			"BookingsAvailable": "Appointments slots available",
+			"CancelButton": "Cancel",
+			"ChooseTargetDepartment": "Choose target department",
+			"CreateNewCustomer": "Create a new Customer",
+			"CustomerLabel": "Customer",
+			"CustomerPlaceholder": "Select Customer",
+			"DepartmentLabel": "Target department",
+			"DurationLabel": "Duration",
+			"DurationPlaceholder": "Select a duration",
+			"ServiceLabel": "Services",
+			"ServicePlaceholder": "Select one or more service",
+			"StartDate": "Date",
+			"StartDateLabel": "Date",
+			"SubmitButton": "Create",
+			"TimeLabel": "Time Slot",
+			"TimePlaceholder": "Select a time slot",
+			"Title": "Create Booking",
+			"ToastFail": "Cannot create booking",
+			"ToastSuccess": "Booking created",
+			"WithoutSlots": "Without specific time slots"
+		},
+		"DeletePrompt": {
+			"Text": "Are you sure you want to delete this booking?",
+			"Title": "Delete Booking",
+			"ToastFail": "Cannot update booking",
+			"ToastSuccess": "Booking updated"
+		},
+		"DepartmentAllOption": "All departments",
+		"DepartmentFilterPlaceholder": "Filter by department",
+		"EditPrompt": {
+			"BookButton": "Booking",
+			"CancelButton": "Cancel",
+			"DeleteButton": "Delete",
+			"RedirectButton": "Queue",
+			"SubmitButton": "Update",
+			"Title": "Update Booking",
+			"ToastFail": "Cannot update booking",
+			"ToastSuccess": "Booking updated"
+		},
+		"ExportBookingsButton": "Export",
+		"ImportBookingsButton": "Upload",
+		"Prompt": {
+			"Content": "fill all required fields and press <strong>\"Create\"</strong>button"
+		},
+		"QueuePrompt": {
+			"CancelButton": "Cancel",
+			"SubmitButton": "Confirm",
+			"Title": "Redirect to waiting list",
+			"ToastFail": "Cannot redirect customer",
+			"ToastSuccess": "Customer redirected to a waiting list"
+		},
+		"RecentRequestsEmpty": "You don't have any pending requests at the moment!",
+		"RecentRequestsTitle": "Recent Requests",
+		"Services": "Services",
+		"TabMode": "Table mode",
+		"Table": {
+			"Customer": "Customer",
+			"PhoneNumber": "Phone Number",
+			"SentAt": "Received",
+			"Services": "Services",
+			"StartDate": "Date & Time"
+		},
+		"UploadPrompt": {
+			"CancelButton": "Cancel",
+			"FileLabel": "File (Accepted formats: .CSV, .XSL and .XSLX)",
+			"NotifyCustomers": "Send notifications to customers",
+			"SubmitButton": "Upload",
+			"Title": "Upload Bookings",
+			"ToastFail": "Cannot upload bookings",
+			"ToastSuccess": "Bookings uploaded"
+		}
+	},
+	"Company": {
+		"Address": "Address",
+		"City": "City",
+		"Close": "Close",
+		"Content": [
+			"All business related settings can be updated from here.",
+			"Here you can find the basic information about the business.",
+			"Here you can set the working days/hours for the business.",
+			"Here you can set the location for the business by drag & drop the marker on any location."
+		],
+		"Country": "Country",
+		"EditBasic": {
+			"ToastFail": "Cannot update basic information",
+			"ToastSuccess": "Basic information updated"
+		},
+		"EditLocation": {
+			"ToastFail": "Cannot update location",
+			"ToastSuccess": "Location updated"
+		},
+		"EditTranslations": {
+			"ToastFail": "Cannot update translations",
+			"ToastSuccess": "Translations updated"
+		},
+		"EditWorkingDays": {
+			"ToastFail": "Cannot update working days",
+			"ToastSuccess": "Working days updated"
+		},
+		"Email": "Email",
+		"Industry": "Industry",
+		"Logo": "Logo",
+		"Name": "Company Name",
+		"Open": "Open",
+		"PhoneNumber": "Phone Number",
+		"PostalCode": "Postal Code",
+		"SmsSenderName": "SMS Sender Name",
+		"Tabs": {
+			"BasicInformation": "Basic Information",
+			"Location": "Location",
+			"Translation": "Translation",
+			"WorkingDays": "Working Days"
+		},
+		"UpdateButton": "Save Changes"
+	},
+	"Components": {
+		"Booking": {
+			"RequestItem": {
+				"Approve": {
+					"Text": "Are you sure you want to approve {name} ?",
+					"Title": "Approve",
+					"ToastFail": "Cannot approve request",
+					"ToastSuccess": "Request approved"
+				},
+				"Decline": {
+					"Text": "Are you sure you want to decline {name} ?",
+					"Title": "Reject",
+					"ToastFail": "Cannot reject request",
+					"ToastSuccess": "Request declined"
+				},
+				"Department": "Department",
+				"File": "File n° : "
+			}
+		},
+		"Feedback": {
+			"Content": [
+				"Overview of the feedbacks by the customers."
+			],
+			"Rating": "Rating"
+		},
+		"Queue": {
+			"AddCustomerPrompt": {
+				"AddNewCustomerCheckboxText": "Add new customer to database",
+				"CancelButton": "Cancel",
+				"CustomerLabel": "Customer",
+				"CustomerPlaceholder": "Select Customer",
+				"MemberCheckboxLabel": "Customer should wait for specific team member to serve him",
+				"MemberLabel": "Member",
+				"MemberPlaceholder": "Select a team member",
+				"PushButton": "Add to queue",
+				"ServicesLabel": "Service(s)",
+				"ServicesPlaceholder": "Select Service(s)",
+				"Title": "Add customer",
+				"ToastErrorMessage": "Cannot push customer to queue",
+				"ToastSuccessMessage": "Customer pushed to waiting list"
+			},
+			"AddDelayPrompt": {
+				"CancelButton": "Cancel",
+				"NotificationMessage": "Message",
+				"NotifyCustomersCheckboxText": "Notify customers",
+				"ResumeAtLabel": "Resume service after (Hours:Minutes)",
+				"SubmitButton": "Confirm",
+				"Title": "Add delay",
+				"ToastErrorMessage": "Cannot add a delay to the queue",
+				"ToastSuccessMessage": "Delay added successfully"
+			},
+			"QueueItem": {
+				"DeleteConfirm": {
+					"ConfirmText": "Are you sure you want to delete {name} ?",
+					"Error": "Cannot delete queue",
+					"Successful": "Queue deleted",
+					"Title": "Delete"
+				},
+				"PendingRequests": "You have {total} pending request | You have {total} pending requests",
+				"WaitingInLine": "Waiting In-Line",
+				"WaitingTime": "Waiting Time"
+			},
+			"RequestItem": {
+				"Approve": {
+					"Text": "Are you sure you want to approve {name} ?",
+					"Title": "Approve",
+					"ToastFail": "Cannot approve request",
+					"ToastSuccess": "Request approved"
+				},
+				"Decline": {
+					"Text": "Are you sure you want to decline {name} ?",
+					"Title": "Reject",
+					"ToastFail": "Cannot decline request",
+					"ToastSuccess": "Request declined"
+				}
+			},
+			"TicketItem": {
+				"AccountDetailsPrompt": {
+					"ContinueAnonymously": "Continue without account details",
+					"Email": "Email",
+					"FirstName": "First Name",
+					"LastName": "Last Name",
+					"LoginTitle": "Login to add your account details",
+					"SubmitButton": "Confirm",
+					"Title": "Add account details"
+				},
+				"Alerts": {
+					"Call": {
+						"Header": "Please wait for instructions.. ",
+						"Text": "Please get ready, as you will be called soon to get served.",
+						"TextBold": "Please wait for further instructions from your service provider.",
+						"Title": "It's your turn!"
+					},
+					"Delay": {
+						"Header": "Queue progressing slowly.. ",
+						"Text": "This might affect the waiting time estimated, we will keep you updated.",
+						"TextBold": "We have noticed that the queue is moving slowly.",
+						"Title": "Delay detected!"
+					}
+				},
+				"Anonymous": "Anonymous",
+				"CancelTicket": "Cancel Ticket",
+				"CheckInTime": "Arrived at",
+				"Delete": {
+					"Text": "Are you sure you want to delete this ticket ?",
+					"Title": "Delete Ticket",
+					"ToastFail": "Cannot delete ticket",
+					"ToastSuccess": "Ticket deleted"
+				},
+				"EstimatedServiceTime": "Estimated Service Time",
+				"EstimatedWaitingTime": "Estimated Waiting Time",
+				"FeedbackSubmitButton": "Send",
+				"FeedbackTextPlaceholder": "Tell us about your opinion..",
+				"Late": {
+					"Text": "Please note that the service provider might update your rank or cancel your ticket.",
+					"Title": "Are you running late?"
+				},
+				"NoShow": {
+					"Text": "Are you sure you want to mark this customer as No-Show?",
+					"Title": "Mark as No-Show",
+					"ToastFail": "Cannot mark customer as No-Show",
+					"ToastSuccess": "Customer marked as No-Show"
+				},
+				"PleaseShareFeedback": "Please share your feedback with us",
+				"PushBack": {
+					"Text": "Are you sure you want to push this customer back in the queue?",
+					"Title": "Push Back",
+					"ToastFail": "Cannot push customer back",
+					"ToastSuccess": "Customer pushed back"
+				},
+				"Rank": "Rank",
+				"RatingError": {
+					"Text": "Rating should be between 1-5 stars",
+					"Title": "Rating warning"
+				},
+				"Redirect": {
+					"ToastFail": "Cannot redirect customer",
+					"ToastSuccess": "Customer redirected"
+				},
+				"RunningLate": "I am running late",
+				"ServiceTime": "Service Time",
+				"SwapCustomers": {
+					"Text": "Are you sure you want to swap the selected customers?",
+					"Title": "Swap Customers",
+					"ToastFail": "Cannot swap customers",
+					"ToastSuccess": "Customers swapped"
+				},
+				"ThanksForVisiting": "Thank you for visiting on {date}",
+				"TicketNumber": "Ticket Number",
+				"WaitingTime": "Waiting Time"
+			},
+			"TicketPopup": {
+				"Actions": {
+					"AddNotes": "Add Note",
+					"Delete": "Delete",
+					"Label": "Choose an action",
+					"NoShow": "Mark as No-Show",
+					"Placeholder": "Actions",
+					"PushBack": "Push Back",
+					"Redirect": "Redirect",
+					"SubmitButton": "Confirm",
+					"Swap": "Swap",
+					"UpdateMember": "Update Team Member",
+					"UrgentSwitch": "This ticket is urgent"
+				},
+				"KeepSameTicket": "Keep the same ticket",
+				"PushBackButton": "Push Back",
+				"RedirectButton": "Redirect",
+				"RedirectTargetQueueLabel": "Destination queue",
+				"RedirectTargetQueuePlaceholder": "Select queue",
+				"RedirectTitle": "Redirect Customer",
+				"RequestedMember": "Selected Team Member",
+				"RevokeButton": "Delete",
+				"SwapLabel": "Choose a customer to swap rank with",
+				"SwapPlaceholder": "Choose a customer",
+				"Title": "Ticket"
+			}
+		},
+		"Statistics": {
+			"Content": [
+				"Overview of the site statistics."
+			]
+		},
+		"Widgets": {
+			"BookingRequests": {
+				"Empty": "No booking requests received yet!"
+			},
+			"BookingSummary": {
+				"Confirmed": "Booking(s) Confirmed for Today",
+				"MoreDetails": "View More Details",
+				"Pending": "Requests",
+				"ThisMonth": "This Month",
+				"ThisWeek": "This Week"
+			},
+			"FeedbackSummary": {
+				"Star": "Star",
+				"Total": "Total",
+				"TotalText": "You have {total} customer review submitted | You have {total} customer reviews submitted"
+			},
+			"QueueSummary": {
+				"Active": "Active Waiting List(s)",
+				"InService": "In Service",
+				"MoreDetails": "View More Details",
+				"Pending": "Requests",
+				"Queued": "Waiting in-line"
+			}
+		}
+	},
+	"Copyright": "Copyright © 2020 - LIBERREX LTD",
+	"Customer": {
+		"ActionsBookingsButton": "Actions",
+		"AddCustomerButton": "Add Customer",
+		"AddCustomerPrompt": {
+			"CancelButton": "Cancel",
+			"ConfirmButton": "Add",
+			"Title": "Add Customer",
+			"ToastFailMessage": "Cannot create customer",
+			"ToastSuccessMessage": "Customer created"
+		},
+		"Content": [
+			"Click here to open Add <strong>Customer</strong> form!",
+			"You can edit Customer detail<br>by clicking on this button"
+		],
+		"CustomerBookPrompt": {
+			"CancelButton": "Cancel",
+			"ConfirmButton": "Update",
+			"Title": "Customer Category",
+			"ToastFailMessage": "Cannot update customer category",
+			"ToastSuccessMessage": "Customer category updated"
+		},
+		"DateOfBirth": "Date of Birth",
+		"DeleteCustomerPrompt": {
+			"Text": "Are you sure you want to delete {name} ?",
+			"Title": "Delete Customer",
+			"ToastFailMessage": "Cannot delete customer",
+			"ToastSuccessMessage": "Customer deleted"
+		},
+		"EditCustomerPrompt": {
+			"CancelButton": "Cancel",
+			"ConfirmButton": "Save",
+			"Title": "Edit Customer",
+			"ToastFailMessage": "Cannot update customer",
+			"ToastSuccessMessage": "Customer updated"
+		},
+		"Email": "Email",
+		"ExportBookingsButton": "Export",
+		"FirstName": "First Name",
+		"ImportBookingsButton": "Upload",
+		"InternalId": "Internal ID",
+		"InternalIdHint": "Internal ID can represent a medical file number",
+		"LastName": "Last Name",
+		"LiberrexId": "Liberrex ID",
+		"LiberrexIdHint": "Liberrex ID can be provided by the customer or detected automatically by the system",
+		"Notes": "Notes",
+		"NotesHint": "Notes are shared across the establishment",
+		"PhoneNumber": "Phone Number",
+		"Prompt": {
+			"Content": "Fill all required fields and press <strong>\"Add\"</strong>button"
+		},
+		"Table": {
+			"Book": "Category",
+			"BookBasic": "Basic",
+			"BookBlackList": "Blacklisted",
+			"BookVip": "VIP",
+			"CreatedAt": "Created At",
+			"LiberrexVerification": "Liberrex Account",
+			"LiberrexVerificationFail": "Fail",
+			"LiberrexVerificationSuccess": "Verified",
+			"Options": "Options",
+			"Phone": "Phone Number",
+			"UserInfo": "User Info"
+		},
+		"UploadPrompt": {
+			"CancelButton": "Cancel",
+			"FileLabel": "File (Accepted formats: .CSV, .XSL and .XSLX)",
+			"SubmitButton": "Upload",
+			"Title": "Upload Customers",
+			"ToastFail": "Cannot upload customers",
+			"ToastSuccess": "Customers uploaded"
+		}
+	},
+	"Dashboard": {
+		"Content": [
+			"Click here to open user profile menu.",
+			"You can change the language of the site by selecting any language from this language selector",
+			"All notifications are displayed here."
+		],
+		"OnBoarding": {
+			"LaterButton": "SETUP LATER",
+			"QuickSetupText": "We will guide through a quick account setup to help you get started with Liberrex in few seconds.",
+			"QuickSetupTitle": "Quick Account Setup",
+			"SetupButton": "LET'S SETUP YOUR ACCOUNT",
+			"Text": "Thanks for choosing Liberrex to manage your customer flow",
+			"Title": "Welcome to Liberrex!"
+		},
+		"ServiceConsumption": {
+			"Title": "Service Consumption"
+		},
+		"VisitFrequency": {
+			"Title": "Customer Visit Frequency"
+		}
+	},
+	"Days": {
+		"Friday": "Friday",
+		"Monday": "Monday",
+		"Saturday": "Saturday",
+		"Sunday": "Sunday",
+		"Thursday": "Thursday",
+		"Tuesday": "Tuesday",
+		"Wednesday": "Wednesday"
+	},
+	"Department": {
+		"AddDepartmentButton": "Add Department",
+		"AddDepartmentPrompt": {
+			"CancelButton": "Cancel",
+			"SubmitButton": "Create",
+			"Title": "Add Department",
+			"ToastFail": "Cannot create department",
+			"ToastSuccess": "Department created"
+		},
+		"Color": "Color",
+		"Content": [
+			"Click here to open Add <strong>Department</strong> form!",
+			"You can edit department detail<br>by clicking on this button"
+		],
+		"CreatedAt": "Created At",
+		"DeleteDepartmentPrompt": {
+			"Text": "Are you sure you want to delete {name}?",
+			"Title": "Delete Department",
+			"ToastFail": "Cannot delete department",
+			"ToastSuccess": "Department deleted"
+		},
+		"EditDepartmentPrompt": {
+			"CancelButton": "Cancel",
+			"SubmitButton": "Save",
+			"Title": "Edit Department",
+			"ToastFail": "Cannot update department",
+			"ToastSuccess": "Department updated"
+		},
+		"MaxDailyBookings": "Max Daily Bookings",
+		"Name": "Department Name",
+		"Options": "Options",
+		"TranslationPrompt": {
+			"CancelButton": "Cancel",
+			"SubmitButton": "Save",
+			"Title": "Department Translation",
+			"ToastFail": "Cannot save translations",
+			"ToastSuccess": "Translations saved"
+		}
+	},
+	"Display": {
+		"AddDisplayButton": "Create Display",
+		"AddDisplayPrompt": {
+			"CancelButton": "Cancel",
+			"CollectCustomerDetails": "Play ads",
+			"IpAddress": "Ip Address",
+			"Language": "Language",
+			"MacAddress": "Mac Address",
+			"Name": "Display Name",
+			"Photo": "Placeholder Photo (Optional)",
+			"Queues": "Queues",
+			"Status": "Status",
+			"StatusActive": "Active",
+			"StatusInactive": "Inactive",
+			"SubmitButton": "Create",
+			"Theme": "Theme",
+			"Title": "Create Display",
+			"ToastFail": "Cannot create Display",
+			"ToastSuccess": "Display Created",
+			"VideoLink": "Youtube Video Link"
+		},
+		"Content": [
+			"Click here to open Add <strong>display</strong> form!",
+			"You can edit Displays detail<br>by clicking on this button"
+		],
+		"DeleteKioskPrompt": {
+			"Text": "Are you sure you want to delete {name}?",
+			"Title": "Delete display",
+			"ToastFail": "Cannot delete display",
+			"ToastSuccess": "Display deleted"
+		},
+		"EditKioskPrompt": {
+			"CancelButton": "Cancel",
+			"PhotoUploaded": "Click here to see the attached placeholder photo",
+			"PhotoUploadedDelete": "Delete placeholder photo",
+			"SubmitButton": "Update",
+			"Title": "Edit Display",
+			"ToastFail": "Cannot update display",
+			"ToastSuccess": "Display updated"
+		},
+		"ResetSecretPrompt": {
+			"Text": "Are you sure you want to reset the secret code for {name}?",
+			"Title": "Reset Display Secret",
+			"ToastFail": "Cannot reset display secret",
+			"ToastSuccess": "Display secret reset"
+		},
+		"ShowSecretPrompt": {
+			"CancelButton": "Close",
+			"Key": "Key",
+			"Secret": "Secret",
+			"SecretSave": "This is the only chance to see the kiosk key. Please make sure to save it somewhere safe.",
+			"Text": "Please find below the login credentials for the kiosk you have just created:",
+			"Title": "Display Screen Key & Secret",
+			"ToastFail": "Cannot delete kiosk",
+			"ToastSuccess": "Kiosk deleted",
+			"Token": "Auto Authentication Token",
+			"TokenSave": "This is the only chance to see the kiosk token. Please make sure to save it somewhere safe."
+		},
+		"Table": {
+			"CreatedAt": "Created At",
+			"Key": "Key",
+			"Name": "Name",
+			"Options": "Options",
+			"Queues": "Queues",
+			"Status": "Status"
+		}
+	},
+	"Errors": {
+		"EmailDoesNotExist": "Email does not match our records",
+		"Invalid": "{field} is not valid",
+		"InvalidEmailOrUsed": "Email is invalid or used by another account",
+		"InvalidFilePolite": "Please attach a valid {field}",
+		"InvalidPassword": "Password must be at least 6 characters long",
+		"InvalidPolite": "Please enter a valid {field}",
+		"InvalidSelectPolite": "Please select a valid {field}",
+		"LoginFail": "Email and password do not match our records",
+		"PasswordConfirmDoNotMatch": "Password confirm does not match",
+		"PasswordResetFail": "Email and reset code do not match",
+		"RegisterTermsFail": "You MUST accept our Terms and Conditions!",
+		"Required": "{field} is required"
+	},
+	"GeneralSettings": {
+		"BusinessAccount": {
+			"DeleteAccount": "Delete Account",
+			"DeleteHistory": "Delete History",
+			"IsPublished": "Business published and available on Liberrex systems for users to search, book and share feedback.",
+			"SaveButton": "Save",
+			"Title": "Business Account"
+		},
+		"Content": [
+			"Data and privacy settings can be managed from here.",
+			"Business account settings can be managed from here."
+		],
+		"DataAndPrivacy": {
+			"DeleteHistoryDaily": "Delete all data history every 24 hours and don't keep any records of business activity.",
+			"ShareData": "Share business activity data with third party services in order to increase algorithm efficiency and accuracy.",
+			"ShareWaitingTime": "Share waiting time and booking slots with public users",
+			"Title": "Data & Privacy"
+		},
+		"DeleteAccountPrompt": {
+			"Text": "Are you sure you want to delete your business account? Please note that all data associated to this account will be deleted and you will not be able to recover it in the future. If this is a hard decision to make, you can simply unpublish your business until you make a final decision",
+			"Title": "Delete Account",
+			"ToastFail": "Cannot delete account",
+			"ToastSuccess": "Account deleted"
+		},
+		"DeleteHistoryPrompt": {
+			"Text": "Are you sure you want to delete all activity data associated to your business account?",
+			"Title": "Delete History",
+			"ToastFail": "Cannot delete history",
+			"ToastSuccess": "History deleted"
+		},
+		"MyLiberrex": {
+			"AnonymousFeedback": "Hide customer's name on feedback",
+			"BookingAllowAttachments": "Customers can send attachments with booking requests.",
+			"BookingAllowed": "Customers are allowed to book appointments.",
+			"BookingRequireAttachments": "Bookings require having attachments",
+			"BookingSelectDate": "Customers can select available dates.",
+			"BookingSelectDepartment": "Bookings require choosing department.",
+			"BookingSelectSlot": "Customers can select available slots.",
+			"FeedbackView": "Hide Feedback",
+			"QueueAllowed": "Customers are allowed to join waiting lists.",
+			"QueueOnlyBooked": "Customers can only join waiting lists if they have a confirmed booking on the same day.",
+			"QueueRequirePayment": "Customers should pay fees before being able to join waiting lists.",
+			"SaveButton": "Save",
+			"Title": "My Liberrex"
+		},
+		"Notifications": {
+			"Email": "Email notifications",
+			"Push": "Push notifications",
+			"SMS": "SMS notifications",
+			"Title": "Notifications"
+		}
+	},
+	"Help": {
+		"MembershipButton": "Upgrade to LIBERUP",
+		"MembershipText": "Basing on your historical data, our AI recommends the LIBERUP package for your business.",
+		"MembershipTitle": "Membership",
+		"NeedHelp": "Need Help?",
+		"TechnicalProblemText": "If you are facing any technical problem please send screenshots to support@liberrex.com or call us on +44(0)7802-40-5359 for urgent assistance.",
+		"TechnicalProblemTitle": "Technical Problem",
+		"UserGuideLinkText": "User Guide - Videos",
+		"UserGuideText": "Are you new to Liberrex and don't know yet how to use the platform? Don't panic, we have prepared\n        documentation and videos for you that will guide you through all the features and account settings. Please click on the following link to go on our YouTube Channel.",
+		"UserGuideTitle": "User Guide"
+	},
+	"Kiosk": {
+		"AddKioskButton": "Create Kiosk",
+		"AddKioskPrompt": {
+			"CancelButton": "Cancel",
+			"CollectCustomerDetails": "Collect customer details",
+			"IpAddress": "Restrict to IP Address",
+			"MacAddress": "Restrict to Mac Address",
+			"Name": "Kiosk Name",
+			"Photo": "Placeholder Photo (Optional)",
+			"Queues": "Queues",
+			"RequireInternalId": "Require Internal ID",
+			"ShouldPrint": "Should print ticket",
+			"ShowKeyboard": "Show virtual keyboard",
+			"Status": "Status",
+			"StatusActive": "Active",
+			"StatusInactive": "Inactive",
+			"SubmitButton": "Create",
+			"Theme": "Theme",
+			"Title": "Create Kiosk",
+			"ToastFail": "Cannot create kiosk",
+			"ToastSuccess": "Kiosk Created"
+		},
+		"App": {
+			"AllDone": "All Done! You have joined the waiting list",
+			"AlmostDone": "We are almost done",
+			"CancelButton": "Cancel",
+			"CheckinTitle": "Check-In",
+			"ChooseWaitingList": "Please choose a waiting list.",
+			"ConfirmButton": "Confirm",
+			"ContinueButton": "Continue",
+			"EmailPlaceholder": "Email (optional)",
+			"EnterPhone": "Please enter your phone number",
+			"FirstNamePlaceholder": "First Name",
+			"FullName": "Full Name",
+			"Hello": "Hello,",
+			"HelloCustomer": "Hello, {customer}",
+			"Key": "Key",
+			"LastNamePlaceholder": "Last Name",
+			"Login": "Kiosk Login",
+			"LoginButton": "Login",
+			"LogoutButton": "Logout",
+			"MoreDetailsText": "We need some more information about you",
+			"PhoneNumber": "Phone Number",
+			"PhoneNumberPlaceholder": "+216 __ ___ ___",
+			"PushError": "Unable to join the requested queue, you might be already waiting in the queue!",
+			"QueuesVerify": "You need to choose a waiting list",
+			"ReturnButton": "Return",
+			"Secret": "Secret",
+			"SelectEmployee": "Do you wish to be served by a specific member our team? If yes, please select one otherwise click on continue",
+			"SelectServices": "Please select your desired service(s)",
+			"SelectedMember": "Selected Team Member",
+			"SelectedServices": "Selected Service(s)",
+			"ServicesVerify": "You need to choose at least one service",
+			"StartAgainButton": "Start Again",
+			"TicketSentText": "We have sent a digital ticket to your phone number, please use it to track the progress of your spot in the queue in real-time.",
+			"VerifyData": "please verify the information bellow and click on confirm",
+			"WaitingList": "Waiting List"
+		},
+		"Content": [
+			"Click here to open Add <strong>Kiosks</strong> form!",
+			"You can edit Kiosks detail<br>by clicking on this button"
+		],
+		"DeleteKioskPrompt": {
+			"Text": "Are you sure you want to delete {name}?",
+			"Title": "Delete Kiosk",
+			"ToastFail": "Cannot delete kiosk",
+			"ToastSuccess": "Kiosk deleted"
+		},
+		"EditKioskPrompt": {
+			"CancelButton": "Cancel",
+			"PhotoUploaded": "Click here to see the attached placeholder photo",
+			"PhotoUploadedDelete": "Delete placeholder photo",
+			"SubmitButton": "Update",
+			"Title": "Edit Kiosk",
+			"ToastFail": "Cannot update kiosk",
+			"ToastSuccess": "Kiosk updated"
+		},
+		"ResetSecretPrompt": {
+			"Text": "Are you sure you want to reset the secret code for {name}?",
+			"Title": "Reset Kiosk Secret",
+			"ToastFail": "Cannot reset kiosk secret",
+			"ToastSuccess": "Kiosk secret reset"
+		},
+		"ShowSecretPrompt": {
+			"CancelButton": "Close",
+			"IpAddress": "Restrict to IP Address",
+			"Key": "Key",
+			"MacAddress": "Restrict to Mac Address",
+			"Secret": "Secret",
+			"SecretSave": "This is the only chance to see the kiosk secret. Please make sure to save it somewhere safe.",
+			"Text": "Please find below the login credentials for the kiosk you have just created:",
+			"Title": "Display Screen - Login",
+			"ToastFail": "Cannot delete kiosk",
+			"ToastSuccess": "Kiosk deleted",
+			"Token": "Auto Authentication Token",
+			"TokenSave": "This is the only chance to see the kiosk token. Please make sure to save it somewhere safe."
+		},
+		"Table": {
+			"CreatedAt": "Created At",
+			"Key": "Key",
+			"Name": "Name",
+			"Options": "Options",
+			"Queues": "Queues",
+			"Status": "Status"
+		},
+		"Ticket": {
+			"Rank": "Customers Waiting",
+			"ScanQR": "Please scan the QR code above to track your ticket online",
+			"Services": "Services",
+			"ThankYou": "Thank you for your visit today",
+			"WaitingTime": "Waiting Time",
+			"Welcome": "Welcome to"
+		}
+	},
+	"Languages": {
+		"ar": "Arabic",
+		"de": "German",
+		"en": "English",
+		"es": "Spanish",
+		"fr": "Frensh",
+		"pt": "Portuguese",
+		"ru": "Russian"
+	},
+	"Membership": {
+		"ApplyCouponButton": "Apply",
+		"Content": [
+			"A list of available memberships on Liberrex.",
+			"You can subscribe to a membership by clicking the <strong>\"Subscribe\"</strong>button"
+		],
+		"Coupon": "Coupon",
+		"CustomerDatabase": "Customer database (CRM)",
+		"CustomerFlowManagement": "Customer Flow Management",
+		"DigitalSignage": "Digital Signage",
+		"ExcludeVat": "Excl. VAT",
+		"Forever": "Forever",
+		"Free": "Free",
+		"Month": "Month",
+		"Monthly": "Monthly",
+		"OnlineCustomerRequests": "Online Customer Requests",
+		"PaymentPopup": {
+			"Fail": {
+				"Message": "Membership Payment Failed",
+				"Text": "Sorry",
+				"Title": "Payment Failure"
+			},
+			"Success": {
+				"Message": "Membership Payment Successful",
+				"Text": "Thank you",
+				"Title": "Payment Successful"
+			}
+		},
+		"RealTimeStatistics": "Real-time Statistics",
+		"SelfCheckinTerminal": "Self-Check-in Terminal",
+		"SubTotal": "Sub-Total",
+		"SubscribeButton": "Subscribe",
+		"SubscribePrompt": {
+			"CancelButton": "Cancel",
+			"PayButton": "Pay",
+			"SubmitButton": "Subscribe",
+			"Title": "Subscribe",
+			"ToastFail": "Cannot update membership",
+			"ToastSuccess": "Membership updated"
+		},
+		"Total": "Total",
+		"Transaction": "Transaction",
+		"TrialDaysLeft": "{days} day(s) and {hours} hour(s)",
+		"TrialDaysText": "You are on trial period that will expire in",
+		"TrialFeatures": "You have full access to all the features but you are limited to a total of 200 SMS",
+		"TrialTitle": "Trial Period",
+		"VAT": "VAT",
+		"Year": "Year",
+		"Yearly": "Yearly",
+		"YouAreSubscribedToFree": "You are subscribed to {package} for free",
+		"YouAreSubscribedToPackage": "You are subscribed to {package} under a {plan} plan"
+	},
+	"Menu": {
+		"Bookings": {
+			"Bookings": "Bookings",
+			"Calendar": "Calendar",
+			"Request": "Request",
+			"Table": "Table"
+		},
+		"Coupons": "Coupons & Deals",
+		"Customers": "Customers",
+		"Dashboard": "Dashboard",
+		"Displays": "Screen Display",
+		"EditQueue": "Edit Queue",
+		"Feedback": "Feedback",
+		"Kiosks": "Kiosks",
+		"NewQueue": "New Queue",
+		"Profile": "Profile",
+		"QueueArchive": "Queue Archive",
+		"Queues": "Waiting Lists",
+		"Settings": "Settings",
+		"SettingsBilling": "Billing",
+		"SettingsBusiness": "Information",
+		"SettingsDepartments": "Departments",
+		"SettingsGeneral": "General",
+		"SettingsMembership": "Membership",
+		"SettingsPayment": "Payments",
+		"SettingsRuleCreate": "Create Rule",
+		"SettingsRuleEdit": "Edit Rule",
+		"SettingsRules": "Rules",
+		"SettingsServices": "Services",
+		"SettingsSms": "Sms Transactions",
+		"SettingsTeam": "Team",
+		"Statistics": "Statistics",
+		"WaitingList": "Waiting List"
+	},
+	"Navbar": {
+		"Logout": "Logout",
+		"MyProfile": "My Profile"
+	},
+	"Navigation": {
+		"Next": "Next",
+		"Previous": "Previous"
+	},
+	"Notifications": {
+		"Backend": {
+			"queue_request": "New queue join request"
+		},
+		"Pusher": {
+			"Booking": {
+				"Created": {
+					"Text": "Someone booked an appointment",
+					"Title": "New Booking"
+				},
+				"Deleted": {
+					"Text": "Someone canceled his booking",
+					"Title": "Booking Canceled"
+				}
+			},
+			"BookingRequest": {
+				"Created": {
+					"Text": "Someone wants to book an appointment",
+					"Title": "New Booking Request"
+				},
+				"Deleted": {
+					"Text": "Someone canceled his request to book an appointment",
+					"Title": "Booking Request Canceled"
+				}
+			},
+			"QueueRequest": {
+				"Created": {
+					"Text": "Someone wants to join the queue",
+					"Title": "New Queue Request"
+				},
+				"Deleted": {
+					"Text": "Someone canceled his request to join the queue",
+					"Title": "Queue Request Canceled"
+				}
+			},
+			"Ticket": {
+				"Created": {
+					"Text": "Someone joined the queue",
+					"Title": "New Ticket"
+				},
+				"Deleted": {
+					"Text": "Someone left the queue",
+					"Title": "Ticket Canceled"
+				}
+			}
+		},
+		"SeeAll": "Check all Notifications"
+	},
+	"Payments": {
+		"Tabs": {
+			"PaymentsList": "Payments",
+			"Settings": "Settings"
+		}
+	},
+	"Privacy": "Privacy Policy",
+	"Profile": {
+		"CurrentPassword": "Current Password",
+		"DeleteAccount": {
+			"Text": "Are you sure you want to delete your account?",
+			"Title": "Delete Account",
+			"ToastFail": "Cannot delete account",
+			"ToastSuccess": "Account deleted"
+		},
+		"DeleteAccountButton": "Delete Account",
+		"Department": "Department",
+		"Email": "Email",
+		"FirstName": "First Name",
+		"LastName": "Last Name",
+		"MemberSince": "Member since",
+		"NewPassword": "New Password",
+		"Password": "Password",
+		"PasswordConfirm": "Confirm Password",
+		"PasswordErrorMessage": "The password MUST be at least 6 characters long.",
+		"PersonalInformation": "Personal Information",
+		"PhoneNumber": "Phone Number",
+		"Photo": "Profile Photo",
+		"Position": "Position",
+		"Positions": {
+			"Admin": "Admin",
+			"CEO": "CEO",
+			"Employee": "Employee",
+			"Front Desk": "Front Desk",
+			"Manager": "Manager",
+			"Other": "Other",
+			"Secretary": "Secretary"
+		},
+		"Role": "Role",
+		"UpdatePasswordButton": "Update Password",
+		"UpdatePasswordPrompt": {
+			"CancelButton": "Cancel",
+			"ConfirmButton": "Update",
+			"Text": "Are you sure you want to delete your account?",
+			"Title": "Update Password",
+			"ToastFail": "Cannot update password",
+			"ToastSuccess": "Password deleted"
+		},
+		"UpdatePersonalInformation": {
+			"ToastFail": "Cannot update personal information",
+			"ToastSuccess": "Personal information updated"
+		},
+		"UpdateSubmitButton": "Save changes",
+		"updatePrivacySettings": {
+			"DeleteAccountFail": "Failed to delete account",
+			"DeleteAccountSuccess": "Account has been deleted successfully",
+			"DeleteHistoryFail": "Cannot delete history",
+			"DeleteHistorySuccess": "History successfully deleted",
+			"ToastFail": "Cannot update privacy information",
+			"ToastSuccess": "Privacy Settings updated"
+		}
+	},
+	"Queue": {
+		"Archive": {
+			"Customer": "Customer",
+			"ID": "Identifier",
+			"Notes": "Notes",
+			"ServedAt": "Served At",
+			"Services": "Services"
+		},
+		"Content": [
+			"All the queues will be listed here....",
+			"To create a new Queue, click on this button."
+		],
+		"Counter": {
+			"CreatePrompt": {
+				"CancelButton": "Cancel",
+				"SubmitButton": "Save",
+				"Title": "Create Counter",
+				"ToastFail": "Cannot create counter",
+				"ToastSuccess": "Counter created"
+			},
+			"DeletePrompt": {
+				"Text": "Are you sure you want to delete this counter?",
+				"Title": "Delete Counter",
+				"ToastFail": "Cannot delete counter",
+				"ToastSuccess": "Counter deleted"
+			},
+			"EditPrompt": {
+				"CancelButton": "Cancel",
+				"SubmitButton": "Save",
+				"Title": "Edit Counter",
+				"ToastFail": "Cannot update counter",
+				"ToastSuccess": "Counter updated"
+			}
+		},
+		"Create": {
+			"AddNewCounterButton": "Add Counter",
+			"AskCovid": "Ask the customer if he has COVID-19 symptoms",
+			"AutoCall": "Call next customer in waiting list automatically",
+			"AvailableServices": "Available Services",
+			"Content": [
+				"Fill in the form to create a new queue.",
+				"To create a new Queue, click on this button."
+			],
+			"CounterName": "Counter Name",
+			"Counters": "Counters",
+			"QueueName": "Queue Name",
+			"RequireBooking": "Only those customers with confirmed bookings can join the waiting list.",
+			"SubmitButton": "Create",
+			"TeamMembers": "Team Members",
+			"TeamMembersChoosable": "Customer can choose an employee",
+			"TicketNumberStart": "Ticket Start Number",
+			"TicketNumberType": "Ticket Number Type",
+			"TicketNumberTypeIncr": "Incremental",
+			"TicketNumberTypeRand": "Random",
+			"TicketPrefix": "Ticket Prefix",
+			"ToastFail": "Cannot create queue",
+			"ToastSuccess": "Queue created",
+			"WorkingDays": "Working Days"
+		},
+		"CreateQueueButton": "Create Queue",
+		"Edit": {
+			"SubmitButton": "Update",
+			"ToastFail": "Cannot update queue",
+			"ToastSuccess": "Queue updated",
+			"TranslateButton": "Translations",
+			"TranslationPrompt": {
+				"CancelButton": "Cancel",
+				"SubmitButton": "Save",
+				"Title": "Queue Translation",
+				"ToastFail": "Cannot save translations",
+				"ToastSuccess": "Translations saved"
+			}
+		},
+		"SearchQueuePlaceholder": "Search queue by name",
+		"WaitingList": {
+			"CallNextButton": "Call Next",
+			"CallNextToastFail": "Cannot call next customer",
+			"CallNextToastSuccess": "Next customer called",
+			"CloseCounterAlert": {
+				"Text": "Are you sure you want to close the current counter?",
+				"Title": "Close Counter",
+				"ToastFail": "Cannot close counter",
+				"ToastSuccess": "Counter Closed"
+			},
+			"CloseCounterButton": "Close Counter",
+			"CountersButton": "Counters",
+			"CreateDelayButton": "Add delay",
+			"DelayText": "You have {delay} of delay in this queue",
+			"MoveTicketAlert": {
+				"AcceptButton": "Close",
+				"Text": "Please be aware that moving this ticket will affect other tickets and result in changes in their waiting time.",
+				"Title": "Do you really want to move the ticket?",
+				"ToastFail": "Cannot move ticket",
+				"ToastSuccess": "Ticket moved"
+			},
+			"NowServingCounter": "Now serving counter",
+			"OpenCounterAlert": {
+				"AcceptButton": "Close",
+				"Text": "Cannot open the counter, click on close first!",
+				"Title": "Counter already open",
+				"ToastFail": "Cannot open counter",
+				"ToastSuccess": "Counter Opened"
+			},
+			"PleaseChooseCounter": "Choose a counter",
+			"PleaseChooseCounterLabel": "This queue has multiple counters, please choose one counter to start serving customers.",
+			"PushButton": "Add Customer",
+			"RequestsEmpty": "You don't have any pending requests at the moment!",
+			"Resume": "Resume service",
+			"ResumeServiceAlert": {
+				"Text": "Are you sure you want to resume the service?",
+				"Title": "Resume service",
+				"ToastFail": "Cannot resume service",
+				"ToastSuccess": "Service resumed"
+			},
+			"SelectCounterButton": "Confirm",
+			"WaitingListEmpty": "No one is waiting in this queue, you can add your customers to this queue by clicking on the add button above.",
+			"WaitingListEmptyTitle": "Empty Queue"
+		}
+	},
+	"Rule": {
+		"AddRuleButton": "Add Rule",
+		"AddRulePrompt": {
+			"Action": "Action",
+			"ActionApprove": "Approve",
+			"ActionDecline": "Reject",
+			"ApplyFor": "Apply on",
+			"ApplyForAllCustomers": "All Customers",
+			"ApplyForBlacklisted": "Blacklisted",
+			"ApplyForNewCustomers": "New visitors",
+			"ApplyForVipCustomers": "VIP Customers",
+			"FlowTarget": "Flow Target",
+			"FlowTargetBooking": "Booking",
+			"FlowTargetQueue": "Waiting List",
+			"NameLabel": "Name",
+			"NamePlaceholder": "Your rule name",
+			"RuleSettings": "Rule Settings",
+			"SubmitButton": "Create",
+			"TimeFrame": "Time Frame",
+			"TimeFrameCustom": "Customized",
+			"TimeFrameCustomEndDate": "End Date",
+			"TimeFrameCustomStartDate": "Start Date",
+			"TimeFrameForever": "Forever",
+			"ToastFail": "Cannot create rule",
+			"ToastSuccess": "Rule created",
+			"WorkingDays": "Working Days"
+		},
+		"Content": [
+			"Click here to Add new <strong>Rule</strong>",
+			"You can edit rule details<br>by clicking on this button"
+		],
+		"Create": {
+			"Content": [
+				"You can use this form to add a new rule.",
+				"fill all required fields and press <strong>Create</strong> button"
+			]
+		},
+		"DeleteRulePrompt": {
+			"Text": "Are you sure you want to delete {rule}?",
+			"Title": "Delete Rule",
+			"ToastFail": "Cannot delete rule",
+			"ToastSuccess": "Rule deleted"
+		},
+		"EditRulePrompt": {
+			"ToastFail": "Cannot update rule",
+			"ToastSuccess": "Rule updated"
+		},
+		"Table": {
+			"Action": "Action",
+			"ActionApprove": "Approve",
+			"ActionDecline": "Reject",
+			"CreatedAt": "Created At",
+			"CustomerTarget": "Customer Target",
+			"CustomerTargetAll": "All Customers",
+			"CustomerTargetBlacklisted": "Blacklisted",
+			"CustomerTargetNew": "First Visit",
+			"CustomerTargetVIP": "VIP",
+			"Flow": "Flow Target",
+			"FlowBooking": "Booking",
+			"FlowQueue": "Queue",
+			"Name": "Name",
+			"Options": "Options"
+		}
+	},
+	"SMS": {
+		"Allowance": "Allowance",
+		"BOOKING_CANCELED": "Booking canceled",
+		"BOOKING_CREATED": "Booking created",
+		"BOOKING_REMINDER_24_HOURS": "Booking reminder 24 hours before",
+		"BOOKING_REMINDER_48_HOURS": "Booking reminder 48 hours before",
+		"BOOKING_REMINDER_7_DAYS": "Booking reminder 7 days before",
+		"BOOKING_UPDATED": "Booking updated",
+		"Balance": "Remaining Balance",
+		"Booking": "Booking",
+		"Consumed": "Consumed",
+		"History": "History",
+		"Language": "Language",
+		"QUEUE_CALL_NEXT": "Queue ticket call next notification",
+		"QUEUE_FEEDBACK": "Queue ticket - collect feedback",
+		"QUEUE_GET_READY": "Queue ticket get ready notification",
+		"QUEUE_TICKET_CANCELED": "Queue ticket canceled",
+		"QUEUE_TICKET_CREATED": "Queue ticket created",
+		"QUEUE_TICKET_REDIRECTED": "Queue ticket redirected",
+		"QUEUE_TICKET_UPDATED": "Queue ticket updated",
+		"Queue": "Queue",
+		"SaveButton": "Save updates",
+		"SettingUpdate": {
+			"ToastFail": "Cannot update SMS settings",
+			"ToastSuccess": "SMS settings updated"
+		},
+		"Settings": "Settings",
+		"Table": {
+			"Destination": "Phone Number",
+			"Message": "Message",
+			"Sent at": "Sent at",
+			"SentAt": "Sent at"
+		},
+		"delay_created": "Queue delay created"
+	},
+	"Service": {
+		"AddServiceButton": "Add Service",
+		"AddServicePrompt": {
+			"CancelButton": "Cancel",
+			"Duration": "Duration (in minutes)",
+			"ServiceLabel": "Service",
+			"ServicePlaceholder": "Select a service",
+			"SubmitButton": "Add",
+			"Title": "Add Service",
+			"ToastFail": "Cannot add service",
+			"ToastSuccess": "Service added"
+		},
+		"Content": [
+			"Click here to open Add <strong>Service</strong> form!",
+			"You can edit service detail<br>by clicking on this button"
+		],
+		"DeleteServicePrompt": {
+			"Text": "Are you sure you want to delete {name} ?",
+			"Title": "Delete Service",
+			"ToastFail": "Cannot delete service",
+			"ToastSuccess": "Service deleted"
+		},
+		"EditServicePrompt": {
+			"CancelButton": "Cancel",
+			"SubmitButton": "Save",
+			"Title": "Edit Service",
+			"ToastFail": "Cannot update service",
+			"ToastSuccess": "Service updated"
+		},
+		"NoServiceAlert": {
+			"GoToServicesButton": "Add Service(s)",
+			"Text": "You don't have any services associated to your business, please go to services settings to add at least one service.",
+			"Title": "No services!"
+		},
+		"Table": {
+			"CreatedAt": "Created At",
+			"EstimatedDuration": "Estimated Duration",
+			"Options": "Options",
+			"Service": "Service"
+		}
+	},
+	"Shared": {
+		"Date": "Date",
+		"Hour": "Hour | Hours",
+		"Minute": "Minute | Minutes",
+		"Service": "Service | Services"
+	},
+	"Statistics": {
+		"ServiceFrequency": {
+			"Chart": {
+				"Daily": "Daily",
+				"Day": "Day",
+				"Monthly": "Monthly",
+				"Weekly": "Weekly",
+				"Yearly": "Yearly"
+			},
+			"ParamsPrompt": {
+				"CancelButton": "Cancel",
+				"ChartData": "Chart Data",
+				"ChartType": "Chart Type",
+				"DateType": "Date Type",
+				"SubmitButton": "Confirm",
+				"Title": "Service Frequency Parameters"
+			},
+			"ServicesPie": "Services Pie Chart",
+			"Title": "Service frequency"
+		},
+		"ServiceTime": "Service Time",
+		"Tabs": {
+			"Customers": {
+				"AvgCustomerReturn": "Average Customer Return",
+				"CustomerFrequencyHideButton": "Hide Top Customers",
+				"CustomerFrequencyShowButton": "Show Top Customers",
+				"CustomerNewEntry": "Customer New Entry",
+				"Table": {
+					"FirstName": "First Name",
+					"LastName": "Last Name",
+					"Phone": "Phone Number",
+					"TotalReturn": "Return Times"
+				},
+				"Title": "Customers",
+				"TotalCustomers": "Total Customers"
+			},
+			"Frequency": {
+				"Chart": {
+					"Daily": "Daily",
+					"Monthly": "Monthly",
+					"Weekly": "Weekly",
+					"Yearly": "Yearly"
+				},
+				"Title": "Frequency"
+			},
+			"Logs": "Logs",
+			"Services": "Services",
+			"Time": {
+				"Chart": {
+					"Daily": "Daily",
+					"Monthly": "Monthly",
+					"Service": "Service Time",
+					"Waiting": "Waiting time",
+					"Weekly": "Weekly",
+					"Yearly": "Yearly"
+				},
+				"Title": "Time"
+			}
+		},
+		"VisitFrequency": {
+			"Booking": "Booking Frequency",
+			"ParamsPrompt": {
+				"Area": "Area",
+				"Bar": "Bar",
+				"Booking": "Booking",
+				"CancelButton": "Cancel",
+				"ChartData": "Chart Data",
+				"ChartType": "Chart Type",
+				"DateType": "Date Type",
+				"Queue": "Queue",
+				"SubmitButton": "Confirm",
+				"Title": "Visit Frequency Parameters"
+			},
+			"Queue": "Queue Frequency",
+			"Title": "Visit frequency"
+		},
+		"WaitingTime": "Waiting Time"
+	},
+	"Team": {
+		"AddTeamMemberButton": "Add Team Member",
+		"AddTeamMemberPrompt": {
+			"CancelButton": "Cancel",
+			"SubmitButton": "Create",
+			"Title": "Add Team Member",
+			"ToastFail": "Cannot create member",
+			"ToastSuccess": "Member created"
+		},
+		"Content": [
+			"Click here to open Add <strong>Team Member</strong> form!",
+			"You can edit team member detail<br>by clicking on this button"
+		],
+		"CreatedAt": "Created At",
+		"DeleteTeamMemberPrompt": {
+			"Text": "Are you sure you want to delete {name}?",
+			"Title": "Delete Member",
+			"ToastFail": "Cannot delete member",
+			"ToastSuccess": "Member deleted"
+		},
+		"EditTeamMemberPrompt": {
+			"CancelButton": "Cancel",
+			"SubmitButton": "Save",
+			"Title": "Edit Team Member",
+			"ToastFail": "Cannot update member",
+			"ToastSuccess": "Member updated"
+		},
+		"Options": "Options",
+		"Positions": {
+			"Admin": "Admin",
+			"CEO": "CEO",
+			"Employee": "Employee",
+			"Front Desk": "Front Desk",
+			"Manager": "Manager",
+			"Other": "Other",
+			"Secretary": "Secretary"
+		},
+		"WorkingDaysPrompt": {
+			"CancelButton": "Cancel",
+			"SubmitButton": "Update",
+			"Title": "{name} - Working Days",
+			"ToastFail": "Cannot update working days",
+			"ToastSuccess": "Working days updated"
+		}
+	},
+	"Terms": "Terms & Conditions",
+	"Time": {
+		"From": "From",
+		"To": "To"
+	},
+	"Toasts": {
+		"AcceptButton": "Confirm",
+		"CancelButton": "Cancel",
+		"Error": "Sorry!",
+		"Successful": "Successful"
+	},
+	"Vendor": {
+		"AdditionalFields": "More Information",
+		"Attachments": "Attachment(s)",
+		"AttachmentsPlaceholder": "Click here to select files <br>(Only images and PDF accepted)",
+		"AvailableSlots": "Available Times",
+		"BookNow": "Book Now",
+		"Booking": "Booking",
+		"BookingSummary": "Booking Summary",
+		"BookingSummaryAttachments": "Attachment(s)",
+		"BookingSummaryDate": "Date",
+		"BookingSummaryDateRequestBook": "Request To Book",
+		"BookingSummaryDuration": "Duration",
+		"BookingSummaryServices": "Services",
+		"BookingSummarySlot": "Slot",
+		"BookingSummaryTime": "Time",
+		"BusinessHours": "Business Hours",
+		"Closed": "Closed",
+		"ClosedNow": "Closed Now",
+		"Confirmation": {
+			"Button": "My Bookings",
+			"ButtonGoBooking": "My Bookings",
+			"ButtonGoHome": "Home Page",
+			"Header": "Thank you for your booking request!",
+			"Text": "Your booking request has been sent to the service provider, we will notify you as soon as a decision is made."
+		},
+		"CustomersWaiting": "Customers Waiting",
+		"DateTimePicker": "Date and Time Picking",
+		"Departments": "Departments",
+		"DepartmentsPlaceholder": "Please select a department",
+		"Details": "Details",
+		"EstWaitingTime": "Waiting Time",
+		"EstimatedWaitingTime": "Waiting Time",
+		"Gallery": "Gallery",
+		"Guest": "Guest_",
+		"JoinQueue": "Join Waiting List",
+		"JoinVipQueue": "Join VIP Waiting List",
+		"Location": "Location",
+		"MapInput": "Pin your location",
+		"Minutes": "minutes",
+		"NoAvailableSlots": "No available time slot for booking..",
+		"Open": "Open",
+		"OpenNow": "Open Now",
+		"Overview": "Overview",
+		"QueueConfirmation": {
+			"Button": "My Tickets",
+			"ButtonGoBooking": "My Tickets",
+			"ButtonGoHome": "Home Page",
+			"Header": "Thank you for your requesting to join the waiting list!",
+			"Text": "Your waiting list joining request has been sent to the service provider, we will notify you as soon as a decision is made."
+		},
+		"QueueError": {
+			"Button": "Close",
+			"ButtonClose": "Close",
+			"Header": "Sorry! We are unable to proceed",
+			"Text": "Either you are already in the waiting list or a technical error occurred."
+		},
+		"QueueSummary": "Summary",
+		"QueueSummaryQueue": "Waiting List",
+		"QueueSummaryRequestJoinButton": "Request to join",
+		"QueueSummaryServiceDuration": "Service Duration",
+		"QueueSummaryWaitingTime": "Waiting Time",
+		"Reviews": "Reviews",
+		"Save": "Save",
+		"Services": "Services",
+		"Share": "Share",
+		"SimilarPlaces": "Similar Places",
+		"VIP": "Vip",
+		"Validation": {
+			"AddAttchament": "Please add an attachment",
+			"AdditionalFields": "Please complete the more information's section",
+			"Location": "Please pin your location",
+			"SelectDate": "Please select a date",
+			"SelectService": "Please select one or more services",
+			"SelectSlot": "Please select a time",
+			"Title": "Unable to proceed"
+		},
+		"VipBookingList": "VIP Booking",
+		"VipBookingLists": "VIP Booking",
+		"WaitingList": "Waiting List",
+		"WaitingLists": "Waiting Lists"
+	}
+}

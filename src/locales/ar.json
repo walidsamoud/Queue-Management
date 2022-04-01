@@ -1,0 +1,1590 @@
+{
+	"AlreadyHaveTicketBookFailedTitle": "لديك تذكرة بالفعل",
+	"AlreadyHaveTicketBookFailedHint": "حدث خطأ",
+	"AlreadyHaveTicketBookFailedMessage": "لديك بالفعل تذكرة محجوزة في قائمة الانتظار هذه ، يرجى النقر أدناه لعرض تذكرتك.",
+	"AlreadyHaveTicketBookFailedButton": "قم بزيارة تذكرتي",
+	"SocialReason": "السبب الإجتماعي",
+	"Min": "دقائق",
+	"About": "معلومات",
+	"AcceptTerms": "أوافق على جميع الشروط والأحكام.",
+	"AgencyMaintenance": "يتم إعداد هذه الوكالة",
+	"Anonymous": "مجهول",
+	"Appointment": "موعد",
+	"AppointmentBookFailedButton": "غلق",
+	"AppointmentBookFailedHint": "وقع خطأ ما",
+	"AppointmentBookFailedMessage": "حدث خطأ ، يرجى المحاولة مرة أخرى لاحقًا أو الاتصال بنا",
+	"AppointmentBookFailedTitle": "عذرا ",
+	"AppointmentBookedSuccessffullyButton": "استمر",
+	"AppointmentBookedSuccessffullyMessage": "لقد أرسلنا لك رسالة نصية قصيرة حيث يمكنك تتبع تذكرتك عبر هاتفك في الوقت الفعلي ، شكرًا لك.",
+	"AppointmentBookedSuccessffullyTitle": "تم التعيين بنجاح",
+	"Approved": "وافق",
+	"BeThereAt": "كن هناك في",
+	"Cancel": "إلغاء",
+	"ChooseDateAndSlots": "اختر التاريخ والوقت الذي تحتاجه",
+	"ChooseServices": "الرجاء تحديد الخدمات التي تريدها",
+	"Closed": "مغلق",
+	"Confirm": "تأكيد",
+	"ConfirmDeleteTicket": "هل أنت متأكد أنك تريد حذف هذه التذكرة؟",
+	"DeleteTicket": "حذف التذكرة",
+	"Directions": "الاتجاهات",
+	"Email": "البريد الإلكتروني",
+	"EnterTheCode": "أدخل الرمز الذي أرسلناه لك",
+	"ErrorOccured": "حصل خطأ. الرجاء المحاوله مرة اخرى",
+	"FindYourService": "ابحث عن خدمتك ...",
+	"FullName": "الإسم واللقب",
+	"Home": "الرئيسية",
+	"InformationUpdateError": "حدث خطأ أثناء تحديث معلوماتك ، يرجى المحاولة مرة أخرى!",
+	"InformationUpdatedSuccessfully": "تم تحديث المعلومات الخاصة بك بنجاح",
+	"JoinQueue": "إنضم إلى قائمة الانتظار",
+	"JoinedAt": "انضم في",
+	"Km": "كم",
+	"Late": "متأخر",
+	"LateMessage": "يرجى ملاحظة أنه يجوز لمزود الخدمة تحديث التصنيف الخاص بك أو إلغاء تذكرتك.",
+	"Loading": "تحميل ...",
+	"LoginMaxLength": "يجب أن يساوي طول الهاتف",
+	"LoginModalSpeech": "من أجل سلامتك ، تريد شركة <a href='https://liberrex.com' target='_blank'>Liberrex</a> التأكد من هويتك. سنرسل لك رسالة نصية قصيرة تحتوي على رمز تحقق مكون من 6 أرقام.",
+	"LoginVerifyButton": "التحقق",
+	"Modify": "تغيير",
+	"ModifyProfile": "تعديل ملفي الشخصي",
+	"MyPlans": "خططي",
+	"MyPosition": "موقعي",
+	"NewImage": "صورة جديدة",
+	"Next": "التالي",
+	"NoPlansYet": "ليس لديك أي خطط حتى الآن",
+	"NoReviewsYet": "لا توجد توصيات بعد",
+	"NoSlotsYet": "لا توجد فترات زمنية متاحة لهذا التاريخ.",
+	"Open": "مفتوح",
+	"PleaseRegister": "الرجاء إنشاء حساب",
+	"Recommended": "الأفضل لك",
+	"Return": "عودة",
+	"Reviews": "آراء",
+	"Services": "خدمات",
+	"ServicesPlural": "خدمات",
+	"ShowMore": "أظهر المزيد",
+	"Ticket": "تذكرة",
+	"TicketBookFailedButton": "غلق",
+	"TicketBookFailedHint": "وقع خطأ ما",
+	"TicketBookFailedMessage": "حدث خطأ ، يرجى المحاولة مرة أخرى لاحقًا أو الاتصال بنا",
+	"TicketBookFailedTitle": "عذرا ",
+	"TicketBookedSuccessffullyButton": "قم بزيارة تذكرتي",
+	"TicketBookedSuccessffullyMessage": "تم تحديد الموعد بنجاح ، لقد أرسلنا لك بالفعل رسالة نصية قصيرة للتأكيد وسنذكرك عن طريق الرسائل القصيرة قبل ساعات قليلة من الموعد. شكرا لك",
+	"TicketBookedSuccessffullyTitle": "تم حجز التذكرة بنجاح",
+	"TicketNo": "رقم",
+	"TicketNumber": "تذكرة رقم",
+	"Waiting": "في الانتظار",
+	"WrongCode": "رمز التحقق غير صالح",
+	"YouCanAlsoFind": "يمكنك أيضا العثور على",
+	"YouLate": "هل أنت متأخر؟",
+	"YouSentLateNotif": "لقد أرسلت إشعار تأخير",
+	"YourRank": "رتبتك",
+	"YourTurn1": "هذا هو",
+	"YourTurn2": "دورك",
+	"YourTurnIn": "دورك في",
+	"irreversible": "هذه المهمة لا رجوع فيها",
+	"Auth": {
+		"AcceptTerms": "أوافق على جميع شروط وأحكام الاستخدام.",
+		"AcceptTermsAndConditions": "أوافق على جميع الشروط والأحكام.",
+		"AlreadyHasCode": "لدي بالفعل رمز التحقق",
+		"AlreadyHaveResetCodeButton": "هل لديك  رمز إعادة تعيين؟",
+		"CodePlaceholder": "الشفرة",
+		"CreateAnAccount": "انشئ حساب",
+		"DoHaveAnAccount": "هل لديك حساب ؟",
+		"DontHaveAnAccount": "ليس لديك حساب؟",
+		"Email": "البريد الإلكتروني",
+		"EnterPhoneNumber": "أدخل رقم هاتف",
+		"ErrorTitle": "يرجى تصحيح الأخطاء التالية",
+		"FirstName": "الاسم الاول",
+		"ForgotPassword": "هل نسيت كلمة المرور؟",
+		"IncorrectCode": "الرمز غير صحيح. حاول مرة اخرى.",
+		"IncorrectFields": "بعض الحقول غير صحيحة. حاول مرة اخرى",
+		"IncorrectPhone": "رقم الهاتف غير صحيح. حاول مرة اخرى",
+		"LastName": "الكنية",
+		"Login": "تسجيل الدخول",
+		"LoginButton": "تسجيل الدخول",
+		"NoAccountMatches": "لا توجد مباريات مطابقة",
+		"Password": "كلمه السر",
+		"PasswordForgotGoToLoginText": "إذا كنت تتذكر كلمة السر الخاصة بك ، فيرجى النقر على زر تسجيل الدخول أدناه لنقلك إلى صفحة تسجيل الدخول.",
+		"PasswordForgotSubmitButton": "أرسل لي رمز إعادة تعيين",
+		"PasswordForgotText": "هل نسيت كلمة السر؟ أدخل عنوان بريدك الإلكتروني أدناه ، وسنرسل إليك رسالة بريد إلكتروني تتيح لك إعادة تعيينها.",
+		"PasswordForgotTitle": "هل نسيت كلمة السر",
+		"PhoneIsAlreadyUsed": "يستخدم بالفعل!",
+		"PleaseRegister": "الرجاء التسجيل",
+		"Register": "تسجيل",
+		"RegisterSubmit": "إرسال",
+		"RegisterSuccess": [
+			"تم التسجيل بنجاح",
+			"تهانينا ، لقد تم إنشاء حسابك ، وستتم الموافقة عليه قريبًا"
+		],
+		"RegisterTermsIntro": "شكرًا لك على اهتمامك بـ Liberrex ، قبل أن نتمكن من إنشاء حسابك ، نحتاج إلى التأكد من أنك قد قرأت وفهمت ووافقت على",
+		"RegisterTermsIntroAnd": "و",
+		"Remember": "تذكرنى؟",
+		"ResetPasswordCode": "رمز إعادة التعيين",
+		"ResetPasswordSubmitButton": "إعادة تعيين كلمة السر",
+		"ResetPasswordTitle": "إعادة تعيين كلمة السر",
+		"SendVerificationCode": "إرسال رمز التحقق",
+		"TermsAndConditions": "الأحكام والشروط",
+		"WelcomeBack": "أهلا بك"
+	},
+	"Billing": {
+		"AddBillingMethod": {
+			"AddCardButton": "أضف بطاقتك الائتمانية",
+			"Text": "يرجى ملاحظة أن نظام الدفع الخاص بنا يتم توفيره بواسطة Stripe.",
+			"Title": "إضافة طريقة دفع",
+			"ToastFail": "لا يمكن إضافة طريقة الدفع",
+			"ToastSuccess": "تمت إضافة طريقة الدفع بنجاح"
+		},
+		"BillingMethodLabel": "طريقة الدفع",
+		"BillingMethodPlaceholder": "اختر طريقة الدفع",
+		"BillingMethods": "طرق الدفع",
+		"Content": [
+			"يتم سرد جميع معلومات الفواتير الخاصة بك هنا مثل الفواتير وطرق الدفع وما إلى ذلك.",
+			"يتم سرد جميع الفواتير الخاصة بك في هذا القسم. يمكنك تنزيل فاتورتك بالنقر فوق الزر <strong>تنزيل</strong> ",
+			"يمكنك إدارة بطاقة (بطاقات) الائتمان الخاصة بك هنا في هذا القسم."
+		],
+		"DeleteBillingMethod": {
+			"Text": "هل تريد بالتأكيد حذف طريقة الفوترة التي تنتهي بـ {last4} ؟",
+			"Title": "حذف طريقة الفوترة",
+			"ToastFail": "لا يمكن حذف طريقة الفوترة",
+			"ToastSuccess": "تم حذف طريقة الفوترة"
+		},
+		"Download": "تحميل",
+		"EndingWith": "وتنتهي مع",
+		"Expires": "تنتهي",
+		"Invoices": "الفواتير",
+		"NoBillingMethodsAttached": "لا توجد طرق دفع مرتبطة بحسابك",
+		"UseNewBillingMethod": "استخدم طريقة دفع جديدة"
+	},
+	"Booking": {
+		"ActionsBookingsButton": "أفعال",
+		"Calendar": {
+			"Day": "يوم",
+			"List": "قائمة",
+			"Month": "شهر",
+			"More": "حجز",
+			"Today": "اليوم",
+			"Week": "أسبوع"
+		},
+		"CalendarMode": "وضع التقويم",
+		"Content": [
+			"قائمة الحجوزات التي تظهر على التقويم.",
+			"جميع طلبات الحجز الأخيرة مدرجة هنا."
+		],
+		"CreateBookingButton": "إنشاء",
+		"CreatePrompt": {
+			"BookingsAvailable": "المواعيد المتاحة",
+			"CancelButton": "إلغاء",
+			"ChooseTargetDepartment": "اختر القسم المستهدف",
+			"CreateNewCustomer": "إنشاء عميل جديد",
+			"CustomerLabel": "زبون",
+			"CustomerPlaceholder": "اختيار الزبون",
+			"DepartmentLabel": "القسم المستهدف",
+			"DurationLabel": "المدة الزمنية",
+			"DurationPlaceholder": "اختر مدة",
+			"ServiceLabel": "خدمات",
+			"ServicePlaceholder": "حدد خدمة واحدة أو أكثر",
+			"StartDate": "تاريخ",
+			"StartDateLabel": "تاريخ",
+			"SubmitButton": "إنشاء الحجز",
+			"TimeLabel": "التوقيت",
+			"TimePlaceholder": "حدد التوقيت",
+			"Title": "إنشاء حجز جديد",
+			"ToastFail": "لا يمكن إنشاء الحجز",
+			"ToastSuccess": "تم إنشاء الحجز",
+			"WithoutSlots": "بدون فترات زمنية محددة"
+		},
+		"DeletePrompt": {
+			"Text": "هل أنت متأكد أنك تريد حذف هذا الحجز؟",
+			"Title": "حذف الحجز",
+			"ToastFail": "لا يمكن تحديث الحجز",
+			"ToastSuccess": "تم تحديث الحجز"
+		},
+		"DepartmentAllOption": "جميع الإدارات",
+		"DepartmentFilterPlaceholder": "تصفية حسب القسم",
+		"EditPrompt": {
+			"BookButton": "الحجز",
+			"CancelButton": "إلغاء",
+			"DeleteButton": "حذف",
+			"RedirectButton": "طابور",
+			"SubmitButton": "تحديث",
+			"Title": "تحديث الحجز",
+			"ToastFail": "لا يمكن تحديث الحجز",
+			"ToastSuccess": "تم تحديث الحجز"
+		},
+		"ExportBookingsButton": "تحميل",
+		"ImportBookingsButton": "رفع",
+		"Prompt": {
+			"Content": "املأ جميع الحقول المطلوبة واضغط على زر <strong>\"إنشاء\"</strong>"
+		},
+		"QueuePrompt": {
+			"CancelButton": "إلغاء",
+			"SubmitButton": "تؤكد",
+			"Title": "إعادة التوجيه إلى قائمة الانتظار",
+			"ToastFail": "لا يمكن إعادة توجيه العميل",
+			"ToastSuccess": "تمت إعادة توجيه العميل إلى قائمة الانتظار"
+		},
+		"RecentRequestsEmpty": "ليس لديك أي طلبات معلقة في الوقت الحالي!",
+		"RecentRequestsTitle": "الطلبات الأخيرة",
+		"Services": "خدمات",
+		"TabMode": "وضع الجدول",
+		"Table": {
+			"Customer": "زبون",
+			"PhoneNumber": "رقم الهاتف",
+			"SentAt": "تم الاستلام",
+			"Services": "خدمات",
+			"StartDate": "التاريخ والوقت"
+		},
+		"UploadPrompt": {
+			"CancelButton": "إلغاء",
+			"FileLabel": "ملف (التنسيقات المقبولة: .CSV و. XSL و. XSLX)",
+			"NotifyCustomers": "إرسال إخطارات للعملاء",
+			"SubmitButton": "رفع",
+			"Title": "تحميل الحجوزات",
+			"ToastFail": "لا يمكن تحميل الحجوزات",
+			"ToastSuccess": "تم تحميل الحجوزات"
+		}
+	},
+	"Company": {
+		"Address": "عنوان",
+		"City": "مدينة",
+		"Close": "غلق",
+		"Content": [
+			"يمكن تحديث جميع الإعدادات المتعلقة بالأعمال من هنا.",
+			"هنا يمكنك العثور على المعلومات الأساسية حول العمل.",
+			"هنا يمكنك ضبط أيام العمل / ساعات العمل.",
+			"يمكنك هنا تعيين موقع النشاط التجاري عن طريق سحب العلامة وإفلاتها في أي مكان."
+		],
+		"Country": "بلد",
+		"EditBasic": {
+			"ToastFail": "لا يمكن تحديث المعلومات الأساسية",
+			"ToastSuccess": "تم تحديث المعلومات الأساسية بنجاح"
+		},
+		"EditLocation": {
+			"ToastFail": "لا يمكن تحديث الموقع",
+			"ToastSuccess": "تم تحديث الموقع"
+		},
+		"EditTranslations": {
+			"ToastFail": "لا يمكن تحديث الترجمات",
+			"ToastSuccess": "تم تحديث الترجمات"
+		},
+		"EditWorkingDays": {
+			"ToastFail": "لا يمكن تحديث أيام العمل",
+			"ToastSuccess": "تم تحديث أيام العمل بنجاح"
+		},
+		"Email": "البريد الإلكتروني",
+		"Industry": "الفئة",
+		"Logo": "شعار",
+		"Name": "اسم الشركة",
+		"Open": "يفتح في ",
+		"PhoneNumber": "رقم الهاتف",
+		"PostalCode": "الرمز البريدي",
+		"SmsSenderName": "اسم مرسل الرسائل القصيرة",
+		"Tabs": {
+			"BasicInformation": "معلومات اساسية",
+			"Location": "موقعك",
+			"Translation": "ترجمة",
+			"WorkingDays": "أيام العمل"
+		},
+		"UpdateButton": "حفظ التغييرات"
+	},
+	"Components": {
+		"Booking": {
+			"RequestItem": {
+				"Approve": {
+					"Text": "هل أنت متأكد من أنك تريد الموافقة على {name} ؟",
+					"Title": "يوافق",
+					"ToastFail": "لا يمكن الموافقة على الطلب",
+					"ToastSuccess": "تمت الموافقة على الطلب"
+				},
+				"Decline": {
+					"Text": "هل أنت متأكد أنك تريد الرفض {name} ؟",
+					"Title": "رفض",
+					"ToastFail": "لا يمكن رفض الطلب",
+					"ToastSuccess": "تم رفض الطلب"
+				},
+				"Department": "قسم",
+				"File": "ملف رقم:"
+			}
+		},
+		"Feedback": {
+			"Content": [
+				"نظرة عامة على التقيمات من قبل العملاء."
+			],
+			"Rating": "تقييم"
+		},
+		"Queue": {
+			"AddCustomerPrompt": {
+				"AddNewCustomerCheckboxText": "إضافة عميل جديد إلى قاعدة البيانات",
+				"CancelButton": "إلغاء",
+				"CustomerLabel": "زبون",
+				"CustomerPlaceholder": "اختيار الزبائن",
+				"MemberCheckboxLabel": "يجب على العميل انتظار عضو معين في الفريق لخدمته",
+				"MemberLabel": "عضو",
+				"MemberPlaceholder": "اختيار عضو الفريق",
+				"PushButton": "إضافة إلى قائمة الانتظار",
+				"ServicesLabel": "خدمات",
+				"ServicesPlaceholder": "اختر الخدمة",
+				"Title": "إضافة العميل ",
+				"ToastErrorMessage": "لا يمكن دفع العميل إلى قائمة الانتظار",
+				"ToastSuccessMessage": "دفع العملاء إلى قائمة الانتظار"
+			},
+			"AddDelayPrompt": {
+				"CancelButton": "إلغاء",
+				"NotificationMessage": "رسالة",
+				"NotifyCustomersCheckboxText": "إبلاغ العملاء",
+				"ResumeAtLabel": "استئناف الخدمة بعد (الساعات: الدقائق)",
+				"SubmitButton": "تؤكد",
+				"Title": "أضف التأخير",
+				"ToastErrorMessage": "لا يمكن إضافة تأخير إلى قائمة الانتظار",
+				"ToastSuccessMessage": "تمت إضافة التأخير بنجاح"
+			},
+			"QueueItem": {
+				"DeleteConfirm": {
+					"ConfirmText": "هل أنت متأكد أنك تريد حذف {name} ؟",
+					"Error": "لا يمكن حذف قائمة الانتظار",
+					"Successful": "تم حذف قائمة الانتظار",
+					"Title": "حذف"
+				},
+				"PendingRequests": "لديك {total} طلب معلق | لديك {total} طلبات معلقة",
+				"WaitingInLine": "الانتظار في الطابور",
+				"WaitingTime": "وقت الانتظار"
+			},
+			"RequestItem": {
+				"Approve": {
+					"Text": "هل أنت متأكد من أنك تريد الموافقة على {name} ؟",
+					"Title": "يوافق",
+					"ToastFail": "لا يمكن الموافقة على الطلب",
+					"ToastSuccess": "تمت الموافقة على الطلب"
+				},
+				"Decline": {
+					"Text": "هل أنت متأكد أنك تريد الرفض {name} ؟",
+					"Title": "رفض",
+					"ToastFail": "لا يمكن رفض الطلب",
+					"ToastSuccess": "تم رفض الطلب"
+				}
+			},
+			"TicketItem": {
+				"AccountDetailsPrompt": {
+					"ContinueAnonymously": "تواصل بدون تفاصيل الحساب",
+					"Email": "البريد الإلكتروني",
+					"FirstName": "الاسم الاول",
+					"LastName": "الكنية",
+					"LoginTitle": "تسجيل الدخول لإضافة تفاصيل حسابك",
+					"SubmitButton": "تؤكد",
+					"Title": "أضف تفاصيل الحساب"
+				},
+				"Alerts": {
+					"Call": {
+						"Header": "يرجى الانتظار للحصول على التعليمات ..",
+						"Text": "يرجى الاستعداد ، حيث سيتم الاتصال بك قريبًا للحصول على الخدمة.",
+						"TextBold": "يرجى الانتظار لمزيد من التعليمات من مزود الخدمة الخاص بك.",
+						"Title": "إنه دورك!"
+					},
+					"Delay": {
+						"Header": "قائمة الانتظار تتقدم ببطء ..",
+						"Text": "قد يؤثر هذا على وقت الانتظار المقدر ، وسنبقيك على اطلاع دائم.",
+						"TextBold": "لقد لاحظنا أن قائمة الانتظار تتحرك ببطء.",
+						"Title": "تم اكتشاف التأخير!"
+					}
+				},
+				"Anonymous": "مجهول",
+				"CancelTicket": "الغاء التذكرة",
+				"CheckInTime": "وصل في",
+				"Delete": {
+					"Text": "هل أنت متأكد أنك تريد حذف هذه التذكرة؟",
+					"Title": "حذف التذكرة",
+					"ToastFail": "لا يمكن حذف التذكرة",
+					"ToastSuccess": "تم حذف التذكرة"
+				},
+				"EstimatedServiceTime": "يقدر وقت الخدمة",
+				"EstimatedWaitingTime": "وقت الانتظار المقدر",
+				"FeedbackSubmitButton": "إرسال",
+				"FeedbackTextPlaceholder": "أخبرنا عن رأيك ..",
+				"Late": {
+					"Text": "يرجى ملاحظة أن مزود الخدمة قد يقوم بتحديث رتبتك أو إلغاء تذكرتك.",
+					"Title": "هل تعمل في وقت متأخر؟"
+				},
+				"NoShow": {
+					"Text": "هل أنت متأكد من رغبتك في وضع علامة على هذا العميل كحظر؟",
+					"Title": "وضع علامة  عدم الحضور",
+					"ToastFail": "لا يمكن وضع علامة على العميل على أنه \"عدم الحضور\"",
+					"ToastSuccess": "تم وضع علامة العميل على عدم الحضور"
+				},
+				"PleaseShareFeedback": "يرجى مشاركة ملاحظاتك معنا",
+				"PushBack": {
+					"Text": "هل تريد بالتأكيد دفع هذا العميل إلى قائمة الانتظار؟",
+					"Title": "إدفع إلى الخلف",
+					"ToastFail": "لا يمكن دفع الزبون",
+					"ToastSuccess": "دفع العملاء إلى الوراء"
+				},
+				"Rank": "مرتبة",
+				"RatingError": {
+					"Text": "يجب أن يكون التقييم بين 1-5 نجوم",
+					"Title": "تحذير التصنيف"
+				},
+				"Redirect": {
+					"ToastFail": "لا يمكن إعادة توجيه العميل",
+					"ToastSuccess": "إعادة توجيه العميل"
+				},
+				"RunningLate": "انا متاخر",
+				"ServiceTime": "وقت الخدمة",
+				"SwapCustomers": {
+					"Text": "هل أنت متأكد من أنك تريد تبديل العملاء المحددين؟",
+					"Title": "مبادلة العملاء",
+					"ToastFail": "لا يمكن مبادلة العملاء",
+					"ToastSuccess": "تبادل العملاء"
+				},
+				"ThanksForVisiting": "شكرا لزيارتكم يوم {date}",
+				"TicketNumber": "رقم التذكرة",
+				"WaitingTime": "وقت الانتظار"
+			},
+			"TicketPopup": {
+				"Actions": {
+					"AddNotes": "اضف ملاحظة",
+					"Delete": "حذف",
+					"Label": "اختيار إجراء",
+					"NoShow": "وضع علامة على عدم الحضور",
+					"Placeholder": "أفعال",
+					"PushBack": "إدفع إلى الخلف",
+					"Redirect": "إعادة توجيه",
+					"SubmitButton": "تؤكد",
+					"Swap": "مبادلة، مقايضة",
+					"UpdateMember": "تحديث عضو الفريق",
+					"UrgentSwitch": "هذه التذكرة عاجلة"
+				},
+				"KeepSameTicket": "احتفظ بنفس التذكرة",
+				"PushBackButton": "إدفع إلى الخلف",
+				"RedirectButton": "إعادة توجيه",
+				"RedirectTargetQueueLabel": "قائمة انتظار الوجهة",
+				"RedirectTargetQueuePlaceholder": "حدد قائمة الانتظار",
+				"RedirectTitle": "إعادة توجيه العملاء",
+				"RequestedMember": "عضو الفريق المختار",
+				"RevokeButton": "حذف",
+				"SwapLabel": "اختيار عميل لمبادلة رتبة مع",
+				"SwapPlaceholder": "اختيار العملاء",
+				"Title": "تذكرة"
+			}
+		},
+		"Statistics": {
+			"Content": [
+				"نظرة عامة على إحصاءات الموقع."
+			]
+		},
+		"Widgets": {
+			"BookingRequests": {
+				"Empty": "لم ترد طلبات الحجز بعد!"
+			},
+			"BookingSummary": {
+				"Confirmed": "تم تأكيد الحجز (الحجوزات) لهذا اليوم",
+				"MoreDetails": "عرض المزيد من التفاصيل",
+				"Pending": "طلبات",
+				"ThisMonth": "هذا الشهر",
+				"ThisWeek": "هذا الاسبوع"
+			},
+			"FeedbackSummary": {
+				"Star": "نجمة",
+				"Total": "مجموع",
+				"TotalText": "لقد قدمت {total} مراجعة العملاء | لقد أرسلت {total} مراجعات العملاء"
+			},
+			"QueueSummary": {
+				"Active": "قائمة (قوائم) الانتظار النشطة",
+				"InService": "في الخدمة",
+				"MoreDetails": "عرض المزيد من التفاصيل",
+				"Pending": "طلبات",
+				"Queued": "الانتظار في الطابور"
+			}
+		}
+	},
+	"Copyright": "حقوق النشر © 2020 - LIBERREX LTD",
+	"Customer": {
+		"ActionsBookingsButton": "أفعال",
+		"AddCustomerButton": "إضافة العملاء",
+		"AddCustomerPrompt": {
+			"CancelButton": "إلغاء",
+			"ConfirmButton": "إضافة",
+			"Title": "إضافة العملاء",
+			"ToastFailMessage": "لا يمكن إنشاء عميل",
+			"ToastSuccessMessage": "خلق العملاء"
+		},
+		"Content": [
+			"انقر هنا لفتح نموذج إضافة <strong>عميل</strong> !",
+			"يمكنك تعديل تفاصيل العميل<br>من خلال النقر على هذا الزر"
+		],
+		"CustomerBookPrompt": {
+			"CancelButton": "إلغاء",
+			"ConfirmButton": "تحديث",
+			"Title": "فئة العملاء",
+			"ToastFailMessage": "لا يمكن تحديث فئة العملاء",
+			"ToastSuccessMessage": "تم تحديث فئة العميل"
+		},
+		"DateOfBirth": "تاريخ الولادة",
+		"DeleteCustomerPrompt": {
+			"Text": "هل أنت متأكد أنك تريد حذف {name} ؟",
+			"Title": "حذف العملاء",
+			"ToastFailMessage": "لا يمكن حذف العميل",
+			"ToastSuccessMessage": "تم حذف العميل"
+		},
+		"EditCustomerPrompt": {
+			"CancelButton": "إلغاء",
+			"ConfirmButton": "حفظ",
+			"Title": "تحرير العملاء",
+			"ToastFailMessage": "لا يمكن تحديث العميل",
+			"ToastSuccessMessage": "تحديث العملاء"
+		},
+		"Email": "البريد الإلكتروني",
+		"ExportBookingsButton": "تصدير",
+		"FirstName": "الاسم الاول",
+		"ImportBookingsButton": "رفع",
+		"InternalId": "الهوية الداخلية",
+		"InternalIdHint": "يمكن أن يمثل الرقم الداخلي رقم ملف طبي",
+		"LastName": "الكنية",
+		"LiberrexId": "Liberrex ID",
+		"LiberrexIdHint": "يمكن تقديم معرف Liberrex بواسطة العميل أو اكتشافه تلقائيًا بواسطة النظام",
+		"Notes": "ملاحظات",
+		"NotesHint": "يتم مشاركة الملاحظات عبر المؤسسة",
+		"PhoneNumber": "رقم الهاتف",
+		"Prompt": {
+			"Content": "Fill all required fields and press <strong>\"Add\"</strong>button"
+		},
+		"Table": {
+			"Book": "الفئة",
+			"BookBasic": "الأساسي",
+			"BookBlackList": "القائمة السوداء",
+			"BookVip": "كبار الشخصيات",
+			"CreatedAt": "أنشئت في",
+			"LiberrexVerification": "حساب Liberrex",
+			"LiberrexVerificationFail": "فشل",
+			"LiberrexVerificationSuccess": "التحقق",
+			"Options": "خيارات",
+			"Phone": "رقم الهاتف",
+			"UserInfo": "معلومات المستخدم"
+		},
+		"UploadPrompt": {
+			"CancelButton": "إلغاء",
+			"FileLabel": "ملف (التنسيقات المقبولة: .CSV و. XSL و. XSLX)",
+			"SubmitButton": "رفع",
+			"Title": "تحميل العملاء",
+			"ToastFail": "لا يمكن تحميل العملاء",
+			"ToastSuccess": "تم تحميل العملاء"
+		}
+	},
+	"Dashboard": {
+		"Content": [
+			"انقر هنا لفتح قائمة ملف تعريف المستخدم.",
+			"يمكنك تغيير لغة الموقع عن طريق اختيار أي لغة من محدد اللغة هذا",
+			"يتم عرض جميع الإخطارات هنا."
+		],
+		"OnBoarding": {
+			"LaterButton": "إعداد في وقت لاحق",
+			"QuickSetupText": "سنرشدك من خلال إعداد حساب سريع لمساعدتك في البدء مع ليبرأكس في بضع ثوانٍ.",
+			"QuickSetupTitle": "الإعداد السريع للحساب",
+			"SetupButton": "لنقم بإعداد حسابك",
+			"Text": "شكرًا لاختيار ليبرأكس لإدارة تدفق العملاء",
+			"Title": "مرحبًا بكم في ليبرأكس!"
+		},
+		"ServiceConsumption": {
+			"Title": "استهلاك الخدمة"
+		},
+		"VisitFrequency": {
+			"Title": "تردد زيارة العملاء"
+		}
+	},
+	"Days": {
+		"Friday": "الجمعة",
+		"Monday": "الإثنين",
+		"Saturday": "السبت",
+		"Sunday": "الأحد",
+		"Thursday": "الخميس",
+		"Tuesday": "الثلاثاء",
+		"Wednesday": "الأربعاء"
+	},
+	"Department": {
+		"AddDepartmentButton": "إضافة قسم",
+		"AddDepartmentPrompt": {
+			"CancelButton": "إلغاء",
+			"SubmitButton": "خلق",
+			"Title": "إضافة قسم",
+			"ToastFail": "لا يمكن إنشاء قسم",
+			"ToastSuccess": "تم إنشاء القسم"
+		},
+		"Color": "اللون",
+		"Content": [
+			"انقر هنا لفتح نموذج إضافة <strong>قسم</strong> !",
+			"يمكنك تعديل تفاصيل القسم<br>بالنقر فوق هذا الزر"
+		],
+		"CreatedAt": "أنشئت في",
+		"DeleteDepartmentPrompt": {
+			"Text": "هل أنت متأكد أنك تريد حذف {name}؟",
+			"Title": "حذف القسم",
+			"ToastFail": "لا يمكن حذف القسم",
+			"ToastSuccess": "تم حذف القسم"
+		},
+		"EditDepartmentPrompt": {
+			"CancelButton": "إلغاء",
+			"SubmitButton": "حفظ",
+			"Title": "قسم التحرير",
+			"ToastFail": "لا يمكن تحديث القسم",
+			"ToastSuccess": "تم تحديث القسم"
+		},
+		"MaxDailyBookings": "الحد الأقصى للحجوزات اليومية",
+		"Name": "اسم القسم",
+		"Options": "خيارات",
+		"TranslationPrompt": {
+			"CancelButton": "إلغاء",
+			"SubmitButton": "حفظ",
+			"Title": "قسم الترجمة",
+			"ToastFail": "لا يمكن حفظ الترجمات",
+			"ToastSuccess": "تم حفظ الترجمات"
+		}
+	},
+	"Display": {
+		"AddDisplayButton": "إنشاء العرض",
+		"AddDisplayPrompt": {
+			"CancelButton": "إلغاء",
+			"CollectCustomerDetails": "تشغيل الإعلانات",
+			"IpAddress": "عنوان IP",
+			"Language": "لغة",
+			"MacAddress": "عنوان ماك",
+			"Name": "اسم العرض",
+			"Photo": "صورة عنصر نائب (اختياري)",
+			"Queues": "طوابير",
+			"Status": "الحالة",
+			"StatusActive": "نشيط",
+			"StatusInactive": "غير نشط",
+			"SubmitButton": "خلق",
+			"Theme": "موضوع",
+			"Title": "إنشاء العرض",
+			"ToastFail": "لا يمكن إنشاء العرض",
+			"ToastSuccess": "تم إنشاء العرض",
+			"VideoLink": "رابط فيديو يوتيوب"
+		},
+		"Content": [
+			"انقر هنا لفتح نموذج إضافة <strong>عرض</strong> !",
+			"يمكنك تحرير تفاصيل العرض<br>بالنقر فوق هذا الزر"
+		],
+		"DeleteKioskPrompt": {
+			"Text": "هل أنت متأكد أنك تريد حذف {name}؟",
+			"Title": "حذف العرض",
+			"ToastFail": "لا يمكن حذف العرض",
+			"ToastSuccess": "تم حذف العرض"
+		},
+		"EditKioskPrompt": {
+			"CancelButton": "إلغاء",
+			"PhotoUploaded": "انقر هنا لرؤية صورة العنصر النائب المرفق",
+			"PhotoUploadedDelete": "حذف صورة العنصر النائب",
+			"SubmitButton": "تحديث",
+			"Title": "تحرير العرض",
+			"ToastFail": "لا يمكن تحديث العرض",
+			"ToastSuccess": "تم تحديث العرض"
+		},
+		"ResetSecretPrompt": {
+			"Text": "هل تريد بالتأكيد إعادة تعيين الكود السري لـ {name}؟",
+			"Title": "إعادة تعيين سر العرض",
+			"ToastFail": "لا يمكن إعادة تعيين سر العرض",
+			"ToastSuccess": "عرض إعادة تعيين السر"
+		},
+		"ShowSecretPrompt": {
+			"CancelButton": "قريب",
+			"Key": "مفتاح",
+			"Secret": "سر",
+			"SecretSave": "هذه هي الفرصة الوحيدة لرؤية مفتاح كشك. يرجى التأكد من حفظه في مكان آمن.",
+			"Text": "تجد أدناه بيانات اعتماد تسجيل الدخول للكشك الذي أنشأته للتو:",
+			"Title": "كشك مفتاح وسرية",
+			"ToastFail": "لا يمكن حذف كشك",
+			"ToastSuccess": "تم حذف كشك",
+			"Token": "رمز المصادقة التلقائي",
+			"TokenSave": "هذه هي الفرصة الوحيدة لرؤية رمز Kiosk المميز. يرجى التأكد من حفظه في مكان آمن."
+		},
+		"Table": {
+			"CreatedAt": "أنشئت في",
+			"Key": "مفتاح",
+			"Name": "اسم",
+			"Options": "خيارات",
+			"Queues": "طوابير",
+			"Status": "الحالة"
+		}
+	},
+	"Errors": {
+		"EmailDoesNotExist": "البريد الإلكتروني لا يطابق سجلاتنا",
+		"Invalid": "{field} غير صالح",
+		"InvalidEmailOrUsed": "البريد الإلكتروني غير صالح أو يستخدمه حساب آخر",
+		"InvalidFilePolite": "يرجى إرفاق صالح {field}",
+		"InvalidPassword": "الرقم السري يجب الا يقل عن 6 احرف على الاقل",
+		"InvalidPolite": "الرجاء إدخال صالح {field}",
+		"InvalidSelectPolite": "يرجى تحديد {field}صالح",
+		"LoginFail": "البريد الإلكتروني وكلمة المرور لا يتطابقان مع سجلاتنا",
+		"PasswordConfirmDoNotMatch": "تأكيد كلمة المرور غير متطابق",
+		"PasswordResetFail": "البريد الإلكتروني ورمز إعادة التعيين غير متطابقين",
+		"RegisterTermsFail": "يجب عليك قبول البنود والشروط!",
+		"Required": "{field} مطلوب"
+	},
+	"GeneralSettings": {
+		"BusinessAccount": {
+			"DeleteAccount": "حذف الحساب",
+			"DeleteHistory": "حذف التاريخ",
+			"IsPublished": "تم نشر الأعمال وإتاحتها على أنظمة Liberrex للمستخدمين للبحث وحجز ومشاركة الملاحظات.",
+			"SaveButton": "حفظ",
+			"Title": "حساب الأعمال"
+		},
+		"Content": [
+			"يمكن إدارة إعدادات البيانات والخصوصية من هنا.",
+			"يمكن إدارة إعدادات حساب العمل من هنا."
+		],
+		"DataAndPrivacy": {
+			"DeleteHistoryDaily": "احذف جميع محفوظات البيانات كل 24 ساعة ولا تحتفظ بأي سجلات لنشاط الأعمال.",
+			"ShareData": "مشاركة بيانات نشاط الأعمال مع خدمات الجهات الخارجية من أجل زيادة كفاءة الخوارزمية ودقتها.",
+			"ShareWaitingTime": "مشاركة وقت الانتظار وحجز فتحات مع المستخدمين العموميين",
+			"Title": "خصوصية البيانات"
+		},
+		"DeleteAccountPrompt": {
+			"Text": "هل أنت متأكد أنك تريد حذف حسابك التجاري؟ يرجى ملاحظة أنه سيتم حذف جميع البيانات المرتبطة بهذا الحساب ولن تتمكن من استعادتها في المستقبل. إذا كان هذا قرارًا صعبًا ، فيمكنك ببساطة إلغاء نشر عملك حتى تتخذ قرارًا نهائيًا",
+			"Title": "حذف الحساب",
+			"ToastFail": "لا يمكن حذف الحساب",
+			"ToastSuccess": "تم حذف الحساب"
+		},
+		"DeleteHistoryPrompt": {
+			"Text": "هل تريد بالتأكيد حذف جميع بيانات الأنشطة المرتبطة بحساب عملك؟",
+			"Title": "حذف التاريخ",
+			"ToastFail": "لا يمكن حذف السجل",
+			"ToastSuccess": "تم حذف التاريخ"
+		},
+		"MyLiberrex": {
+			"AnonymousFeedback": "إخفاء اسم العميل في الملاحظات",
+			"BookingAllowAttachments": "يمكن للعملاء إرسال المرفقات مع طلبات الحجز.",
+			"BookingAllowed": "يسمح للعملاء بحجز المواعيد.",
+			"BookingRequireAttachments": "تتطلب الحجوزات وجود مرفقات",
+			"BookingSelectDate": "يمكن للعملاء تحديد التواريخ المتاحة.",
+			"BookingSelectDepartment": "تتطلب الحجوزات اختيار القسم.",
+			"BookingSelectSlot": "يمكن للعملاء اختيار الفتحات المتاحة.",
+			"FeedbackView": "إخفاء التعليقات",
+			"QueueAllowed": "يُسمح للعملاء بالانضمام إلى قوائم الانتظار.",
+			"QueueOnlyBooked": "يمكن للعملاء الانضمام إلى قوائم الانتظار فقط إذا كان لديهم حجز مؤكد في نفس اليوم.",
+			"QueueRequirePayment": "يجب على العملاء دفع الرسوم قبل التمكن من الانضمام إلى قوائم الانتظار.",
+			"SaveButton": "حفظ",
+			"Title": "ليبركس"
+		},
+		"Notifications": {
+			"Email": "اشعارات البريد الالكتروني",
+			"Push": "دفع الإخطارات",
+			"SMS": "إشعارات الرسائل القصيرة",
+			"Title": "إخطارات"
+		}
+	},
+	"Help": {
+		"MembershipButton": "الترقية إلى LIBERUP",
+		"MembershipText": "استنادًا إلى بياناتك التاريخية ، توصي منظمة العفو الدولية بحزمة LIBERUP لأعمالك.",
+		"MembershipTitle": "عضوية",
+		"NeedHelp": "تحتاج مساعدة؟",
+		"TechnicalProblemText": "إذا كنت تواجه أي مشكلة فنية ، فيرجى إرسال لقطات شاشة إلى support@liberrex.com أو الاتصال بنا على +44 (0) 7802-40-5359 للحصول على مساعدة عاجلة.",
+		"TechnicalProblemTitle": "مشكلة فنية",
+		"UserGuideLinkText": "دليل المستخدم - فيديو",
+		"UserGuideText": "هل أنت جديد على Liberrex ولا تعرف حتى الآن كيفية استخدام النظام الأساسي؟ لا داعي للذعر ، لقد أعددنا\n        الوثائق ومقاطع الفيديو الخاصة بك التي سوف ترشدك من خلال جميع الميزات وإعدادات الحساب. يرجى النقر على الرابط التالي للذهاب على قناة يوتيوب لدينا.",
+		"UserGuideTitle": "دليل المستخدم"
+	},
+	"Kiosk": {
+		"AddKioskButton": "إنشاء كشك",
+		"AddKioskPrompt": {
+			"CancelButton": "إلغاء",
+			"CollectCustomerDetails": "جمع تفاصيل العملاء",
+			"IpAddress": "اقتصر على عنوان IP",
+			"MacAddress": "اقتصر على عنوان Mac",
+			"Name": "اسم كشك",
+			"Photo": "صورة عنصر نائب (اختياري)",
+			"Queues": "طوابير",
+			"RequireInternalId": "يتطلب معرف داخلي",
+			"ShouldPrint": "يجب طباعة التذكرة",
+			"ShowKeyboard": "إظهار لوحة المفاتيح الافتراضية",
+			"Status": "الحالة",
+			"StatusActive": "نشيط",
+			"StatusInactive": "غير نشط",
+			"SubmitButton": "خلق",
+			"Theme": "موضوع",
+			"Title": "إنشاء كشك",
+			"ToastFail": "لا يمكن إنشاء كشك",
+			"ToastSuccess": "تم إنشاء كشك"
+		},
+		"App": {
+			"AllDone": "كله تمام! لقد انضممت إلى قائمة الانتظار",
+			"AlmostDone": "نحن على وشك الإنتهاء",
+			"CancelButton": "إلغاء",
+			"CheckinTitle": "تحقق في",
+			"ChooseWaitingList": "يرجى اختيار قائمة الانتظار.",
+			"ConfirmButton": "تؤكد",
+			"ContinueButton": "استمر",
+			"EmailPlaceholder": "البريد الإلكتروني اختياري)",
+			"EnterPhone": "يرجى إدخال رقم الهاتف الخاص بك",
+			"FirstNamePlaceholder": "الاسم الاول",
+			"FullName": "الاسم الكامل",
+			"Hello": "مرحبا،",
+			"HelloCustomer": "مرحبًا ، {customer}",
+			"Key": "مفتاح",
+			"LastNamePlaceholder": "الكنية",
+			"Login": "كشك تسجيل الدخول",
+			"LoginButton": "تسجيل الدخول",
+			"LogoutButton": "الخروج",
+			"MoreDetailsText": "نحن بحاجة إلى مزيد من المعلومات عنك",
+			"PhoneNumber": "رقم الهاتف",
+			"PhoneNumberPlaceholder": "+216 __ ___ ___",
+			"PushError": "غير قادر على الانضمام إلى قائمة الانتظار المطلوبة ، قد تكون في انتظار بالفعل في قائمة الانتظار!",
+			"QueuesVerify": "تحتاج إلى اختيار قائمة الانتظار",
+			"ReturnButton": "إرجاع",
+			"Secret": "سر",
+			"SelectEmployee": "هل ترغب في خدمتك من قبل عضو معين لدينا فريق؟ إذا كانت الإجابة بنعم ، يرجى تحديد نقرة واحدة وإلا انقر على \"متابعة\"",
+			"SelectServices": "يرجى اختيار الخدمة (الخدمات) المطلوبة",
+			"SelectedMember": "عضو الفريق المختار",
+			"SelectedServices": "الخدمة (الخدمات) المختارة",
+			"ServicesVerify": "تحتاج إلى اختيار خدمة واحدة على الأقل",
+			"StartAgainButton": "إبدأ من جديد",
+			"TicketSentText": "لقد أرسلنا تذكرة رقمية إلى رقم هاتفك ، يرجى استخدامها لتتبع تقدم موقعك في قائمة الانتظار في الوقت الفعلي.",
+			"VerifyData": "يرجى التحقق من رفع الصوت عاليا البيانات وانقر على تأكيد",
+			"WaitingList": "قائمة الانتظار"
+		},
+		"Content": [
+			"انقر هنا لفتح نموذج إضافة <strong>أكشاك</strong> !",
+			"يمكنك تعديل تفاصيل الأكشاك<br>من خلال النقر على هذا الزر"
+		],
+		"DeleteKioskPrompt": {
+			"Text": "هل أنت متأكد أنك تريد حذف {name}؟",
+			"Title": "حذف كشك",
+			"ToastFail": "لا يمكن حذف كشك",
+			"ToastSuccess": "تم حذف كشك"
+		},
+		"EditKioskPrompt": {
+			"CancelButton": "إلغاء",
+			"PhotoUploaded": "انقر هنا لرؤية صورة العنصر النائب المرفق",
+			"PhotoUploadedDelete": "حذف صورة العنصر النائب",
+			"SubmitButton": "تحديث",
+			"Title": "تحرير كشك",
+			"ToastFail": "لا يمكن تحديث كشك",
+			"ToastSuccess": "كشك المحدثة"
+		},
+		"ResetSecretPrompt": {
+			"Text": "هل تريد بالتأكيد إعادة تعيين الكود السري لـ {name}؟",
+			"Title": "إعادة تعيين كشك سر",
+			"ToastFail": "لا يمكن إعادة ضبط سر الكشك",
+			"ToastSuccess": "إعادة تعيين كشك السري"
+		},
+		"ShowSecretPrompt": {
+			"CancelButton": "قريب",
+			"IpAddress": "اقتصر على عنوان IP",
+			"Key": "مفتاح",
+			"MacAddress": "اقتصر على عنوان Mac",
+			"Secret": "سر",
+			"SecretSave": "هذه هي الفرصة الوحيدة لرؤية مفتاح كشك. يرجى التأكد من حفظه في مكان آمن.",
+			"Text": "تجد أدناه بيانات اعتماد تسجيل الدخول للكشك الذي أنشأته للتو:",
+			"Title": "شاشة العرض - تسجيل الدخول",
+			"ToastFail": "لا يمكن حذف كشك",
+			"ToastSuccess": "تم حذف كشك",
+			"Token": "رمز المصادقة التلقائي",
+			"TokenSave": "هذه هي الفرصة الوحيدة لرؤية رمز Kiosk المميز. يرجى التأكد من حفظه في مكان آمن."
+		},
+		"Table": {
+			"CreatedAt": "أنشئت في",
+			"Key": "مفتاح",
+			"Name": "اسم",
+			"Options": "خيارات",
+			"Queues": "طوابير",
+			"Status": "الحالة"
+		},
+		"Ticket": {
+			"Rank": "زبائن في الإنتظار",
+			"ScanQR": "يرجى مسح رمز الاستجابة السريعة أعلاه لتتبع تذكرتك عبر الإنترنت",
+			"Services": "خدمات",
+			"ThankYou": "شكرا لزيارتكم اليوم",
+			"WaitingTime": "وقت الانتظار",
+			"Welcome": "مرحباً بك في "
+		}
+	},
+	"Languages": {
+		"ar": "العربىة",
+		"de": "ألمانية",
+		"en": "الإنجليزية",
+		"es": "الأسبانية",
+		"fr": "الفرنسية",
+		"pt": "البرتغالية",
+		"ru": "الروسية"
+	},
+	"Membership": {
+		"ApplyCouponButton": "تطبيق",
+		"Content": [
+			"قائمة العضوية المتاحة على Liberrex.",
+			"يمكنك الاشتراك في عضوية عن طريق النقر فوق الزر <strong>\"اشتراك\"</strong>"
+		],
+		"Coupon": "كوبون",
+		"CustomerDatabase": "قاعدة بيانات العملاء (CRM)",
+		"CustomerFlowManagement": "إدارة تدفق العملاء",
+		"DigitalSignage": "الإشارات الرقمية",
+		"ExcludeVat": "غير شامل. ضريبة",
+		"Forever": "إلى الأبد",
+		"Free": "حر",
+		"Month": "شهر",
+		"Monthly": "شهريا",
+		"OnlineCustomerRequests": "طلبات العملاء عبر الإنترنت",
+		"PaymentPopup": {
+			"Fail": {
+				"Message": "فشل دفع العضوية",
+				"Text": "آسف",
+				"Title": "فشل الدفع"
+			},
+			"Success": {
+				"Message": "تم دفع العضوية بنجاح",
+				"Text": "شكرا لكم",
+				"Title": "تم الدفع بنجاح"
+			}
+		},
+		"RealTimeStatistics": "الاحصائيات في الوقت الحقيقي",
+		"SelfCheckinTerminal": "تحقق في محطة",
+		"SubTotal": "المجموع الفرعي",
+		"SubscribeButton": "الاشتراك",
+		"SubscribePrompt": {
+			"CancelButton": "إلغاء",
+			"PayButton": "دفع",
+			"SubmitButton": "الاشتراك",
+			"Title": "الاشتراك",
+			"ToastFail": "لا يمكن تحديث العضوية",
+			"ToastSuccess": "تم تحديث العضوية"
+		},
+		"Total": "مجموع",
+		"Transaction": "عملية تجارية",
+		"TrialDaysLeft": "{days} يوم (أيام) و {hours} ساعة (ساعات)",
+		"TrialDaysText": "أنت في فترة تجريبية ستنتهي صلاحيتها في",
+		"TrialFeatures": "لديك حق الوصول الكامل إلى جميع الميزات ولكن تقتصر على ما مجموعه 200 SMS",
+		"TrialTitle": "الفترة التجريبية",
+		"VAT": "ضريبة",
+		"Year": "عام",
+		"Yearly": "سنوي",
+		"YouAreSubscribedToFree": "أنت مشترك في {package} مجانًا",
+		"YouAreSubscribedToPackage": "أنت مشترك في {package} ضمن خطة {plan} "
+	},
+	"Menu": {
+		"Bookings": {
+			"Bookings": "حجوزات",
+			"Calendar": "التقويم",
+			"Request": "طلب",
+			"Table": "الطاولة"
+		},
+		"Coupons": "كوبونات وعروض",
+		"Customers": "الزبائن",
+		"Dashboard": "لوحة القيادة",
+		"Displays": "شاشة عرض",
+		"EditQueue": "تحرير قائمة الانتظار",
+		"Feedback": "ردود الفعل",
+		"Kiosks": "أكشاك",
+		"NewQueue": "قائمة انتظار جديدة",
+		"Profile": "الملف الشخصي",
+		"QueueArchive": "أرشيف قائمة الانتظار",
+		"Queues": "قوائم الانتظار",
+		"Settings": "الإعدادات",
+		"SettingsBilling": "الفواتير",
+		"SettingsBusiness": "معلومات",
+		"SettingsDepartments": "الإدارات",
+		"SettingsGeneral": "جنرال لواء",
+		"SettingsMembership": "عضوية",
+		"SettingsPayment": "المدفوعات",
+		"SettingsRuleCreate": "إنشاء قاعدة",
+		"SettingsRuleEdit": "تحرير القاعدة",
+		"SettingsRules": "قواعد",
+		"SettingsServices": "خدمات",
+		"SettingsSms": "معاملات الرسائل القصيرة",
+		"SettingsTeam": "الفريق",
+		"Statistics": "الإحصاء",
+		"WaitingList": "قائمة الانتظار"
+	},
+	"Navbar": {
+		"Logout": "الخروج",
+		"MyProfile": "ملفي"
+	},
+	"Navigation": {
+		"Next": "التالى",
+		"Previous": "سابق"
+	},
+	"Notifications": {
+		"Backend": {
+			"queue_request": "طلب انضمام قائمة انتظار جديدة"
+		},
+		"Pusher": {
+			"Booking": {
+				"Created": {
+					"Text": "حجز شخص موعد",
+					"Title": "الحجز الجديد"
+				},
+				"Deleted": {
+					"Text": "شخص ألغى حجزه",
+					"Title": "تم الغاء الحجز"
+				}
+			},
+			"BookingRequest": {
+				"Created": {
+					"Text": "شخص ما يريد حجز موعد",
+					"Title": "طلب الحجز الجديد"
+				},
+				"Deleted": {
+					"Text": "قام شخص ما بإلغاء طلبه لحجز موعد",
+					"Title": "تم إلغاء طلب الحجز"
+				}
+			},
+			"QueueRequest": {
+				"Created": {
+					"Text": "شخص ما يريد الانضمام إلى قائمة الانتظار",
+					"Title": "طلب قائمة انتظار جديدة"
+				},
+				"Deleted": {
+					"Text": "ألغى شخص طلبه للانضمام إلى قائمة الانتظار",
+					"Title": "تم إلغاء طلب قائمة الانتظار"
+				}
+			},
+			"Ticket": {
+				"Created": {
+					"Text": "انضم شخص ما إلى قائمة الانتظار",
+					"Title": "تذكرة جديدة"
+				},
+				"Deleted": {
+					"Text": "شخص ما ترك قائمة الانتظار",
+					"Title": "تم إلغاء التذكرة"
+				}
+			}
+		},
+		"SeeAll": "تحقق من كل الإخطارات"
+	},
+	"Payments": {
+		"Tabs": {
+			"PaymentsList": "المدفوعات",
+			"Settings": "الإعدادات"
+		}
+	},
+	"Privacy": "سياسة خاصة",
+	"Profile": {
+		"CurrentPassword": "كلمة المرور الحالي",
+		"DeleteAccount": {
+			"Text": "هل انت متأكد انك تريد حذف حسابك؟",
+			"Title": "حذف الحساب",
+			"ToastFail": "لا يمكن حذف الحساب",
+			"ToastSuccess": "تم حذف الحساب"
+		},
+		"DeleteAccountButton": "حذف الحساب",
+		"Department": "قسم",
+		"Email": "البريد الإلكتروني",
+		"FirstName": "الاسم الاول",
+		"LastName": "الكنية",
+		"MemberSince": "عضو منذ",
+		"NewPassword": "كلمة السر الجديدة",
+		"Password": "كلمه السر",
+		"PasswordConfirm": "تأكيد كلمة المرور",
+		"PasswordErrorMessage": "يجب أن تكون كلمة المرور 6 أحرف على الأقل.",
+		"PersonalInformation": "معلومات شخصية",
+		"PhoneNumber": "رقم الهاتف",
+		"Photo": "صورة الملف الشخصي",
+		"Position": "موضع",
+		"Positions": {
+			"Admin": "مشرف",
+			"CEO": "المدير التنفيذي",
+			"Employee": "موظف",
+			"Front Desk": "المقعدالامامي",
+			"Manager": "مدير",
+			"Other": "آخر",
+			"Secretary": "سكرتير"
+		},
+		"Role": "وظيفة",
+		"UpdatePasswordButton": "تطوير كلمة السر",
+		"UpdatePasswordPrompt": {
+			"CancelButton": "إلغاء",
+			"ConfirmButton": "تحديث",
+			"Text": "هل انت متأكد انك تريد حذف حسابك؟",
+			"Title": "تطوير كلمة السر",
+			"ToastFail": "لا يمكن تحديث كلمة المرور",
+			"ToastSuccess": "تم حذف كلمة المرور"
+		},
+		"UpdatePersonalInformation": {
+			"ToastFail": "لا يمكن تحديث المعلومات الشخصية",
+			"ToastSuccess": "تحديث المعلومات الشخصية"
+		},
+		"UpdateSubmitButton": "حفظ التغييرات",
+		"updatePrivacySettings": {
+			"DeleteAccountFail": "فشل في حذف الحساب",
+			"DeleteAccountSuccess": "تم حذف الحساب بنجاح",
+			"DeleteHistoryFail": "لا يمكن حذف السجل",
+			"DeleteHistorySuccess": "تم حذف السجل بنجاح",
+			"ToastFail": "لا يمكن تحديث معلومات الخصوصية",
+			"ToastSuccess": "تم تحديث إعدادات الخصوصية"
+		}
+	},
+	"Queue": {
+		"Archive": {
+			"Customer": "زبون",
+			"ID": "معرف",
+			"Notes": "ملاحظات",
+			"ServedAt": "خدم في",
+			"Services": "خدمات"
+		},
+		"Content": [
+			"سيتم سرد جميع قوائم الانتظار هنا ....",
+			"لإنشاء قائمة انتظار جديدة ، انقر فوق هذا الزر."
+		],
+		"Counter": {
+			"CreatePrompt": {
+				"CancelButton": "إلغاء",
+				"SubmitButton": "حفظ",
+				"Title": "إنشاء عداد",
+				"ToastFail": "لا يمكن إنشاء عداد",
+				"ToastSuccess": "تم إنشاء العداد"
+			},
+			"DeletePrompt": {
+				"Text": "هل أنت متأكد أنك تريد حذف هذا العداد؟",
+				"Title": "حذف العداد",
+				"ToastFail": "لا يمكن حذف العداد",
+				"ToastSuccess": "تم حذف العداد"
+			},
+			"EditPrompt": {
+				"CancelButton": "إلغاء",
+				"SubmitButton": "حفظ",
+				"Title": "تحرير العداد",
+				"ToastFail": "لا يمكن تحديث العداد",
+				"ToastSuccess": "تم تحديث العداد"
+			}
+		},
+		"Create": {
+			"AddNewCounterButton": "إضافة شباك",
+			"AskCovid": "اسأل العميل إذا كان لديه أعراض COVID-19",
+			"AutoCall": "اتصل بالعميل التالي في قائمة الانتظار تلقائيًا",
+			"AvailableServices": "الخدمات المتاحة",
+			"Content": [
+				"املأ النموذج لإنشاء قائمة انتظار جديدة.",
+				"لإنشاء قائمة انتظار جديدة ، انقر فوق هذا الزر."
+			],
+			"CounterName": "اسم الشباك",
+			"Counters": "شباك",
+			"QueueName": "اسم قائمة الانتظار",
+			"RequireBooking": "يمكن فقط للعملاء الذين لديهم حجوزات مؤكدة الانضمام إلى قائمة الانتظار.",
+			"SubmitButton": "خلق",
+			"TeamMembers": "أعضاء الفريق",
+			"TeamMembersChoosable": "يمكن للعميل اختيار موظف",
+			"TicketNumberStart": "رقم بدء التذكرة",
+			"TicketNumberType": "نوع رقم التذكرة",
+			"TicketNumberTypeIncr": "تدريجي",
+			"TicketNumberTypeRand": "عشوائي",
+			"TicketPrefix": "بادئة التذكرة",
+			"ToastFail": "لا يمكن إنشاء قائمة انتظار",
+			"ToastSuccess": "تم إنشاء قائمة الانتظار",
+			"WorkingDays": "أيام العمل"
+		},
+		"CreateQueueButton": "إنشاء قائمة انتظار",
+		"Edit": {
+			"SubmitButton": "تحديث",
+			"ToastFail": "لا يمكن تحديث قائمة الانتظار",
+			"ToastSuccess": "تم تحديث قائمة الانتظار",
+			"TranslateButton": "ترجمة",
+			"TranslationPrompt": {
+				"CancelButton": "إلغاء",
+				"SubmitButton": "حفظ",
+				"Title": "ترجمة قائمة الانتظار",
+				"ToastFail": "لا يمكن حفظ الترجمات",
+				"ToastSuccess": "تم حفظ الترجمات"
+			}
+		},
+		"SearchQueuePlaceholder": "بحث قائمة الانتظار طريق الاسم",
+		"WaitingList": {
+			"CallNextButton": "اتصل التالي",
+			"CallNextToastFail": "لا يمكن الاتصال بالعميل التالي",
+			"CallNextToastSuccess": "العميل التالي يسمى",
+			"CloseCounterAlert": {
+				"Text": "هل أنت متأكد من أنك تريد إغلاق العداد الحالي؟",
+				"Title": "إغلاق العداد",
+				"ToastFail": "لا يمكن إغلاق العداد",
+				"ToastSuccess": "عداد مغلقة"
+			},
+			"CloseCounterButton": "إغلاق العداد",
+			"CountersButton": "عدادات",
+			"CreateDelayButton": "أضف التأخير",
+			"DelayText": "لديك {delay} تأخير في قائمة الانتظار هذه",
+			"MoveTicketAlert": {
+				"AcceptButton": "أغلق",
+				"Text": "يرجى الانتباه إلى أن نقل هذه التذكرة سيؤثر على التذاكر الأخرى ويؤدي إلى تغييرات في وقت الانتظار.",
+				"Title": "هل تريد حقًا نقل التذكرة؟",
+				"ToastFail": "لا يمكن نقل التذكرة",
+				"ToastSuccess": "تم نقل التذكرة"
+			},
+			"NowServingCounter": "الآن تخدم العداد",
+			"OpenCounterAlert": {
+				"AcceptButton": "أغلق",
+				"Text": "لا يمكن فتح العداد ، انقر فوق إغلاق أولاً!",
+				"Title": "العداد مفتوح بالفعل",
+				"ToastFail": "لا يمكن فتح العداد",
+				"ToastSuccess": "فتح العداد"
+			},
+			"PleaseChooseCounter": "اختيار عداد",
+			"PleaseChooseCounterLabel": "تحتوي قائمة الانتظار هذه على عدة عدادات ، يرجى اختيار عداد واحد لبدء خدمة العملاء.",
+			"PushButton": "إضافة العملاء",
+			"RequestsEmpty": "ليس لديك أي طلبات معلقة في الوقت الحالي!",
+			"Resume": "استئناف الخدمة",
+			"ResumeServiceAlert": {
+				"Text": "هل أنت متأكد أنك تريد استئناف الخدمة؟",
+				"Title": "استئناف الخدمة",
+				"ToastFail": "لا يمكن استئناف الخدمة",
+				"ToastSuccess": "تم استئناف الخدمة"
+			},
+			"SelectCounterButton": "تؤكد",
+			"WaitingListEmpty": "لا أحد ينتظر في قائمة الانتظار هذه ، يمكنك إضافة عملائك إلى قائمة الانتظار هذه بالنقر فوق زر الإضافة أعلاه.",
+			"WaitingListEmptyTitle": "قائمة انتظار فارغة"
+		}
+	},
+	"Rule": {
+		"AddRuleButton": "أضف القاعدة",
+		"AddRulePrompt": {
+			"Action": "أجراء",
+			"ActionApprove": "وافق",
+			"ActionDecline": "رفض",
+			"ApplyFor": "تطبق على",
+			"ApplyForAllCustomers": "جميع العملاء",
+			"ApplyForBlacklisted": "القائمة السوداء",
+			"ApplyForNewCustomers": "زوار جدد",
+			"ApplyForVipCustomers": "عملاء VIP",
+			"FlowTarget": "هدف التدفق",
+			"FlowTargetBooking": "الحجز",
+			"FlowTargetQueue": "قائمة الانتظار",
+			"NameLabel": "اسم",
+			"NamePlaceholder": "اسم القاعدة الخاص بك",
+			"RuleSettings": "إعدادات القاعدة",
+			"SubmitButton": "خلق",
+			"TimeFrame": "إطار زمني",
+			"TimeFrameCustom": "حسب الطلب",
+			"TimeFrameCustomEndDate": "تاريخ الانتهاء",
+			"TimeFrameCustomStartDate": "تاريخ البدء",
+			"TimeFrameForever": "إلى الأبد",
+			"ToastFail": "لا يمكن إنشاء قاعدة",
+			"ToastSuccess": "تم إنشاء القاعدة",
+			"WorkingDays": "أيام العمل"
+		},
+		"Content": [
+			"انقر هنا لإضافة <strong>قاعدة جديدة</strong>",
+			"يمكنك تعديل تفاصيل القاعدة<br>من خلال النقر على هذا الزر"
+		],
+		"Create": {
+			"Content": [
+				"يمكنك استخدام هذا النموذج لإضافة قاعدة جديدة.",
+				"املأ جميع الحقول المطلوبة واضغط على زر <strong>Create</strong> "
+			]
+		},
+		"DeleteRulePrompt": {
+			"Text": "هل أنت متأكد أنك تريد حذف {rule}؟",
+			"Title": "حذف القاعدة",
+			"ToastFail": "لا يمكن حذف القاعدة",
+			"ToastSuccess": "تم حذف القاعدة"
+		},
+		"EditRulePrompt": {
+			"ToastFail": "لا يمكن تحديث القاعدة",
+			"ToastSuccess": "تم تحديث القاعدة"
+		},
+		"Table": {
+			"Action": "عمل",
+			"ActionApprove": "يوافق",
+			"ActionDecline": "رفض",
+			"CreatedAt": "أنشئت في",
+			"CustomerTarget": "الهدف العملاء",
+			"CustomerTargetAll": "جميع العملاء",
+			"CustomerTargetBlacklisted": "القائمة السوداء",
+			"CustomerTargetNew": "الزيارة الأولى",
+			"CustomerTargetVIP": "كبار الشخصيات",
+			"Flow": "هدف التدفق",
+			"FlowBooking": "الحجز",
+			"FlowQueue": "طابور",
+			"Name": "اسم",
+			"Options": "خيارات"
+		}
+	},
+	"SMS": {
+		"Allowance": "مخصص",
+		"BOOKING_CANCELED": "تم الغاء الحجز",
+		"BOOKING_CREATED": "تم إنشاء الحجز",
+		"BOOKING_REMINDER_24_HOURS": "تذكير الحجز قبل 24 ساعة",
+		"BOOKING_REMINDER_48_HOURS": "تذكير الحجز قبل 48 ساعة",
+		"BOOKING_REMINDER_7_DAYS": "تذكير الحجز قبل 7 أيام",
+		"BOOKING_UPDATED": "تم تحديث الحجز",
+		"Balance": "الرصيد المتبقي",
+		"Booking": "الحجز",
+		"Consumed": "مستهلك",
+		"History": "التاريخ",
+		"Language": "لغة",
+		"QUEUE_CALL_NEXT": "الإخطار التالي دعوة تذكرة الانتظار",
+		"QUEUE_FEEDBACK": "تذكرة قائمة الانتظار - اجمع التعليقات",
+		"QUEUE_GET_READY": "تذكرة قائمة الانتظار تحصل على إشعار جاهز",
+		"QUEUE_TICKET_CANCELED": "تم إلغاء تذكرة قائمة الانتظار",
+		"QUEUE_TICKET_CREATED": "تم إنشاء تذكرة قائمة الانتظار",
+		"QUEUE_TICKET_REDIRECTED": "تمت إعادة توجيه تذكرة قائمة الانتظار",
+		"QUEUE_TICKET_UPDATED": "تم تحديث تذكرة قائمة الانتظار",
+		"Queue": "طابور",
+		"SaveButton": "حفظ التحديثات",
+		"SettingUpdate": {
+			"ToastFail": "لا يمكن تحديث إعدادات SMS",
+			"ToastSuccess": "تم تحديث إعدادات SMS"
+		},
+		"Settings": "الإعدادات",
+		"Table": {
+			"Destination": "رقم الهاتف",
+			"Message": "رسالة",
+			"Sent at": "تم الإرسال في",
+			"SentAt": "تم الإرسال في"
+		},
+		"delay_created": "تم إنشاء تأخير قائمة الانتظار"
+	},
+	"Service": {
+		"AddServiceButton": "إضافة الخدمة",
+		"AddServicePrompt": {
+			"CancelButton": "إلغاء",
+			"Duration": "المدة (بالدقائق)",
+			"ServiceLabel": "الخدمات",
+			"ServicePlaceholder": "اختر الخدمة",
+			"SubmitButton": "إضافة",
+			"Title": "إضافة الخدمة",
+			"ToastFail": "لا يمكن إضافة الخدمة",
+			"ToastSuccess": "وأضاف الخدمة"
+		},
+		"Content": [
+			"انقر هنا لفتح نموذج إضافة <strong>خدمة</strong> !",
+			"يمكنك تعديل تفاصيل الخدمة<br>من خلال النقر على هذا الزر"
+		],
+		"DeleteServicePrompt": {
+			"Text": "هل أنت متأكد أنك تريد حذف {name} ؟",
+			"Title": "حذف الخدمة",
+			"ToastFail": "لا يمكن حذف الخدمة",
+			"ToastSuccess": "تم حذف الخدمة"
+		},
+		"EditServicePrompt": {
+			"CancelButton": "إلغاء",
+			"SubmitButton": "حفظ",
+			"Title": "تحرير الخدمة",
+			"ToastFail": "لا يمكن تحديث الخدمة",
+			"ToastSuccess": "تم تحديث الخدمة"
+		},
+		"NoServiceAlert": {
+			"GoToServicesButton": "إضافة خدمة (خدمات)",
+			"Text": "ليس لديك أي خدمات مرتبطة بعملك ، يرجى الانتقال إلى إعدادات الخدمات لإضافة خدمة واحدة على الأقل.",
+			"Title": "لا خدمات!"
+		},
+		"Table": {
+			"CreatedAt": "أنشئت في",
+			"EstimatedDuration": "المدة المقدرة",
+			"Options": "خيارات",
+			"Service": "الخدمات"
+		}
+	},
+	"Shared": {
+		"Date": "تاريخ",
+		"Hour": "ساعة | ساعات",
+		"Minute": "دقيقة | الدقائق",
+		"Service": "خدمة | خدمات"
+	},
+	"Statistics": {
+		"ServiceFrequency": {
+			"Chart": {
+				"Daily": "اليومي",
+				"Day": "يوم",
+				"Monthly": "شهريا",
+				"Weekly": "أسبوعي",
+				"Yearly": "سنوي"
+			},
+			"ParamsPrompt": {
+				"CancelButton": "إلغاء",
+				"ChartData": "بيانات الرسم البياني",
+				"ChartType": "نوع التخطيط",
+				"DateType": "نوع التاريخ",
+				"SubmitButton": "تؤكد",
+				"Title": "معلمات تردد الخدمة"
+			},
+			"ServicesPie": "مخطط دائري للخدمات",
+			"Title": "تردد الخدمة"
+		},
+		"ServiceTime": "وقت الخدمة",
+		"Tabs": {
+			"Customers": {
+				"AvgCustomerReturn": "متوسط عائد العميل",
+				"CustomerFrequencyHideButton": "إخفاء أهم العملاء",
+				"CustomerFrequencyShowButton": "إظهار أفضل العملاء",
+				"CustomerNewEntry": "دخول العميل الجديد",
+				"Table": {
+					"FirstName": "الاسم الاول",
+					"LastName": "الكنية",
+					"Phone": "رقم الهاتف",
+					"TotalReturn": "أوقات العودة"
+				},
+				"Title": "الزبائن",
+				"TotalCustomers": "إجمالي العملاء"
+			},
+			"Frequency": {
+				"Chart": {
+					"Daily": "اليومي",
+					"Monthly": "شهريا",
+					"Weekly": "أسبوعي",
+					"Yearly": "سنوي"
+				},
+				"Title": "تكرر"
+			},
+			"Logs": "سجلات",
+			"Services": "خدمات",
+			"Time": {
+				"Chart": {
+					"Daily": "اليومي",
+					"Monthly": "شهريا",
+					"Service": "وقت الخدمة",
+					"Waiting": "وقت الانتظار",
+					"Weekly": "أسبوعي",
+					"Yearly": "سنوي"
+				},
+				"Title": "زمن"
+			}
+		},
+		"VisitFrequency": {
+			"Booking": "تكرار الحجز",
+			"ParamsPrompt": {
+				"Area": "منطقة",
+				"Bar": "شريط",
+				"Booking": "الحجز",
+				"CancelButton": "إلغاء",
+				"ChartData": "بيانات الرسم البياني",
+				"ChartType": "نوع التخطيط",
+				"DateType": "نوع التاريخ",
+				"Queue": "طابور",
+				"SubmitButton": "تؤكد",
+				"Title": "قم بزيارة معلمات التردد"
+			},
+			"Queue": "تردد قائمة الانتظار",
+			"Title": "تردد الزيارة"
+		},
+		"WaitingTime": "وقت الانتظار"
+	},
+	"Team": {
+		"AddTeamMemberButton": "إضافة عضو الفريق",
+		"AddTeamMemberPrompt": {
+			"CancelButton": "إلغاء",
+			"SubmitButton": "خلق",
+			"Title": "إضافة عضو الفريق",
+			"ToastFail": "لا يمكن إنشاء عضو",
+			"ToastSuccess": "خلق العضو"
+		},
+		"Content": [
+			"انقر هنا لفتح نموذج إضافة <strong>عضو الفريق</strong> !",
+			"يمكنك تعديل تفاصيل عضو الفريق<br>من خلال النقر على هذا الزر"
+		],
+		"CreatedAt": "أنشئت في",
+		"DeleteTeamMemberPrompt": {
+			"Text": "هل أنت متأكد أنك تريد حذف {name}؟",
+			"Title": "حذف العضو",
+			"ToastFail": "لا يمكن حذف العضو",
+			"ToastSuccess": "تم حذف العضو"
+		},
+		"EditTeamMemberPrompt": {
+			"CancelButton": "إلغاء",
+			"SubmitButton": "حفظ",
+			"Title": "تحرير عضو الفريق",
+			"ToastFail": "لا يمكن تحديث العضو",
+			"ToastSuccess": "تحديث العضو"
+		},
+		"Options": "خيارات",
+		"Positions": {
+			"Admin": "مشرف",
+			"CEO": "المدير التنفيذي",
+			"Employee": "موظف",
+			"Front Desk": "المقعدالامامي",
+			"Manager": "مدير",
+			"Other": "آخر",
+			"Secretary": "سكرتير"
+		},
+		"WorkingDaysPrompt": {
+			"CancelButton": "إلغاء",
+			"SubmitButton": "تحديث",
+			"Title": "{name} - أيام العمل",
+			"ToastFail": "لا يمكن تحديث أيام العمل",
+			"ToastSuccess": "أيام العمل المحدثة"
+		}
+	},
+	"Terms": "البنود و الظروف",
+	"Time": {
+		"From": "من",
+		"To": "إلى"
+	},
+	"Toasts": {
+		"AcceptButton": "تؤكد",
+		"CancelButton": "إلغاء",
+		"Error": "آسف!",
+		"Successful": "ناجح"
+	},
+	"Vendor": {
+		"AdditionalFields": "معلومات اكثر",
+		"Attachments": "المرفق (المرفقات)",
+		"AttachmentsPlaceholder": "انقر هنا لتحديد الملفات <br>(الصور وملفات PDF مقبولة فقط)",
+		"AvailableSlots": "الأوقات المتاحة",
+		"BookNow": "احجز الآن",
+		"Booking": "الحجز",
+		"BookingSummary": "ملخص الكتاب",
+		"BookingSummaryAttachments": "المرفق (المرفقات)",
+		"BookingSummaryDate": "تاريخ",
+		"BookingSummaryDateRequestBook": "طلب حجز",
+		"BookingSummaryDuration": "المدة الزمنية",
+		"BookingSummaryServices": "خدمات",
+		"BookingSummarySlot": "فتحة",
+		"BookingSummaryTime": "زمن",
+		"BusinessHours": "ساعات العمل",
+		"Closed": "مغلق",
+		"ClosedNow": "مغلق الآن",
+		"Confirmation": {
+			"Button": "حجوزاتي",
+			"ButtonGoBooking": "حجوزاتي",
+			"ButtonGoHome": "الصفحة الرئيسية",
+			"Header": "شكرا لك على طلب الحجز الخاص بك!",
+			"Text": "تم إرسال طلب الحجز الخاص بك إلى مزود الخدمة ، وسوف نخطرك بمجرد اتخاذ القرار."
+		},
+		"CustomersWaiting": "انتظار الزبائن",
+		"DateTimePicker": "اختيار التاريخ والوقت",
+		"Departments": "الإدارات",
+		"DepartmentsPlaceholder": "يرجى تحديد قسم",
+		"Details": "تفاصيل",
+		"EstWaitingTime": "وقت الانتظار",
+		"EstimatedWaitingTime": "وقت الانتظار",
+		"Gallery": "صالة عرض",
+		"Guest": "زائر_",
+		"JoinQueue": "انضم إلى قائمة الانتظار",
+		"JoinVipQueue": "انضم إلى قائمة انتظار VIP",
+		"Location": "موقعك",
+		"MapInput": "ثبت موقعك",
+		"Minutes": "الدقائق",
+		"NoAvailableSlots": "لا يوجد وقت متاح للحجز ..",
+		"Open": "افتح",
+		"OpenNow": "مفتوح الان",
+		"Overview": "نظرة عامة",
+		"QueueConfirmation": {
+			"Button": "تذاكري",
+			"ButtonGoBooking": "تذاكري",
+			"ButtonGoHome": "الصفحة الرئيسية",
+			"Header": "شكرا لطلبك للانضمام إلى قائمة الانتظار!",
+			"Text": "تم إرسال طلب انضمامك لقائمة الانتظار إلى مزود الخدمة ، وسوف نخطرك بمجرد اتخاذ القرار."
+		},
+		"QueueError": {
+			"Button": "قريب",
+			"ButtonClose": "قريب",
+			"Header": "آسف! نحن غير قادرين على المضي قدما",
+			"Text": "إما أنك بالفعل في قائمة الانتظار أو حدث خطأ فني."
+		},
+		"QueueSummary": "ملخص",
+		"QueueSummaryQueue": "قائمة الانتظار",
+		"QueueSummaryRequestJoinButton": "طلب الانضمام",
+		"QueueSummaryServiceDuration": "مدة الخدمة",
+		"QueueSummaryWaitingTime": "وقت الانتظار",
+		"Reviews": "التعليقات",
+		"Save": "حفظ",
+		"Services": "خدمات",
+		"Share": "شارك",
+		"SimilarPlaces": "أماكن مماثلة",
+		"VIP": "كبار الشخصيات",
+		"Validation": {
+			"AddAttchament": "يرجى إضافة مرفق",
+			"AdditionalFields": "يرجى إكمال قسم المزيد من المعلومات",
+			"Location": "الرجاء تثبيت موقعك",
+			"SelectDate": "يرجى تحديد تاريخ",
+			"SelectService": "يرجى تحديد خدمة أو أكثر",
+			"SelectSlot": "يرجى تحديد الوقت",
+			"Title": "غير قادر على المضي قدما"
+		},
+		"VipBookingList": "حجز VIP",
+		"VipBookingLists": "حجز VIP",
+		"WaitingList": "قائمة الانتظار",
+		"WaitingLists": "قوائم الانتظار"
+	}
+}

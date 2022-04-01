@@ -1,0 +1,8 @@
+NODE_ENV=staging
+staging_git_pwd=rs5oh3yrmfmjufsuk5x6ngceb4frupneakqlhx7lnyba7jixycaa
+VUE_APP_API_URL=http://127.0.0.1:8000/v1
+VUE_APP_GOOGLE_MAPS_KEY=AIzaSyCCu5z_wOjyw1iBONIykXU8dms7RfOKwCQ
+VUE_APP_PUSHER_ID=f723103e58e7ad639e5e
+VUE_APP_STRIPE_KEY=pk_test_Y3E54h1PXzc5ya3sFHH8peuU00ZtFiRPpI
+VUE_APP_AUTH_CLASS=login-register-bg-TN
+HOST=liberrex.local

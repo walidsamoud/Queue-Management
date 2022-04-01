@@ -1,0 +1,236 @@
+label, button, a, p, b, span, small, h1, h2, h3, h4, h5, h6, li, #LangindHome, input, .tab{
+    letter-spacing: 0px !important;
+    font-family: Noto Sans Arabic, sans-serif !important;
+}
+
+.section-loader{
+    direction: rtl;
+}
+
+#LangindHeader{
+    .login{
+        padding: 5px 40px !important;
+        .icon{
+            margin-right: 10px;
+        }
+    }
+}
+
+#LangindHome{
+    direction: rtl;
+    .left{
+        text-align: right;
+        button{
+            .icon{
+                transform: rotate(180deg);
+                margin-left: 0;
+                margin-right: 10px;
+            }
+        }
+    }
+    .right{
+        text-align: left !important;
+    }
+    .liberrex{
+        margin-right: 10px;
+    }
+    .all_languages{
+        left: 40px;
+        span{
+            margin-right: 10px;
+        }
+    }
+}
+
+#Profile{
+    .title{
+        text-align: right;
+        padding-bottom: 3px;
+        direction: rtl !important;
+        width: 100% !important;
+        border-bottom: none !important;
+        span{
+            // float: right;
+            border-bottom: 3px solid var(--primary);
+            width: 80px !important;
+        }
+    }
+    .group label, .group input{
+        float: right !important;
+        text-align: right;
+    }
+    .plan{
+        direction: rtl;
+        .data{
+            text-align: right;
+        }
+    }
+}
+
+#LangindAgencies{
+    .right{
+        // direction: rtl;
+        .recommendation{
+            direction: rtl;
+        }
+        .subtitle{
+            direction: rtl;
+            text-align: right;
+        }
+        #LandingAgence{
+            direction: ltr;
+        }
+    }
+}
+
+#LandingAgency{
+    .right{
+        .window_closer{
+            margin-left: 10px;
+        }
+        .header{
+            flex-direction: row-reverse;
+            .data{
+                direction: rtl;
+                .name{
+                    text-align: right;
+                    // float: right;
+                    display: block !important;
+                    small{
+                        margin-right: 15px;
+                    }
+                }
+                .info{
+                    text-align: right;
+                    .reviews{
+                        margin-right: 20px;
+                    }
+                }
+                .persons{
+                    text-align: left !important;
+                    margin-top: -10px;
+                }
+            }
+        }
+        .tabs{
+            direction: rtl !important;
+        }
+        .reviews{
+            direction: rtl;
+            .text{
+                text-align: right;
+            }
+        }
+        .row_data{
+            flex-direction: row-reverse;
+            .info{
+                text-align: right;
+            }
+        }
+        .services{
+            text-align: right;
+        }
+    }
+}
+
+#LandingQueues{
+    .queue{
+        flex-direction: row-reverse;
+        .left{
+            text-align: right;
+            .name{
+                display: block;
+            }
+            .infos{
+                float: right;
+            }
+        }
+    }
+    .loading-popup{
+        direction: rtl;
+    }
+    input[type=search]{
+        direction: rtl;
+    }
+}
+
+#LandingBookings{
+    .calendar{
+        flex-direction: row-reverse;
+    }
+    .loading-popup{
+        direction: rtl;
+    }
+    input[type=search]{
+        direction: rtl;
+    }
+    #Step1{
+        .header{
+            flex-direction: row-reverse;
+            div{
+                text-align: right;
+            }
+        }
+    }
+}
+
+#LandingAgence{
+    .vendor{
+        direction: rtl;
+        text-align: right !important;
+        .left2{
+            div{
+                margin-right: 0 !important;
+                .icon{
+                    margin-right: 0 !important;
+                    margin-left: 5px;
+                }
+            }
+        }
+        .infos{
+            float: right;
+            .info{
+                margin-left: 15px;
+            }
+        }
+        .badge{
+            // direction: ltr;
+            left: 0;
+            right: auto !important;
+            small{
+                margin-left: 7px;
+            }
+        }
+    }
+}
+
+#LandingLogin{
+    .group{
+        b{
+            text-align: right !important;
+        }
+        input{
+            text-align: right !important;
+        }
+        text-align: right !important;
+    }
+}
+
+#Ticket{
+    .top{
+        direction: rtl;
+        img{
+            margin-left: 10px;
+        }
+    }
+    .all_languages{
+        text-align: right !important;
+    }
+    .divider{
+        margin-top: -1px !important;
+    }
+}
+
+#LangindHome .left .language div img{
+    margin-left: 10px;
+}

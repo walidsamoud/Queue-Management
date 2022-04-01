@@ -1,0 +1,1508 @@
+{
+	"Auth": {
+		"AcceptTerms": "Aceito todos os Termos e Condições de uso.",
+		"AcceptTermsAndConditions": "Aceito todos os termos e condições.",
+		"AlreadyHasCode": "Eu já tenho um código de verificação",
+		"AlreadyHaveResetCodeButton": "Já tem um código de redefinição?",
+		"CodePlaceholder": "Código",
+		"CreateAnAccount": "Crie a sua conta aqui",
+		"DoHaveAnAccount": "Você tem uma conta ?",
+		"DontHaveAnAccount": "Não possui uma conta?",
+		"Email": "O email",
+		"EnterPhoneNumber": "Insira um número de telefone",
+		"ErrorTitle": "Por favor corrija os seguintes erros",
+		"FirstName": "Primeiro nome",
+		"ForgotPassword": "Esqueceu a senha?",
+		"IncorrectCode": "Código inválido. Por favor, tente novamente.",
+		"IncorrectFields": "Alguns campos estão incorretos. Por favor, tente novamente",
+		"IncorrectPhone": "Número de telefone incorreto. Por favor, tente novamente",
+		"LastName": "Último nome",
+		"Login": "Entrar",
+		"LoginButton": "Entrar",
+		"NoAccountMatches": "Nenhuma correspondência de conta",
+		"Password": "Senha",
+		"PasswordForgotGoToLoginText": "Se você se lembrar da sua senha, clique no botão de login abaixo para levá-lo à página de autenticação.",
+		"PasswordForgotSubmitButton": "Enviar código de redefinição",
+		"PasswordForgotText": "Esqueceu sua senha? Digite seu endereço de e-mail abaixo e enviaremos um e-mail para que você possa redefini-lo.",
+		"PasswordForgotTitle": "Esqueceu a senha",
+		"PhoneIsAlreadyUsed": "já está em uso!",
+		"PleaseRegister": "Por favor registre",
+		"Register": "registo",
+		"RegisterSubmit": "Enviar",
+		"RegisterSuccess": [
+			"Registrar com sucesso",
+			"Parabéns, sua conta foi criada e será aprovada em breve"
+		],
+		"RegisterTermsIntro": "Obrigado pelo seu interesse no Liberrex, antes de podermos criar sua conta, precisamos garantir que você tenha lido, entendido e concordado com o",
+		"RegisterTermsIntroAnd": "e",
+		"Remember": "Lembre de mim?",
+		"ResetPasswordCode": "Reiniciar código",
+		"ResetPasswordSubmitButton": "Redefinir senha",
+		"ResetPasswordTitle": "Redefinir senha",
+		"SendVerificationCode": "Enviar código de verificação",
+		"TermsAndConditions": "termos e Condições",
+		"WelcomeBack": "Bem vinda"
+	},
+	"Billing": {
+		"AddBillingMethod": {
+			"AddCardButton": "Adicionar cartão de crédito",
+			"Text": "Observe que nosso sistema de pagamento é fornecido pela Stripe.",
+			"Title": "Adicionar forma de pagamento",
+			"ToastFail": "Não é possível adicionar a forma de pagamento",
+			"ToastSuccess": "Método de pagamento adicionado"
+		},
+		"BillingMethodLabel": "Método de pagamento",
+		"BillingMethodPlaceholder": "Selecione um método de pagamento",
+		"BillingMethods": "Métodos de Pagamento",
+		"Content": [
+			"Todas as suas informações de faturamento estão listadas aqui, como faturas, métodos de pagamento etc.",
+			"Todas as suas faturas estão listadas nesta seção. Você pode fazer o download da sua fatura clicando no botão <strong>Download</strong> ",
+			"Você pode gerenciar seus cartões de crédito aqui nesta seção."
+		],
+		"DeleteBillingMethod": {
+			"Text": "Tem certeza de que deseja excluir o método de cobrança que termina com {last4} ?",
+			"Title": "Excluir método de cobrança",
+			"ToastFail": "Não é possível excluir o método de cobrança",
+			"ToastSuccess": "Método de cobrança excluído"
+		},
+		"Download": "Baixar",
+		"EndingWith": "terminando com",
+		"Expires": "expira",
+		"Invoices": "Faturas",
+		"NoBillingMethodsAttached": "Nenhuma forma de pagamento anexada à sua conta comercial",
+		"UseNewBillingMethod": "Use uma nova forma de pagamento"
+	},
+	"Booking": {
+		"ActionsBookingsButton": "Ações",
+		"Calendar": {
+			"Day": "Dia",
+			"List": "Lista",
+			"Month": "Mês",
+			"More": "Reserva",
+			"Today": "Hoje",
+			"Week": "semana"
+		},
+		"CalendarMode": "Modo de Calendário",
+		"Content": [
+			"Lista de reservas mostradas em um calendário.",
+			"Todas as solicitações de reserva recentes estão listadas aqui."
+		],
+		"CreateBookingButton": "Crio",
+		"CreatePrompt": {
+			"BookingsAvailable": "Horários disponíveis",
+			"CancelButton": "Cancelar",
+			"ChooseTargetDepartment": "Escolha o departamento de destino",
+			"CreateNewCustomer": "Crie um novo cliente",
+			"CustomerLabel": "Cliente",
+			"CustomerPlaceholder": "Selecionar cliente",
+			"DepartmentLabel": "Departamento alvo",
+			"DurationLabel": "Duração",
+			"DurationPlaceholder": "Selecione uma duração",
+			"ServiceLabel": "Serviços",
+			"ServicePlaceholder": "Selecione um ou mais serviços",
+			"StartDate": "Encontro",
+			"StartDateLabel": "Encontro",
+			"SubmitButton": "Crio",
+			"TimeLabel": "Horário",
+			"TimePlaceholder": "Selecione um horário",
+			"Title": "Criar reserva",
+			"ToastFail": "Não é possível criar reserva",
+			"ToastSuccess": "Reserva criada",
+			"WithoutSlots": "Sem horários específicos"
+		},
+		"DeletePrompt": {
+			"Text": "Tem certeza de que deseja excluir esta reserva?",
+			"Title": "Excluir reserva",
+			"ToastFail": "Não é possível atualizar a reserva",
+			"ToastSuccess": "Reserva atualizada"
+		},
+		"DepartmentAllOption": "Todos os departamentos",
+		"DepartmentFilterPlaceholder": "Filtrar por departamento",
+		"EditPrompt": {
+			"BookButton": "Reserva",
+			"CancelButton": "Cancelar",
+			"DeleteButton": "Excluir",
+			"RedirectButton": "Fila",
+			"SubmitButton": "Atualizar",
+			"Title": "Atualizar reserva",
+			"ToastFail": "Não é possível atualizar a reserva",
+			"ToastSuccess": "Reserva atualizada"
+		},
+		"ExportBookingsButton": "Baixar",
+		"ImportBookingsButton": "Envio",
+		"Prompt": {
+			"Content": "preencha todos os campos obrigatórios e pressione o botão <strong>\"Criar\"</strong>"
+		},
+		"QueuePrompt": {
+			"CancelButton": "Cancelar",
+			"SubmitButton": "confirme",
+			"Title": "Redirecionar para lista de espera",
+			"ToastFail": "Não é possível redirecionar o cliente",
+			"ToastSuccess": "Cliente redirecionado para uma lista de espera"
+		},
+		"RecentRequestsEmpty": "Você não possui solicitações pendentes no momento!",
+		"RecentRequestsTitle": "Pedidos Recentes",
+		"Services": "Serviços",
+		"TabMode": "Modo de tabela",
+		"Table": {
+			"Customer": "Cliente",
+			"PhoneNumber": "Número de telefone",
+			"SentAt": "recebido",
+			"Services": "Serviços",
+			"StartDate": "Data hora"
+		},
+		"UploadPrompt": {
+			"CancelButton": "Cancelar",
+			"FileLabel": "Arquivo (formatos aceitos: .CSV, .XSL e .XSLX)",
+			"NotifyCustomers": "Enviar notificações para clientes",
+			"SubmitButton": "Envio",
+			"Title": "Carregar Reservas",
+			"ToastFail": "Não é possível fazer o upload de reservas",
+			"ToastSuccess": "Reservas enviadas"
+		}
+	},
+	"Company": {
+		"Address": "Endereço",
+		"City": "Cidade",
+		"Close": "Perto",
+		"Content": [
+			"Todas as configurações relacionadas a negócios podem ser atualizadas a partir daqui.",
+			"Aqui você pode encontrar as informações básicas sobre o negócio.",
+			"Aqui você pode definir os dias / horas úteis para o negócio.",
+			"Aqui você pode definir o local da empresa arrastando e soltando o marcador em qualquer local."
+		],
+		"Country": "País",
+		"EditBasic": {
+			"ToastFail": "Não é possível atualizar as informações básicas",
+			"ToastSuccess": "Informações básicas atualizadas"
+		},
+		"EditLocation": {
+			"ToastFail": "Não é possível atualizar o local",
+			"ToastSuccess": "Local atualizado"
+		},
+		"EditTranslations": {
+			"ToastFail": "Não é possível atualizar as traduções",
+			"ToastSuccess": "Traduções atualizadas"
+		},
+		"EditWorkingDays": {
+			"ToastFail": "Não é possível atualizar os dias úteis",
+			"ToastSuccess": "Dias úteis atualizados"
+		},
+		"Email": "O email",
+		"Industry": "Indústria",
+		"Logo": "Logotipo",
+		"Name": "Nome da empresa",
+		"Open": "Abrir",
+		"PhoneNumber": "Número de telefone",
+		"PostalCode": "código postal",
+		"SmsSenderName": "Nome do remetente do SMS",
+		"Tabs": {
+			"BasicInformation": "Informação básica",
+			"Location": "Localização",
+			"Translation": "Tradução",
+			"WorkingDays": "Dias úteis"
+		},
+		"UpdateButton": "Salvar alterações"
+	},
+	"Components": {
+		"Booking": {
+			"RequestItem": {
+				"Approve": {
+					"Text": "Tem certeza de que deseja aprovar {name} ?",
+					"Title": "Aprovar",
+					"ToastFail": "Não é possível aprovar a solicitação",
+					"ToastSuccess": "Pedido aprovado"
+				},
+				"Decline": {
+					"Text": "Tem certeza de que deseja recusar {name} ?",
+					"Title": "Declínio",
+					"ToastFail": "Não é possível recusar a solicitação",
+					"ToastSuccess": "Pedido recusado"
+				},
+				"Department": "Departamento",
+				"File": "Arquivo n °:"
+			}
+		},
+		"Feedback": {
+			"Content": [
+				"Visão geral dos feedbacks pelos clientes."
+			],
+			"Rating": "Avaliação"
+		},
+		"Queue": {
+			"AddCustomerPrompt": {
+				"AddNewCustomerCheckboxText": "Adicionar novo cliente ao banco de dados",
+				"CancelButton": "Cancelar",
+				"CustomerLabel": "Cliente",
+				"CustomerPlaceholder": "Selecionar cliente",
+				"MemberCheckboxLabel": "O cliente deve esperar por um membro da equipe específico para atendê-lo",
+				"MemberLabel": "Membro",
+				"MemberPlaceholder": "Selecione um membro da equipe",
+				"PushButton": "Empurrar",
+				"ServicesLabel": "Serviços",
+				"ServicesPlaceholder": "Selecione Serviço (s)",
+				"Title": "Empurre o cliente",
+				"ToastErrorMessage": "Não é possível enviar o cliente para a fila",
+				"ToastSuccessMessage": "Cliente empurrado para a lista de espera"
+			},
+			"AddDelayPrompt": {
+				"CancelButton": "Cancelar",
+				"NotificationMessage": "mensagem",
+				"NotifyCustomersCheckboxText": "Notificar clientes",
+				"ResumeAtLabel": "Retomar o serviço após (horas: minutos)",
+				"SubmitButton": "confirme",
+				"Title": "Adicionar atraso",
+				"ToastErrorMessage": "Não é possível adicionar um atraso à fila",
+				"ToastSuccessMessage": "Atraso adicionado com sucesso"
+			},
+			"QueueItem": {
+				"DeleteConfirm": {
+					"ConfirmText": "Tem certeza de que deseja excluir {name} ?",
+					"Error": "Não é possível excluir a fila",
+					"Successful": "Fila excluída",
+					"Title": "Excluir"
+				},
+				"PendingRequests": "Você tem {total} solicitação pendente | Você tem {total} solicitações pendentes",
+				"WaitingInLine": "Esperando na fila",
+				"WaitingTime": "Tempo de espera"
+			},
+			"RequestItem": {
+				"Approve": {
+					"Text": "Tem certeza de que deseja aprovar {name} ?",
+					"Title": "Aprovar",
+					"ToastFail": "Não é possível aprovar a solicitação",
+					"ToastSuccess": "Pedido aprovado"
+				},
+				"Decline": {
+					"Text": "Tem certeza de que deseja recusar {name} ?",
+					"Title": "Rejeitar",
+					"ToastFail": "Não é possível recusar a solicitação",
+					"ToastSuccess": "Pedido recusado"
+				}
+			},
+			"TicketItem": {
+				"AccountDetailsPrompt": {
+					"ContinueAnonymously": "Continue sem os detalhes da conta",
+					"Email": "O email",
+					"FirstName": "Primeiro nome",
+					"LastName": "Último nome",
+					"LoginTitle": "Faça login para adicionar os detalhes da sua conta",
+					"SubmitButton": "confirme",
+					"Title": "Adicionar detalhes da conta"
+				},
+				"Alerts": {
+					"Call": {
+						"Header": "Por favor, aguarde instruções.",
+						"Text": "Prepare-se, pois você será chamado em breve para ser atendido.",
+						"TextBold": "Aguarde por mais instruções do seu provedor de serviços.",
+						"Title": "É sua vez!"
+					},
+					"Delay": {
+						"Header": "Fila progredindo lentamente ..",
+						"Text": "Isso pode afetar o tempo de espera estimado. Manteremos você atualizado.",
+						"TextBold": "Percebemos que a fila está se movendo lentamente.",
+						"Title": "Atraso detectado!"
+					}
+				},
+				"Anonymous": "Anônimo",
+				"CancelTicket": "Cancelar ticket",
+				"CheckInTime": "Chegou em",
+				"Delete": {
+					"Text": "Tem certeza de que deseja excluir este ticket?",
+					"Title": "Excluir ticket",
+					"ToastFail": "Não é possível excluir o ticket",
+					"ToastSuccess": "Bilhete excluído"
+				},
+				"EstimatedServiceTime": "Tempo estimado de serviço",
+				"EstimatedWaitingTime": "Tempo de espera estimado",
+				"FeedbackSubmitButton": "Mandar",
+				"FeedbackTextPlaceholder": "Conte-nos a sua opinião ..",
+				"Late": {
+					"Text": "Observe que o provedor de serviços pode atualizar sua classificação ou cancelar seu bilhete.",
+					"Title": "Você está atrasado?"
+				},
+				"NoShow": {
+					"Text": "Tem certeza de que deseja marcar este cliente como No-Show?",
+					"Title": "Marcar como não comparência",
+					"ToastFail": "Não é possível marcar o cliente como não comparência",
+					"ToastSuccess": "Cliente marcado como No-Show"
+				},
+				"PleaseShareFeedback": "Compartilhe seus comentários conosco",
+				"PushBack": {
+					"Text": "Tem certeza de que deseja empurrar esse cliente de volta à fila?",
+					"Title": "Retrocesso",
+					"ToastFail": "Não é possível empurrar o cliente de volta",
+					"ToastSuccess": "Cliente empurrado para trás"
+				},
+				"Rank": "Classificação",
+				"RatingError": {
+					"Text": "A avaliação deve estar entre 1 e 5 estrelas",
+					"Title": "Aviso de classificação"
+				},
+				"Redirect": {
+					"ToastFail": "Não é possível redirecionar o cliente",
+					"ToastSuccess": "Cliente redirecionado"
+				},
+				"RunningLate": "eu estou atrasado",
+				"ServiceTime": "Tempo de serviço",
+				"SwapCustomers": {
+					"Text": "Tem certeza de que deseja trocar os clientes selecionados?",
+					"Title": "Trocar clientes",
+					"ToastFail": "Não é possível trocar clientes",
+					"ToastSuccess": "Clientes trocados"
+				},
+				"ThanksForVisiting": "Obrigado por visitar em {date}",
+				"TicketNumber": "Número do bilhete",
+				"WaitingTime": "Tempo de espera"
+			},
+			"TicketPopup": {
+				"Actions": {
+					"AddNotes": "Adicionar nota",
+					"Delete": "Excluir",
+					"Label": "Escolha uma ação",
+					"NoShow": "Marcar como não comparência",
+					"Placeholder": "Ações",
+					"PushBack": "Retrocesso",
+					"Redirect": "Redirecionar",
+					"SubmitButton": "confirme",
+					"Swap": "Troca",
+					"UpdateMember": "Atualizar membro da equipe",
+					"UrgentSwitch": "Este ingresso é urgente"
+				},
+				"KeepSameTicket": "Mantenha o mesmo bilhete",
+				"PushBackButton": "Retrocesso",
+				"RedirectButton": "Redirecionar",
+				"RedirectTargetQueueLabel": "Fila de destino",
+				"RedirectTargetQueuePlaceholder": "Selecionar fila",
+				"RedirectTitle": "Redirecionar Cliente",
+				"RequestedMember": "Membro da equipe selecionado",
+				"RevokeButton": "Excluir",
+				"SwapLabel": "Escolha um cliente para trocar de classificação",
+				"SwapPlaceholder": "Escolha um cliente",
+				"Title": "Bilhete"
+			}
+		},
+		"Statistics": {
+			"Content": [
+				"Visão geral das estatísticas do site."
+			]
+		},
+		"Widgets": {
+			"BookingRequests": {
+				"Empty": "Nenhum pedido de reserva recebido ainda!"
+			},
+			"BookingSummary": {
+				"Confirmed": "Reservas confirmadas para hoje",
+				"MoreDetails": "Ver mais detalhes",
+				"Pending": "solicitações de",
+				"ThisMonth": "Este mês",
+				"ThisWeek": "Esta semana"
+			},
+			"FeedbackSummary": {
+				"Star": "Estrela",
+				"Total": "Total",
+				"TotalText": "Você tem {total} avaliação do cliente enviada | Você tem {total} avaliações de clientes enviadas"
+			},
+			"QueueSummary": {
+				"Active": "Lista (s) de espera ativa (s)",
+				"InService": "Em serviço",
+				"MoreDetails": "Ver mais detalhes",
+				"Pending": "solicitações de",
+				"Queued": "Esperando na fila"
+			}
+		}
+	},
+	"Copyright": "Direitos autorais © 2020 - LIBERREX LTD",
+	"Customer": {
+		"ActionsBookingsButton": "Ações",
+		"AddCustomerButton": "Adicionar cliente",
+		"AddCustomerPrompt": {
+			"CancelButton": "Cancelar",
+			"ConfirmButton": "Adicionar",
+			"Title": "Adicionar cliente",
+			"ToastFailMessage": "Não é possível criar cliente",
+			"ToastSuccessMessage": "Cliente criado"
+		},
+		"Content": [
+			"Clique aqui para abrir o formulário Adicionar <strong>Cliente</strong> !",
+			"Você pode editar os detalhes do cliente<br>clicando neste botão"
+		],
+		"CustomerBookPrompt": {
+			"CancelButton": "Cancelar",
+			"ConfirmButton": "Atualizar",
+			"Title": "Categoria do Cliente",
+			"ToastFailMessage": "Não é possível atualizar a categoria do cliente",
+			"ToastSuccessMessage": "Categoria do cliente atualizada"
+		},
+		"DateOfBirth": "Data de nascimento",
+		"DeleteCustomerPrompt": {
+			"Text": "Tem certeza de que deseja excluir {name} ?",
+			"Title": "Excluir cliente",
+			"ToastFailMessage": "Não é possível excluir o cliente",
+			"ToastSuccessMessage": "Cliente excluído"
+		},
+		"EditCustomerPrompt": {
+			"CancelButton": "Cancelar",
+			"ConfirmButton": "Salve ",
+			"Title": "Editar cliente",
+			"ToastFailMessage": "Não é possível atualizar o cliente",
+			"ToastSuccessMessage": "Cliente atualizado"
+		},
+		"Email": "O email",
+		"ExportBookingsButton": "Exportar",
+		"FirstName": "Primeiro nome",
+		"ImportBookingsButton": "Envio",
+		"InternalId": "ID interno",
+		"InternalIdHint": "O ID interno pode representar um número de arquivo médico",
+		"LastName": "Último nome",
+		"LiberrexId": "Liberrex ID",
+		"LiberrexIdHint": "O Liberrex ID pode ser fornecido pelo cliente ou detectado automaticamente pelo sistema",
+		"Notes": "notas",
+		"NotesHint": "As notas são compartilhadas em todo o estabelecimento",
+		"PhoneNumber": "Número de telefone",
+		"Prompt": {
+			"Content": "preencha todos os campos obrigatórios e pressione o botão <strong>\"Adicionar\"</strong>"
+		},
+		"Table": {
+			"Book": "Categoria",
+			"BookBasic": "BASIC",
+			"BookBlackList": "Na lista negra",
+			"BookVip": "VIP",
+			"CreatedAt": "Criado em",
+			"LiberrexVerification": "Conta Liberrex",
+			"LiberrexVerificationFail": "Falhou",
+			"LiberrexVerificationSuccess": "Verificado",
+			"Options": "Opções",
+			"Phone": "Número de telefone",
+			"UserInfo": "informação de usuário"
+		},
+		"UploadPrompt": {
+			"CancelButton": "Cancelar",
+			"FileLabel": "Arquivo (formatos aceitos: .CSV, .XSL e .XSLX)",
+			"SubmitButton": "Envio",
+			"Title": "Carregar clientes",
+			"ToastFail": "Não é possível fazer o upload de clientes",
+			"ToastSuccess": "Clientes enviados"
+		}
+	},
+	"Dashboard": {
+		"Content": [
+			"Clique aqui para abrir o menu do perfil do usuário.",
+			"Você pode alterar o idioma do site selecionando qualquer idioma neste seletor de idiomas.",
+			"Todas as notificações são exibidas aqui."
+		],
+		"OnBoarding": {
+			"LaterButton": "CONFIGURAÇÃO DEPOIS",
+			"QuickSetupText": "Orientaremos uma configuração rápida da conta para ajudar você a começar com o Liberrex em alguns segundos.",
+			"QuickSetupTitle": "Configuração rápida da conta",
+			"SetupButton": "VAMOS CONFIGURAR SUA CONTA",
+			"Text": "Obrigado por escolher a Liberrex para gerenciar seu fluxo de clientes",
+			"Title": "Bem-vindo ao Liberrex!"
+		},
+		"ServiceConsumption": {
+			"Title": "Consumo de Serviço"
+		},
+		"VisitFrequency": {
+			"Title": "Frequência de Visita ao Cliente"
+		}
+	},
+	"Days": {
+		"Friday": "Sexta-feira",
+		"Monday": "segunda-feira",
+		"Saturday": "Sábado",
+		"Sunday": "Domingo",
+		"Thursday": "Quinta-feira",
+		"Tuesday": "Terça",
+		"Wednesday": "Quarta-feira"
+	},
+	"Department": {
+		"AddDepartmentButton": "Adicionar Departamento",
+		"AddDepartmentPrompt": {
+			"CancelButton": "Cancelar",
+			"SubmitButton": "Crio",
+			"Title": "Adicionar Departamento",
+			"ToastFail": "Não é possível criar departamento",
+			"ToastSuccess": "Departamento criado"
+		},
+		"Color": "Cor",
+		"Content": [
+			"Clique aqui para abrir o formulário Adicionar <strong>Departamento</strong> !",
+			"Você pode editar os detalhes do departamento<br>clicando neste botão"
+		],
+		"CreatedAt": "Criado em",
+		"DeleteDepartmentPrompt": {
+			"Text": "Tem certeza de que deseja excluir {name}?",
+			"Title": "Excluir departamento",
+			"ToastFail": "Não é possível excluir o departamento",
+			"ToastSuccess": "Departamento excluído"
+		},
+		"EditDepartmentPrompt": {
+			"CancelButton": "Cancelar",
+			"SubmitButton": "Salve",
+			"Title": "Editar departamento",
+			"ToastFail": "Não é possível atualizar o departamento",
+			"ToastSuccess": "Departamento atualizado"
+		},
+		"MaxDailyBookings": "Máximo de reservas diárias",
+		"Name": "Nome do departamento",
+		"Options": "Opções",
+		"TranslationPrompt": {
+			"CancelButton": "Cancelar",
+			"SubmitButton": "Salve ",
+			"Title": "Tradução de Departamento",
+			"ToastFail": "Não é possível salvar as traduções",
+			"ToastSuccess": "Traduções salvas"
+		}
+	},
+	"Display": {
+		"AddDisplayButton": "Criar exibição",
+		"AddDisplayPrompt": {
+			"CancelButton": "Cancelar",
+			"CollectCustomerDetails": "Reproduzir anúncios",
+			"IpAddress": "Endereço de IP",
+			"Language": "Língua",
+			"MacAddress": "Endereço MAC",
+			"Name": "Mostrar nome",
+			"Photo": "Foto do espaço reservado (opcional)",
+			"Queues": "Filas",
+			"Status": "Status",
+			"StatusActive": "Ativo",
+			"StatusInactive": "Inativo",
+			"SubmitButton": "Crio",
+			"Theme": "Tema",
+			"Title": "Criar exibição",
+			"ToastFail": "Não é possível criar exibição",
+			"ToastSuccess": "Exibição criada",
+			"VideoLink": "Link de vídeo do Youtube"
+		},
+		"Content": [
+			"Clique aqui para abrir o formulário Adicionar <strong>display</strong> !",
+			"Você pode editar os detalhes da tela<br>clicando neste botão"
+		],
+		"DeleteKioskPrompt": {
+			"Text": "Tem certeza de que deseja excluir {name}?",
+			"Title": "Excluir exibição",
+			"ToastFail": "Não é possível excluir a exibição",
+			"ToastSuccess": "Exibição excluída"
+		},
+		"EditKioskPrompt": {
+			"CancelButton": "Cancelar",
+			"PhotoUploaded": "Clique aqui para ver a foto do espaço reservado em anexo",
+			"PhotoUploadedDelete": "Excluir foto do espaço reservado",
+			"SubmitButton": "Atualizar",
+			"Title": "Editar exibição",
+			"ToastFail": "Não é possível atualizar a exibição",
+			"ToastSuccess": "Exibição atualizada"
+		},
+		"ResetSecretPrompt": {
+			"Text": "Tem certeza de que deseja redefinir o código secreto para {name}?",
+			"Title": "Redefinir segredo de exibição",
+			"ToastFail": "Não é possível redefinir o segredo da exibição",
+			"ToastSuccess": "Exibir redefinição secreta"
+		},
+		"ShowSecretPrompt": {
+			"CancelButton": "Perto",
+			"Key": "Chave",
+			"Secret": "Segredo",
+			"SecretSave": "Essa é a única chance de ver a chave do quiosque. Salve-o em um local seguro.",
+			"Text": "Encontre abaixo as credenciais de login do quiosque que você acabou de criar:",
+			"Title": "Chave e segredo do quiosque",
+			"ToastFail": "Não é possível excluir o quiosque",
+			"ToastSuccess": "Quiosque excluído",
+			"Token": "Token de autenticação automática",
+			"TokenSave": "Essa é a única chance de ver o token do quiosque. Salve-o em um local seguro."
+		},
+		"Table": {
+			"CreatedAt": "Criado em",
+			"Key": "Chave",
+			"Name": "Nome",
+			"Options": "Opções",
+			"Queues": "Filas",
+			"Status": "Status"
+		}
+	},
+	"Errors": {
+		"EmailDoesNotExist": "O email não corresponde aos nossos registros",
+		"Invalid": "{field} não é válido",
+		"InvalidEmailOrUsed": "O email é inválido ou usado por outra conta",
+		"InvalidFilePolite": "Anexe um {field}válido",
+		"InvalidPassword": "A senha deve ter pelo menos 6 caracteres",
+		"InvalidPolite": "Digite um {field}válido",
+		"InvalidSelectPolite": "Por favor, selecione um {field}válido",
+		"LoginFail": "E-mail e senha não correspondem aos nossos registros",
+		"PasswordConfirmDoNotMatch": "A confirmação da senha não corresponde",
+		"PasswordResetFail": "O email e o código de redefinição não correspondem",
+		"RegisterTermsFail": "Você DEVE aceitar nossos Termos e Condições!",
+		"Required": " É necessário{field} "
+	},
+	"GeneralSettings": {
+		"BusinessAccount": {
+			"DeleteAccount": "deletar conta",
+			"DeleteHistory": "Apagar histórico",
+			"IsPublished": "Negócios publicados e disponíveis nos sistemas Liberrex para os usuários pesquisarem, reservarem e compartilharem comentários.",
+			"SaveButton": "Salve ",
+			"Title": "Conta de negócios"
+		},
+		"Content": [
+			"As configurações de dados e privacidade podem ser gerenciadas a partir daqui.",
+			"As configurações da conta comercial podem ser gerenciadas a partir daqui."
+		],
+		"DataAndPrivacy": {
+			"DeleteHistoryDaily": "Exclua todo o histórico de dados a cada 24 horas e não mantenha nenhum registro de atividade comercial.",
+			"ShareData": "Compartilhe dados da atividade comercial com serviços de terceiros para aumentar a eficiência e a precisão do algoritmo.",
+			"ShareWaitingTime": "Compartilhe o tempo de espera e reserve slots com usuários públicos",
+			"Title": "Dados privados"
+		},
+		"DeleteAccountPrompt": {
+			"Text": "Tem certeza de que deseja excluir sua conta comercial? Observe que todos os dados associados a esta conta serão excluídos e você não poderá recuperá-los no futuro. Se for uma decisão difícil de tomar, você pode simplesmente cancelar a publicação de sua empresa até tomar uma decisão final",
+			"Title": "deletar conta",
+			"ToastFail": "Não é possível excluir a conta",
+			"ToastSuccess": "Conta excluída"
+		},
+		"DeleteHistoryPrompt": {
+			"Text": "Tem certeza de que deseja excluir todos os dados de atividades associados à sua conta comercial?",
+			"Title": "Apagar histórico",
+			"ToastFail": "Não é possível excluir o histórico",
+			"ToastSuccess": "Histórico excluído"
+		},
+		"MyLiberrex": {
+			"AnonymousFeedback": "Ocultar o nome do cliente no feedback",
+			"BookingAllowAttachments": "Os clientes podem enviar anexos com pedidos de reserva.",
+			"BookingAllowed": "Os clientes podem agendar compromissos.",
+			"BookingRequireAttachments": "As reservas exigem anexos",
+			"BookingSelectDate": "Os clientes podem selecionar as datas disponíveis.",
+			"BookingSelectDepartment": "As reservas exigem a escolha do departamento.",
+			"BookingSelectSlot": "Os clientes podem selecionar os slots disponíveis.",
+			"FeedbackView": "Ocultar feedback",
+			"QueueAllowed": "Os clientes podem participar de listas de espera.",
+			"QueueOnlyBooked": "Os clientes só podem participar de listas de espera se tiverem uma reserva confirmada no mesmo dia.",
+			"QueueRequirePayment": "Os clientes devem pagar taxas antes de poderem entrar nas listas de espera.",
+			"SaveButton": "Salve",
+			"Title": "My Liberrex"
+		},
+		"Notifications": {
+			"Email": "Notificações por email",
+			"Push": "Notificações via push",
+			"SMS": "Notificações por SMS",
+			"Title": "Notificações"
+		}
+	},
+	"Help": {
+		"MembershipButton": "Atualize para LIBERUP",
+		"MembershipText": "Baseando-se em seus dados históricos, nossa IA recomenda o pacote LIBERUP para o seu negócio.",
+		"MembershipTitle": "Filiação",
+		"NeedHelp": "Preciso de ajuda?",
+		"TechnicalProblemText": "Se você estiver enfrentando algum problema técnico, envie capturas de tela para support@liberrex.com ou ligue para +44 (0) 7802-40-5359 para obter assistência urgente.",
+		"TechnicalProblemTitle": "Problema técnico",
+		"UserGuideLinkText": "Guia do usuário - Vídeos",
+		"UserGuideText": "Você é novo no Liberrex e ainda não sabe como usar a plataforma? Não entre em pânico, nós preparamos\n        documentação e vídeos para você que o guiarão por todos os recursos e configurações da conta. Clique no link a seguir para acessar o nosso canal do YouTube.",
+		"UserGuideTitle": "Guia de usuario"
+	},
+	"Kiosk": {
+		"AddKioskButton": "Criar quiosque",
+		"AddKioskPrompt": {
+			"CancelButton": "Cancelar",
+			"CollectCustomerDetails": "Coletar detalhes do cliente",
+			"IpAddress": "Restringir ao endereço IP",
+			"MacAddress": "Restringir ao endereço Mac",
+			"Name": "Nome do quiosque",
+			"Photo": "Foto do espaço reservado (opcional)",
+			"Queues": "Filas",
+			"RequireInternalId": "Exigir ID interno",
+			"ShouldPrint": "Deve imprimir bilhete",
+			"ShowKeyboard": "Mostrar teclado virtual",
+			"Status": "Status",
+			"StatusActive": "Ativo",
+			"StatusInactive": "Inativo",
+			"SubmitButton": "Crio",
+			"Theme": "Tema",
+			"Title": "Criar quiosque",
+			"ToastFail": "Não é possível criar o quiosque",
+			"ToastSuccess": "Quiosque criado"
+		},
+		"App": {
+			"AllDone": "Tudo feito! Você entrou na lista de espera",
+			"AlmostDone": "Estamos quase terminando",
+			"CancelButton": "Cancelar",
+			"CheckinTitle": "Check-in",
+			"ChooseWaitingList": "Por favor, escolha uma lista de espera.",
+			"ConfirmButton": "confirme",
+			"ContinueButton": "Continuar",
+			"EmailPlaceholder": "E-mail opcional)",
+			"EnterPhone": "Por favor, digite seu número de telefone",
+			"FirstNamePlaceholder": "Primeiro nome",
+			"FullName": "Nome completo",
+			"Hello": "Olá,",
+			"HelloCustomer": "Olá {customer}",
+			"Key": "Chave",
+			"LastNamePlaceholder": "Último nome",
+			"Login": "Login do quiosque",
+			"LoginButton": "Entrar",
+			"LogoutButton": "Sair",
+			"MoreDetailsText": "Precisamos de mais algumas informações sobre você",
+			"PhoneNumber": "Número de telefone",
+			"PhoneNumberPlaceholder": "+216 __ ___ ___",
+			"PushError": "Não foi possível ingressar na fila solicitada, você já pode estar esperando na fila!",
+			"QueuesVerify": "Você precisa escolher uma lista de espera",
+			"ReturnButton": "Retorna",
+			"Secret": "Segredo",
+			"SelectEmployee": "Deseja ser atendido por um membro específico da nossa equipe? Se sim, selecione um, caso contrário, clique em continuar",
+			"SelectServices": "Selecione o (s) serviço (s) desejado (s)",
+			"SelectedMember": "Membro da equipe selecionado",
+			"SelectedServices": "Serviço (s) selecionado (s)",
+			"ServicesVerify": "Você precisa escolher pelo menos um serviço",
+			"StartAgainButton": "Comece de novo",
+			"TicketSentText": "Enviamos um ingresso digital para o seu número de telefone. Use-o para acompanhar o progresso do seu lugar na fila em tempo real.",
+			"VerifyData": "verifique os dados abaixo e clique em confirmar",
+			"WaitingList": "Lista de espera"
+		},
+		"Content": [
+			"Clique aqui para abrir o formulário Adicionar <strong>quiosques</strong> !",
+			"Você pode editar os detalhes dos quiosques<br>clicando neste botão"
+		],
+		"DeleteKioskPrompt": {
+			"Text": "Tem certeza de que deseja excluir {name}?",
+			"Title": "Excluir quiosque",
+			"ToastFail": "Não é possível excluir o quiosque",
+			"ToastSuccess": "Quiosque excluído"
+		},
+		"EditKioskPrompt": {
+			"CancelButton": "Cancelar",
+			"PhotoUploaded": "Clique aqui para ver a foto do espaço reservado em anexo",
+			"PhotoUploadedDelete": "Excluir foto do espaço reservado",
+			"SubmitButton": "Atualizar",
+			"Title": "Editar quiosque",
+			"ToastFail": "Não é possível atualizar o quiosque",
+			"ToastSuccess": "Quiosque atualizado"
+		},
+		"ResetSecretPrompt": {
+			"Text": "Tem certeza de que deseja redefinir o código secreto para {name}?",
+			"Title": "Redefinir segredo do quiosque",
+			"ToastFail": "Não é possível redefinir o segredo do quiosque",
+			"ToastSuccess": "Redefinição secreta do quiosque"
+		},
+		"ShowSecretPrompt": {
+			"CancelButton": "Perto",
+			"IpAddress": "Restringir ao endereço IP",
+			"Key": "Chave",
+			"MacAddress": "Restringir ao endereço Mac",
+			"Secret": "Segredo",
+			"SecretSave": "Essa é a única chance de ver a chave do quiosque. Salve-o em um local seguro.",
+			"Text": "Encontre abaixo as credenciais de login do quiosque que você acabou de criar:",
+			"Title": "Tela de exibição - Login",
+			"ToastFail": "Não é possível excluir o quiosque",
+			"ToastSuccess": "Quiosque excluído",
+			"Token": "Token de autenticação automática",
+			"TokenSave": "Essa é a única chance de ver o token do quiosque. Salve-o em um local seguro."
+		},
+		"Table": {
+			"CreatedAt": "Criado em",
+			"Key": "Chave",
+			"Name": "Nome",
+			"Options": "Opções",
+			"Queues": "Filas",
+			"Status": "Status"
+		},
+		"Ticket": {
+			"Rank": "Clientes aguardando",
+			"ScanQR": "Leia o código QR acima para rastrear seu ingresso on-line",
+			"Services": "Serviços",
+			"ThankYou": "Obrigado por sua visita hoje",
+			"WaitingTime": "Tempo de espera",
+			"Welcome": "Bem-vindo ao"
+		}
+	},
+	"Languages": {
+		"ar": "árabe",
+		"de": "alemão",
+		"en": "Inglês",
+		"es": "espanhol",
+		"fr": "Frensh",
+		"pt": "português",
+		"ru": "russo"
+	},
+	"Membership": {
+		"ApplyCouponButton": "Aplique",
+		"Content": [
+			"Uma lista de associações disponíveis no Liberrex.",
+			"Você pode se inscrever em uma associação clicando no botão <strong>\"Inscrever-se\"</strong>"
+		],
+		"Coupon": "Cupom",
+		"CustomerDatabase": "Banco de dados do cliente (CRM)",
+		"CustomerFlowManagement": "Gerenciamento de fluxo de clientes",
+		"DigitalSignage": "Assinatura digital",
+		"ExcludeVat": "Excl. CUBA",
+		"Forever": "Para sempre",
+		"Free": "livre",
+		"Month": "Mês",
+		"Monthly": "Por mês",
+		"OnlineCustomerRequests": "Solicitações de clientes on-line",
+		"PaymentPopup": {
+			"Fail": {
+				"Message": "Falha no pagamento da assinatura",
+				"Text": "Desculpa",
+				"Title": "Falha de pagamento"
+			},
+			"Success": {
+				"Message": "Pagamento de assinatura bem-sucedido",
+				"Text": "Obrigado",
+				"Title": "Pagamento bem sucedido"
+			}
+		},
+		"RealTimeStatistics": "Estatísticas em tempo real",
+		"SelfCheckinTerminal": "Terminal de auto-check-in",
+		"SubTotal": "Subtotal",
+		"SubscribeButton": "Se inscrever",
+		"SubscribePrompt": {
+			"CancelButton": "Cancelar",
+			"PayButton": "Pagar",
+			"SubmitButton": "Se inscrever",
+			"Title": "Se inscrever",
+			"ToastFail": "Não é possível atualizar a associação",
+			"ToastSuccess": "Associação atualizada"
+		},
+		"Total": "Total",
+		"Transaction": "Transação",
+		"TrialDaysLeft": "{days} dia (s) e {hours} hora (s)",
+		"TrialDaysText": "Você está em período experimental que expira em",
+		"TrialFeatures": "Você tem acesso total a todos os recursos, mas está limitado a um total de 200 SMS",
+		"TrialTitle": "Período de teste",
+		"VAT": "Cuba",
+		"Year": "ano",
+		"Yearly": "Anual",
+		"YouAreSubscribedToFree": "Você se inscreveu no {package} gratuitamente",
+		"YouAreSubscribedToPackage": "Você se inscreveu em {package} em um plano {plan} "
+	},
+	"Menu": {
+		"Bookings": {
+			"Bookings": "Reservas",
+			"Calendar": "Calendário",
+			"Request": "Pedido",
+			"Table": "Mesa"
+		},
+		"Coupons": "Cupons e ofertas",
+		"Customers": "clientes",
+		"Dashboard": "painel de controle",
+		"Displays": "Tela de exibição",
+		"EditQueue": "Editar fila",
+		"Feedback": "Comentários",
+		"Kiosks": "Quiosques",
+		"NewQueue": "Nova fila",
+		"Profile": "Perfil",
+		"QueueArchive": "Arquivo da fila",
+		"Queues": "Listas de espera",
+		"Settings": "Definições",
+		"SettingsBilling": "Faturamento",
+		"SettingsBusiness": "Em formação",
+		"SettingsDepartments": "Departamentos",
+		"SettingsGeneral": "Geral",
+		"SettingsMembership": "Membership",
+		"SettingsPayment": "Pagamentos",
+		"SettingsRuleCreate": "Criar regra",
+		"SettingsRuleEdit": "Editar regra",
+		"SettingsRules": "Regras",
+		"SettingsServices": "Serviços",
+		"SettingsSms": "Transações SMS",
+		"SettingsTeam": "Equipe",
+		"Statistics": "Estatisticas",
+		"WaitingList": "Lista de espera"
+	},
+	"Navbar": {
+		"Logout": "Sair",
+		"MyProfile": "Meu perfil"
+	},
+	"Navigation": {
+		"Next": "Próximo",
+		"Previous": "Anterior"
+	},
+	"Notifications": {
+		"Backend": {
+			"queue_request": "Nova solicitação de ingresso na fila"
+		},
+		"Pusher": {
+			"Booking": {
+				"Created": {
+					"Text": "Alguém marcou uma consulta",
+					"Title": "Nova reserva"
+				},
+				"Deleted": {
+					"Text": "Alguém cancelou sua reserva",
+					"Title": "Reserva cancelada"
+				}
+			},
+			"BookingRequest": {
+				"Created": {
+					"Text": "Alguém quer marcar uma consulta",
+					"Title": "Nova Solicitação de Reserva"
+				},
+				"Deleted": {
+					"Text": "Alguém cancelou seu pedido para marcar uma consulta",
+					"Title": "Pedido de reserva cancelado"
+				}
+			},
+			"QueueRequest": {
+				"Created": {
+					"Text": "Alguém quer entrar na fila",
+					"Title": "Nova solicitação de fila"
+				},
+				"Deleted": {
+					"Text": "Alguém cancelou seu pedido para ingressar na fila",
+					"Title": "Solicitação de fila cancelada"
+				}
+			},
+			"Ticket": {
+				"Created": {
+					"Text": "Alguém entrou na fila",
+					"Title": "Novo Bilhete"
+				},
+				"Deleted": {
+					"Text": "Alguém saiu da fila",
+					"Title": "Bilhete cancelado"
+				}
+			}
+		},
+		"SeeAll": "Verificar todas as notificações"
+	},
+	"Payments": {
+		"Tabs": {
+			"PaymentsList": "Pagamentos",
+			"Settings": "Definições"
+		}
+	},
+	"Privacy": "Política de Privacidade",
+	"Profile": {
+		"CurrentPassword": "Senha atual",
+		"DeleteAccount": {
+			"Text": "Tem certeza de que deseja excluir sua conta?",
+			"Title": "deletar conta",
+			"ToastFail": "Não é possível excluir a conta",
+			"ToastSuccess": "Conta excluída"
+		},
+		"DeleteAccountButton": "deletar conta",
+		"Department": "Departamento",
+		"Email": "O email",
+		"FirstName": "Primeiro nome",
+		"LastName": "Último nome",
+		"MemberSince": "Membro desde",
+		"NewPassword": "Nova senha",
+		"Password": "Senha",
+		"PasswordConfirm": "Confirme a Senha",
+		"PasswordErrorMessage": "A senha DEVE ter pelo menos 6 caracteres.",
+		"PersonalInformation": "Informação pessoal",
+		"PhoneNumber": "Número de telefone",
+		"Photo": "Foto de perfil",
+		"Position": "Posição",
+		"Positions": {
+			"Admin": "Admin",
+			"CEO": "CEO",
+			"Employee": "Empregado",
+			"Front Desk": "Mesa da frente",
+			"Manager": "Gerente",
+			"Other": "De outros",
+			"Secretary": "Secretário"
+		},
+		"Role": "Função",
+		"UpdatePasswordButton": "Atualizar senha",
+		"UpdatePasswordPrompt": {
+			"CancelButton": "Cancelar",
+			"ConfirmButton": "Atualizar",
+			"Text": "Tem certeza de que deseja excluir sua conta?",
+			"Title": "Atualizar senha",
+			"ToastFail": "Não é possível atualizar a senha",
+			"ToastSuccess": "Senha excluída"
+		},
+		"UpdatePersonalInformation": {
+			"ToastFail": "Não é possível atualizar informações pessoais",
+			"ToastSuccess": "Informações pessoais atualizadas"
+		},
+		"UpdateSubmitButton": "Salvar alterações",
+		"updatePrivacySettings": {
+			"DeleteAccountFail": "Falha ao excluir a conta",
+			"DeleteAccountSuccess": "A conta foi excluída com sucesso",
+			"DeleteHistoryFail": "Não é possível excluir o histórico",
+			"DeleteHistorySuccess": "Histórico excluído com sucesso",
+			"ToastFail": "Não é possível atualizar as informações de privacidade",
+			"ToastSuccess": "Configurações de privacidade atualizadas"
+		}
+	},
+	"Queue": {
+		"Archive": {
+			"Customer": "Cliente",
+			"ID": "Identificador",
+			"Notes": "notas",
+			"ServedAt": "Servido em",
+			"Services": "Serviços"
+		},
+		"Content": [
+			"Todas as filas serão listadas aqui ....",
+			"Para criar uma nova fila, clique neste botão."
+		],
+		"Counter": {
+			"CreatePrompt": {
+				"CancelButton": "Cancelar",
+				"SubmitButton": "Salve ",
+				"Title": "Criar contador",
+				"ToastFail": "Não é possível criar contador",
+				"ToastSuccess": "Contador criado"
+			},
+			"DeletePrompt": {
+				"Text": "Tem certeza de que deseja excluir este contador?",
+				"Title": "Excluir contador",
+				"ToastFail": "Não é possível excluir o contador",
+				"ToastSuccess": "Contador excluído"
+			},
+			"EditPrompt": {
+				"CancelButton": "Cancelar",
+				"SubmitButton": "Salve ",
+				"Title": "Editar contador",
+				"ToastFail": "Não é possível atualizar o contador",
+				"ToastSuccess": "Contador atualizado"
+			}
+		},
+		"Create": {
+			"AddNewCounterButton": "Adicionar contador",
+			"AskCovid": "Pergunte ao cliente se ele tem sintomas de COVID-19",
+			"AutoCall": "Ligue para o próximo cliente na lista de espera automaticamente",
+			"AvailableServices": "Serviços disponíveis",
+			"Content": [
+				"Preencha o formulário para criar uma nova fila.",
+				"Para criar uma nova fila, clique neste botão."
+			],
+			"CounterName": "Nome do contador",
+			"Counters": "Contadores",
+			"QueueName": "Nome da fila",
+			"RequireBooking": "Somente os clientes com reservas confirmadas podem entrar na lista de espera.",
+			"SubmitButton": "Crio",
+			"TeamMembers": "Membros do time",
+			"TeamMembersChoosable": "O cliente pode escolher um funcionário",
+			"TicketNumberStart": "Número de início do ticket",
+			"TicketNumberType": "Tipo de Número do Bilhete",
+			"TicketNumberTypeIncr": "Incremental",
+			"TicketNumberTypeRand": "Aleatória",
+			"TicketPrefix": "Prefixo do ticket",
+			"ToastFail": "Não é possível criar fila",
+			"ToastSuccess": "Fila criada",
+			"WorkingDays": "Dias úteis"
+		},
+		"CreateQueueButton": "Criar fila",
+		"Edit": {
+			"SubmitButton": "Atualizar",
+			"ToastFail": "Não é possível atualizar a fila",
+			"ToastSuccess": "Fila atualizada",
+			"TranslateButton": "Traduções",
+			"TranslationPrompt": {
+				"CancelButton": "Cancelar",
+				"SubmitButton": "Salve ",
+				"Title": "Tradução da fila",
+				"ToastFail": "Não é possível salvar as traduções",
+				"ToastSuccess": "Traduções salvas"
+			}
+		},
+		"SearchQueuePlaceholder": "Fila de pesquisa por nome",
+		"WaitingList": {
+			"CallNextButton": "Ligue para o próximo",
+			"CallNextToastFail": "Não é possível ligar para o próximo cliente",
+			"CallNextToastSuccess": "Próximo cliente chamado",
+			"CloseCounterAlert": {
+				"Text": "Tem certeza de que deseja fechar o contador atual?",
+				"Title": "Fechar Contador",
+				"ToastFail": "Não é possível fechar o contador",
+				"ToastSuccess": "Contador Fechado"
+			},
+			"CloseCounterButton": "Fechar Contador",
+			"CountersButton": "Contadores",
+			"CreateDelayButton": "Adicionar atraso",
+			"DelayText": "Você tem {delay} de atraso nesta fila",
+			"MoveTicketAlert": {
+				"AcceptButton": "Perto",
+				"Text": "Esteja ciente de que a movimentação deste ticket afetará outros tickets e resultará em alterações no tempo de espera.",
+				"Title": "Deseja mesmo mudar o bilhete?",
+				"ToastFail": "Não é possível mover o ticket",
+				"ToastSuccess": "Bilhete movido"
+			},
+			"NowServingCounter": "Agora servindo balcão",
+			"OpenCounterAlert": {
+				"AcceptButton": "Perto",
+				"Text": "Não é possível abrir o balcão, clique em fechar primeiro!",
+				"Title": "Contador já aberto",
+				"ToastFail": "Não é possível abrir o balcão",
+				"ToastSuccess": "Contador aberto"
+			},
+			"PleaseChooseCounter": "Escolha um contador",
+			"PleaseChooseCounterLabel": "Essa fila possui vários contadores. Escolha um contador para começar a atender os clientes.",
+			"PushButton": "Adicionar cliente",
+			"RequestsEmpty": "Você não possui solicitações pendentes no momento!",
+			"Resume": "Retomar serviço",
+			"ResumeServiceAlert": {
+				"Text": "Tem certeza de que deseja retomar o serviço?",
+				"Title": "Retomar serviço",
+				"ToastFail": "Não é possível retomar o serviço",
+				"ToastSuccess": "Serviço retomado"
+			},
+			"SelectCounterButton": "confirme",
+			"WaitingListEmpty": "Ninguém está esperando nesta fila. Você pode adicionar seus clientes a essa fila clicando no botão Adicionar acima.",
+			"WaitingListEmptyTitle": "Fila vazia"
+		}
+	},
+	"Rule": {
+		"AddRuleButton": "Adicionar regra",
+		"AddRulePrompt": {
+			"Action": "Açao",
+			"ActionApprove": "Aprovar",
+			"ActionDecline": "Rejeitar",
+			"ApplyFor": "Aplicar em",
+			"ApplyForAllCustomers": "Todos os clientes",
+			"ApplyForBlacklisted": "Na lista negra",
+			"ApplyForNewCustomers": "Novos visitantes",
+			"ApplyForVipCustomers": "Clientes VIP",
+			"FlowTarget": "Alvo de fluxo",
+			"FlowTargetBooking": "Reserva",
+			"FlowTargetQueue": "Lista de espera",
+			"NameLabel": "Nome",
+			"NamePlaceholder": "O seu nome da regra",
+			"RuleSettings": "Configurações de regra",
+			"SubmitButton": "Crio",
+			"TimeFrame": "Prazo",
+			"TimeFrameCustom": "Personalizado",
+			"TimeFrameCustomEndDate": "Data final",
+			"TimeFrameCustomStartDate": "Data de Início",
+			"TimeFrameForever": "Para sempre",
+			"ToastFail": "Não é possível criar regra",
+			"ToastSuccess": "Regra criada",
+			"WorkingDays": "Dias úteis"
+		},
+		"Content": [
+			"Clique aqui para adicionar nova <strong>regra</strong>",
+			"Você pode editar os detalhes da regra<br>clicando neste botão"
+		],
+		"Create": {
+			"Content": [
+				"Você pode usar este formulário para adicionar uma nova regra.",
+				"preencha todos os campos obrigatórios e pressione o botão <strong>Criar</strong> "
+			]
+		},
+		"DeleteRulePrompt": {
+			"Text": "Tem certeza de que deseja excluir {rule}?",
+			"Title": "Excluir regra",
+			"ToastFail": "Não é possível excluir a regra",
+			"ToastSuccess": "Regra excluída"
+		},
+		"EditRulePrompt": {
+			"ToastFail": "Não é possível atualizar a regra",
+			"ToastSuccess": "Regra atualizada"
+		},
+		"Table": {
+			"Action": "Açao",
+			"ActionApprove": "Aprovar",
+			"ActionDecline": "Rejeitar",
+			"CreatedAt": "Criado em",
+			"CustomerTarget": "Destino do Cliente",
+			"CustomerTargetAll": "Todos os clientes",
+			"CustomerTargetBlacklisted": "Na lista negra",
+			"CustomerTargetNew": "primeira visita",
+			"CustomerTargetVIP": "VIP",
+			"Flow": "Alvo de fluxo",
+			"FlowBooking": "Reserva",
+			"FlowQueue": "Fila",
+			"Name": "Nome",
+			"Options": "Opções"
+		}
+	},
+	"SMS": {
+		"Allowance": "Abono",
+		"BOOKING_CANCELED": "Reserva cancelada",
+		"BOOKING_CREATED": "Reserva criada",
+		"BOOKING_REMINDER_24_HOURS": "Lembrete de reserva 24 horas antes",
+		"BOOKING_REMINDER_48_HOURS": "Lembrete de reserva 48 horas antes",
+		"BOOKING_REMINDER_7_DAYS": "Lembrete de reserva 7 dias antes",
+		"BOOKING_UPDATED": "Reserva atualizada",
+		"Balance": "Saldo remanescente",
+		"Booking": "Reserva",
+		"Consumed": "Consumido",
+		"History": "história",
+		"Language": "Língua",
+		"QUEUE_CALL_NEXT": "Chamada de ingresso na fila próxima notificação",
+		"QUEUE_FEEDBACK": "Ticket da fila - colete feedback",
+		"QUEUE_GET_READY": "Ticket de fila, prepare a notificação",
+		"QUEUE_TICKET_CANCELED": "Bilhete de fila cancelado",
+		"QUEUE_TICKET_CREATED": "Bilhete de fila criado",
+		"QUEUE_TICKET_REDIRECTED": "Ticket de fila redirecionado",
+		"QUEUE_TICKET_UPDATED": "Ticket da fila atualizado",
+		"Queue": "Fila",
+		"SaveButton": "Salvar atualizações",
+		"SettingUpdate": {
+			"ToastFail": "Não é possível atualizar as configurações do SMS",
+			"ToastSuccess": "Configurações de SMS atualizadas"
+		},
+		"Settings": "Definições",
+		"Table": {
+			"Destination": "Número de telefone",
+			"Message": "mensagem",
+			"Sent at": "Enviado às",
+			"SentAt": "Enviado às"
+		},
+		"delay_created": "Atraso de fila criado"
+	},
+	"Service": {
+		"AddServiceButton": "Adicionar serviço",
+		"AddServicePrompt": {
+			"CancelButton": "Cancelar",
+			"Duration": "Duração (em minutos)",
+			"ServiceLabel": "Serviço",
+			"ServicePlaceholder": "Selecione um serviço",
+			"SubmitButton": "Adicionar",
+			"Title": "Adicionar serviço",
+			"ToastFail": "Não é possível adicionar serviço",
+			"ToastSuccess": "Serviço adicionado"
+		},
+		"Content": [
+			"Clique aqui para abrir o formulário Adicionar <strong>Serviço</strong> !",
+			"Você pode editar os detalhes do serviço<br>clicando neste botão"
+		],
+		"DeleteServicePrompt": {
+			"Text": "Tem certeza de que deseja excluir {name} ?",
+			"Title": "Excluir serviço",
+			"ToastFail": "Não é possível excluir o serviço",
+			"ToastSuccess": "Serviço excluído"
+		},
+		"EditServicePrompt": {
+			"CancelButton": "Cancelar",
+			"SubmitButton": "Salve ",
+			"Title": "Serviço de edição",
+			"ToastFail": "Não é possível atualizar o serviço",
+			"ToastSuccess": "Serviço atualizado"
+		},
+		"NoServiceAlert": {
+			"GoToServicesButton": "Adicionar serviço (s)",
+			"Text": "Você não possui nenhum serviço associado à sua empresa, acesse as configurações de serviços para adicionar pelo menos um serviço.",
+			"Title": "Sem serviços!"
+		},
+		"Table": {
+			"CreatedAt": "Criado em",
+			"EstimatedDuration": "duração estimada",
+			"Options": "Opções",
+			"Service": "Serviço"
+		}
+	},
+	"Shared": {
+		"Date": "Encontro",
+		"Hour": "hora | horas",
+		"Minute": "Minuto | Minutos",
+		"Service": "Serviço | Serviços"
+	},
+	"Statistics": {
+		"ServiceFrequency": {
+			"Chart": {
+				"Daily": "diariamente",
+				"Day": "Dia",
+				"Monthly": "Por mês",
+				"Weekly": "semanal",
+				"Yearly": "Anual"
+			},
+			"ParamsPrompt": {
+				"CancelButton": "Cancelar",
+				"ChartData": "Dados do gráfico",
+				"ChartType": "Tipo de gráfico",
+				"DateType": "Data Tipo",
+				"SubmitButton": "confirme",
+				"Title": "Parâmetros de frequência de serviço"
+			},
+			"ServicesPie": "Gráfico de pizza de serviços",
+			"Title": "Freqüência de serviço"
+		},
+		"ServiceTime": "Tempo de serviço",
+		"Tabs": {
+			"Customers": {
+				"AvgCustomerReturn": "Retorno médio do cliente",
+				"CustomerFrequencyHideButton": "Ocultar principais clientes",
+				"CustomerFrequencyShowButton": "Mostrar os principais clientes",
+				"CustomerNewEntry": "Nova entrada do cliente",
+				"Table": {
+					"FirstName": "Primeiro nome",
+					"LastName": "Último nome",
+					"Phone": "Número de telefone",
+					"TotalReturn": "Horários de retorno"
+				},
+				"Title": "clientes",
+				"TotalCustomers": "Clientes totais"
+			},
+			"Frequency": {
+				"Chart": {
+					"Daily": "diariamente",
+					"Monthly": "Por mês",
+					"Weekly": "semanal",
+					"Yearly": "Anual"
+				},
+				"Title": "Freqüência"
+			},
+			"Logs": "toras",
+			"Services": "Serviços",
+			"Time": {
+				"Chart": {
+					"Daily": "diariamente",
+					"Monthly": "Por mês",
+					"Service": "Tempo de serviço",
+					"Waiting": "Tempo de espera",
+					"Weekly": "semanal",
+					"Yearly": "Anual"
+				},
+				"Title": "tempo"
+			}
+		},
+		"VisitFrequency": {
+			"Booking": "Frequência de reserva",
+			"ParamsPrompt": {
+				"Area": "Área",
+				"Bar": "Barra",
+				"Booking": "Reserva",
+				"CancelButton": "Cancelar",
+				"ChartData": "Dados do gráfico",
+				"ChartType": "Tipo de gráfico",
+				"DateType": "Data Tipo",
+				"Queue": "Fila",
+				"SubmitButton": "confirme",
+				"Title": "Visit Frequency Parameters"
+			},
+			"Queue": "Frequência de fila",
+			"Title": "Frequência de visita"
+		},
+		"WaitingTime": "Tempo de espera"
+	},
+	"Team": {
+		"AddTeamMemberButton": "Adicionar membro da equipe",
+		"AddTeamMemberPrompt": {
+			"CancelButton": "Cancelar",
+			"SubmitButton": "Crio",
+			"Title": "Adicionar membro da equipe",
+			"ToastFail": "Não é possível criar membro",
+			"ToastSuccess": "Membro criado"
+		},
+		"Content": [
+			"Clique aqui para abrir o formulário Adicionar <strong>Membro da Equipe</strong> !",
+			"Você pode editar os detalhes do membro da equipe<br>clicando neste botão"
+		],
+		"CreatedAt": "Criado em",
+		"DeleteTeamMemberPrompt": {
+			"Text": "Tem certeza de que deseja excluir {name}?",
+			"Title": "Excluir membro",
+			"ToastFail": "Não é possível excluir o membro",
+			"ToastSuccess": "Membro excluído"
+		},
+		"EditTeamMemberPrompt": {
+			"CancelButton": "Cancelar",
+			"SubmitButton": "Salve ",
+			"Title": "Editar membro da equipe",
+			"ToastFail": "Não é possível atualizar o membro",
+			"ToastSuccess": "Membro atualizado"
+		},
+		"Options": "Opções",
+		"Positions": {
+			"Admin": "Admin",
+			"CEO": "CEO",
+			"Employee": "Empregado",
+			"Front Desk": "Mesa da frente",
+			"Manager": "Gerente",
+			"Other": "De outros",
+			"Secretary": "Secretário"
+		},
+		"WorkingDaysPrompt": {
+			"CancelButton": "Cancelar",
+			"SubmitButton": "Atualizar",
+			"Title": "{name} - Dias úteis",
+			"ToastFail": "Não é possível atualizar os dias úteis",
+			"ToastSuccess": "Dias úteis atualizados"
+		}
+	},
+	"Terms": "termos e Condições",
+	"Time": {
+		"From": "De",
+		"To": "Para"
+	},
+	"Toasts": {
+		"AcceptButton": "confirme",
+		"CancelButton": "Cancelar",
+		"Error": "Desculpa!",
+		"Successful": "BEM SUCEDIDO"
+	},
+	"Vendor": {
+		"AdditionalFields": "Mais informações",
+		"Attachments": "Anexo (s)",
+		"AttachmentsPlaceholder": "Clique aqui para selecionar os arquivos <br>(somente imagens e PDF são aceitos)",
+		"AvailableSlots": "Horários disponíveis",
+		"BookNow": "Livro agora",
+		"Booking": "Reserva",
+		"BookingSummary": "Sumário",
+		"BookingSummaryAttachments": "Anexo (s)",
+		"BookingSummaryDate": "Encontro",
+		"BookingSummaryDateRequestBook": "Solicitar para reservar",
+		"BookingSummaryDuration": "Duração",
+		"BookingSummaryServices": "Serviços",
+		"BookingSummarySlot": "Slot",
+		"BookingSummaryTime": "tempo",
+		"BusinessHours": "Horário comercial",
+		"Closed": "Fechadas",
+		"ClosedNow": "Fechado agora",
+		"Confirmation": {
+			"Button": "Minhas reservas",
+			"ButtonGoBooking": "Minhas reservas",
+			"ButtonGoHome": "Página Inicial",
+			"Header": "Obrigado pelo seu pedido de reserva!",
+			"Text": "O seu pedido de reserva foi enviado ao fornecedor do serviço, iremos notificá-lo assim que for tomada uma decisão."
+		},
+		"CustomersWaiting": "Clientes aguardando",
+		"DateTimePicker": "Seleção de data e hora",
+		"Departments": "Departamentos",
+		"DepartmentsPlaceholder": "Selecione um departamento",
+		"Details": "Detalhes",
+		"EstWaitingTime": "Tempo de espera",
+		"EstimatedWaitingTime": "Tempo de espera",
+		"Gallery": "galeria",
+		"Guest": "Hóspede_",
+		"JoinQueue": "Entrar na lista de espera",
+		"JoinVipQueue": "Entrar na lista de espera VIP",
+		"Location": "Localização",
+		"MapInput": "Fixe a sua localização",
+		"Minutes": "Minutos",
+		"NoAvailableSlots": "Não há horário disponível para reserva ..",
+		"Open": "Abrir",
+		"OpenNow": "Abra agora",
+		"Overview": "visão global",
+		"QueueConfirmation": {
+			"Button": "Meus ingressos",
+			"ButtonGoBooking": "Meus ingressos",
+			"ButtonGoHome": "Página Inicial",
+			"Header": "Obrigado pelo seu pedido para entrar na lista de espera!",
+			"Text": "O seu pedido de adesão à lista de espera foi enviado ao fornecedor de serviços, iremos notificá-lo assim que for tomada uma decisão."
+		},
+		"QueueError": {
+			"Button": "Perto",
+			"ButtonClose": "Perto",
+			"Header": "Desculpe! Não podemos prosseguir",
+			"Text": "Ou você já está na lista de espera ou ocorreu um erro técnico."
+		},
+		"QueueSummary": "Resumo",
+		"QueueSummaryQueue": "Lista de espera",
+		"QueueSummaryRequestJoinButton": "Pedido para se juntar",
+		"QueueSummaryServiceDuration": "Duração do serviço",
+		"QueueSummaryWaitingTime": "Tempo de espera",
+		"Reviews": "Rever",
+		"Save": "Salve ",
+		"Services": "Serviços",
+		"Share": "Compartilhar",
+		"SimilarPlaces": "Lugares semelhantes",
+		"VIP": "VIP",
+		"Validation": {
+			"AddAttchament": "Por favor adicione um anexo",
+			"AdditionalFields": "Por favor, preencha a seção de mais informações",
+			"Location": "Fixe a sua localização",
+			"SelectDate": "Por favor selecione uma data",
+			"SelectService": "Selecione um ou mais serviços",
+			"SelectSlot": "Selecione um horário",
+			"Title": "Incapaz de prosseguir"
+		},
+		"VipBookingList": "Reserva VIP",
+		"VipBookingLists": "Reserva VIP",
+		"WaitingList": "Lista de espera",
+		"WaitingLists": "Listas de espera"
+	}
+}

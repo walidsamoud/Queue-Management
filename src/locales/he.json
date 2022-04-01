@@ -1,0 +1,1508 @@
+{
+	"Auth": {
+		"AcceptTerms": "אני מקבל את כל תנאי השימוש.",
+		"AcceptTermsAndConditions": "אני מקבל את כל התנאים וההגבלות.",
+		"AlreadyHasCode": "יש לי כבר קוד אימות",
+		"AlreadyHaveResetCodeButton": "כבר יש לך קוד איפוס?",
+		"CodePlaceholder": "קוד",
+		"CreateAnAccount": "צור חשבון",
+		"DoHaveAnAccount": "יש לך חשבון ?",
+		"DontHaveAnAccount": "אין לך חשבון?",
+		"Email": "דוא\"ל",
+		"EnterPhoneNumber": "הזן מספר טלפון",
+		"ErrorTitle": "אנא תקן את השגיאות הבאות",
+		"FirstName": "שם פרטי",
+		"ForgotPassword": "שכחת את הסיסמא?",
+		"IncorrectCode": "קוד לא תקין. בבקשה נסה שוב.",
+		"IncorrectFields": "חלק מהשדות שגויים. בבקשה נסה שוב",
+		"IncorrectPhone": "מספר טלפון שגוי. בבקשה נסה שוב",
+		"LastName": "שם משפחה",
+		"Login": "התחברות",
+		"LoginButton": "התחברות",
+		"NoAccountMatches": "אין התאמות לחשבון",
+		"Password": "סיסמה",
+		"PasswordForgotGoToLoginText": "אם אתה זוכר את הסיסמה שלך, אנא לחץ על כפתור הכניסה למטה כדי לקחת אותך לדף האימות.",
+		"PasswordForgotSubmitButton": "שלח קוד איפוס",
+		"PasswordForgotText": "שכחת את הסיסמה שלך? הזן את כתובת הדואר האלקטרוני שלך למטה, ואנו נשלח לך דוא\"ל המאפשר לך לאפס אותה.",
+		"PasswordForgotTitle": "שכחת את הסיסמא",
+		"PhoneIsAlreadyUsed": "כבר בשימוש!",
+		"PleaseRegister": "אנא הרשמו",
+		"Register": "הירשם",
+		"RegisterSubmit": "שלח",
+		"RegisterSuccess": [
+			"הרשמה מוצלחת",
+			"מזל טוב שחשבונך נוצר והוא יאושר בקרוב"
+		],
+		"RegisterTermsIntro": "תודה על התעניינותך בליבררקס, לפני שנוכל ליצור את חשבונך אנו צריכים לוודא שקראת, הבנת והסכמת ל",
+		"RegisterTermsIntroAnd": "ו",
+		"Remember": "זכור אותי?",
+		"ResetPasswordCode": "אפס קוד",
+		"ResetPasswordSubmitButton": "לאפס את הסיסמה",
+		"ResetPasswordTitle": "לאפס את הסיסמה",
+		"SendVerificationCode": "שלח קוד אימות",
+		"TermsAndConditions": "תנאים",
+		"WelcomeBack": "ברוך הבא"
+	},
+	"Billing": {
+		"AddBillingMethod": {
+			"AddCardButton": "הוסף כרטיס אשראי",
+			"Text": "שימו לב שמערכת התשלומים שלנו מסופקת על ידי Stripe.",
+			"Title": "הוסף אמצעי תשלום",
+			"ToastFail": "לא ניתן להוסיף אמצעי תשלום",
+			"ToastSuccess": "אמצעי תשלום נוסף"
+		},
+		"BillingMethodLabel": "אמצעי תשלום",
+		"BillingMethodPlaceholder": "בחר אפשרות תשלום",
+		"BillingMethods": "שיטות תשלום",
+		"Content": [
+			"כל פרטי החיוב שלך מופיעים כאן כמו חשבוניות, אמצעי תשלום וכו '.",
+			"כל החשבוניות שלך מופיעות בסעיף זה. אתה יכול להוריד את החשבונית שלך על ידי לחיצה על כפתור <strong>הורד</strong> ",
+			"אתה יכול לנהל את כרטיסי האשראי שלך כאן בסעיף זה."
+		],
+		"DeleteBillingMethod": {
+			"Text": "האם אתה בטוח שברצונך למחוק את שיטת החיוב המסתיימת עם {last4} ?",
+			"Title": "מחק את שיטת החיוב",
+			"ToastFail": "לא ניתן למחוק את שיטת החיוב",
+			"ToastSuccess": "שיטת החיוב נמחקה"
+		},
+		"Download": "הורד",
+		"EndingWith": "מסתיים ב",
+		"Expires": "פג תוקף",
+		"Invoices": "חשבוניות",
+		"NoBillingMethodsAttached": "אין אמצעי תשלום המצורפים לחשבון העסקי שלך",
+		"UseNewBillingMethod": "השתמש באמצעי תשלום חדש"
+	},
+	"Booking": {
+		"ActionsBookingsButton": "פעולות",
+		"Calendar": {
+			"Day": "יום",
+			"List": "רשימה",
+			"Month": "חודש",
+			"More": "הזמנה",
+			"Today": "היום",
+			"Week": "שבוע"
+		},
+		"CalendarMode": "מצב לוח שנה",
+		"Content": [
+			"רשימת ההזמנות המוצגת בלוח השנה.",
+			"כל בקשות ההזמנה האחרונות מפורטות כאן."
+		],
+		"CreateBookingButton": "צור",
+		"CreatePrompt": {
+			"BookingsAvailable": "ניתן להשיג משבצות לפגישות",
+			"CancelButton": "בטל",
+			"ChooseTargetDepartment": "בחר מחלקת יעד",
+			"CreateNewCustomer": "צור לקוח חדש",
+			"CustomerLabel": "צרכן",
+			"CustomerPlaceholder": "בחר לקוח",
+			"DepartmentLabel": "מחלקת יעד",
+			"DurationLabel": "משך",
+			"DurationPlaceholder": "בחר משך זמן",
+			"ServiceLabel": "שירותים",
+			"ServicePlaceholder": "בחר שירות אחד או יותר",
+			"StartDate": "תאריך",
+			"StartDateLabel": "תאריך",
+			"SubmitButton": "צור",
+			"TimeLabel": "מרווח זמן",
+			"TimePlaceholder": "בחר משבצת זמן",
+			"Title": "צור הזמנה",
+			"ToastFail": "לא ניתן ליצור הזמנה",
+			"ToastSuccess": "ההזמנה נוצרה",
+			"WithoutSlots": "ללא משבצות זמן ספציפיות"
+		},
+		"DeletePrompt": {
+			"Text": "האם אתה בטוח שברצונך למחוק הזמנה זו?",
+			"Title": "מחק את ההזמנה",
+			"ToastFail": "לא ניתן לעדכן את ההזמנה",
+			"ToastSuccess": "ההזמנה עודכנה"
+		},
+		"DepartmentAllOption": "כל המחלקות",
+		"DepartmentFilterPlaceholder": "סנן לפי מחלקה",
+		"EditPrompt": {
+			"BookButton": "הזמנה",
+			"CancelButton": "בטל",
+			"DeleteButton": "מחק",
+			"RedirectButton": "תור",
+			"SubmitButton": "עדכון",
+			"Title": "עדכן את ההזמנה",
+			"ToastFail": "לא ניתן לעדכן את ההזמנה",
+			"ToastSuccess": "ההזמנה עודכנה"
+		},
+		"ExportBookingsButton": "הורד",
+		"ImportBookingsButton": "העלה",
+		"Prompt": {
+			"Content": "fill all required fields and press <strong>\"Create\"</strong>button"
+		},
+		"QueuePrompt": {
+			"CancelButton": "בטל",
+			"SubmitButton": "אשר",
+			"Title": "הפנה לרשימת המתנה",
+			"ToastFail": "לא ניתן להפנות לקוח מחדש",
+			"ToastSuccess": "הלקוח הופנה לרשימת המתנה"
+		},
+		"RecentRequestsEmpty": "כרגע אין לך בקשות ממתינות!",
+		"RecentRequestsTitle": "בקשות אחרונות",
+		"Services": "שירותים",
+		"TabMode": "מצב טבלה",
+		"Table": {
+			"Customer": "צרכן",
+			"PhoneNumber": "מספר טלפון",
+			"SentAt": "קיבלו",
+			"Services": "שירותי",
+			"StartDate": "תאריך & זמן"
+		},
+		"UploadPrompt": {
+			"CancelButton": "בטל",
+			"FileLabel": "קובץ (פורמטים מקובלים: .CSV, .XSL ו- .XSLX)",
+			"NotifyCustomers": "שלח התראות ללקוחות",
+			"SubmitButton": "העלה",
+			"Title": "העלה הזמנות",
+			"ToastFail": "לא ניתן להעלות הזמנות",
+			"ToastSuccess": "הזמנות שהועלו"
+		}
+	},
+	"Company": {
+		"Address": "כתובת",
+		"City": "עיר",
+		"Close": "סגור",
+		"Content": [
+			"ניתן לעדכן את כל ההגדרות הקשורות לעסקים מכאן.",
+			"כאן תוכלו למצוא את המידע הבסיסי אודות העסק.",
+			"כאן תוכלו לקבוע את ימי / שעות העבודה עבור העסק.",
+			"כאן אתה יכול להגדיר את המיקום של העסק על ידי גרירה ושחרור של הסמן בכל מיקום."
+		],
+		"Country": "מדינה",
+		"EditBasic": {
+			"ToastFail": "לא ניתן לעדכן מידע בסיסי",
+			"ToastSuccess": "מידע בסיסי מעודכן"
+		},
+		"EditLocation": {
+			"ToastFail": "לא ניתן לעדכן את המיקום",
+			"ToastSuccess": "המיקום עודכן"
+		},
+		"EditTranslations": {
+			"ToastFail": "לא ניתן לעדכן תרגומים",
+			"ToastSuccess": "התרגומים עודכנו"
+		},
+		"EditWorkingDays": {
+			"ToastFail": "לא ניתן לעדכן ימי עבודה",
+			"ToastSuccess": "ימי העבודה עודכנו"
+		},
+		"Email": "דוא\"ל",
+		"Industry": "תעשיה",
+		"Logo": "לוגו",
+		"Name": "שם החברה",
+		"Open": "פתח",
+		"PhoneNumber": "מספר טלפון",
+		"PostalCode": "מיקוד",
+		"SmsSenderName": "שם שולח SMS",
+		"Tabs": {
+			"BasicInformation": "מידע בסיסי",
+			"Location": "מקום",
+			"Translation": "תרגום",
+			"WorkingDays": "ימי עבודה"
+		},
+		"UpdateButton": "שמור שינויים"
+	},
+	"Components": {
+		"Booking": {
+			"RequestItem": {
+				"Approve": {
+					"Text": "האם אתה בטוח שברצונך לאשר את {name} ?",
+					"Title": "אשר",
+					"ToastFail": "לא ניתן לאשר את הבקשה",
+					"ToastSuccess": "בקשה אושרה"
+				},
+				"Decline": {
+					"Text": "האם אתה בטוח שברצונך לדחות את {name} ?",
+					"Title": "ירידה",
+					"ToastFail": "לא ניתן לדחות את הבקשה",
+					"ToastSuccess": "הבקשה נדחתה"
+				},
+				"Department": "מחלקה",
+				"File": "קובץ מס ':"
+			}
+		},
+		"Feedback": {
+			"Content": [
+				"סקירה כללית של פידבקים מצד הלקוחות."
+			],
+			"Rating": "דֵרוּג"
+		},
+		"Queue": {
+			"AddCustomerPrompt": {
+				"AddNewCustomerCheckboxText": "הוסף לקוח חדש למסד נתונים",
+				"CancelButton": "בטל",
+				"CustomerLabel": "צרכן",
+				"CustomerPlaceholder": "בחר לקוח",
+				"MemberCheckboxLabel": "הלקוח צריך לחכות לחבר צוות ספציפי שישרת אותו",
+				"MemberLabel": "חבר",
+				"MemberPlaceholder": "בחר חבר צוות",
+				"PushButton": "לדחוף",
+				"ServicesLabel": "שירות / ים",
+				"ServicesPlaceholder": "בחר שירות (ים)",
+				"Title": "דחוף לקוח",
+				"ToastErrorMessage": "לא ניתן לדחוף את הלקוח לתור",
+				"ToastSuccessMessage": "הלקוח נדחף לרשימת ההמתנה"
+			},
+			"AddDelayPrompt": {
+				"CancelButton": "לְבַטֵל",
+				"NotificationMessage": "הודעה",
+				"NotifyCustomersCheckboxText": "הודיעו ללקוחות",
+				"ResumeAtLabel": "המשך השירות לאחר (שעות: דקות)",
+				"SubmitButton": "לְאַשֵׁר",
+				"Title": "הוסף עיכוב",
+				"ToastErrorMessage": "לא ניתן להוסיף עיכוב לתור",
+				"ToastSuccessMessage": "העיכוב נוסף בהצלחה"
+			},
+			"QueueItem": {
+				"DeleteConfirm": {
+					"ConfirmText": "האם אתה בטוח שברצונך למחוק את {name} ?",
+					"Error": "לא ניתן למחוק תור",
+					"Successful": "התור נמחק",
+					"Title": "מחק"
+				},
+				"PendingRequests": "יש לך {total} בקשה בהמתנה | יש לך {total} בקשות ממתינות",
+				"WaitingInLine": "מחכה בתור",
+				"WaitingTime": "זמן המתנה"
+			},
+			"RequestItem": {
+				"Approve": {
+					"Text": "האם אתה בטוח שברצונך לאשר את {name} ?",
+					"Title": "אשר",
+					"ToastFail": "לא ניתן לאשר את הבקשה",
+					"ToastSuccess": "בקשה אושרה"
+				},
+				"Decline": {
+					"Text": "האם אתה בטוח שברצונך לדחות את {name} ?",
+					"Title": "דחה",
+					"ToastFail": "לא ניתן לדחות את הבקשה",
+					"ToastSuccess": "הבקשה נדחתה"
+				}
+			},
+			"TicketItem": {
+				"AccountDetailsPrompt": {
+					"ContinueAnonymously": "המשך ללא פרטי חשבון",
+					"Email": "דוא\"ל",
+					"FirstName": "שם פרטי",
+					"LastName": "שם משפחה",
+					"LoginTitle": "היכנס כדי להוסיף את פרטי חשבונך",
+					"SubmitButton": "אשר",
+					"Title": "הוסף פרטי חשבון"
+				},
+				"Alerts": {
+					"Call": {
+						"Header": "אנא המתן להוראות ..",
+						"Text": "אנא התכונן, מכיוון שתקרא בקרוב להגשתך.",
+						"TextBold": "אנא המתן להוראות נוספות מספק השירות שלך.",
+						"Title": "תורך!"
+					},
+					"Delay": {
+						"Header": "התור מתקדם לאט ..",
+						"Text": "זה עשוי להשפיע על זמן ההמתנה המשוער, אנו נעדכן אותך.",
+						"TextBold": "שמנו לב שהתור נע לאט.",
+						"Title": "עיכוב התגלה!"
+					}
+				},
+				"Anonymous": "בעילום שם",
+				"CancelTicket": "בטל כרטיס",
+				"CheckInTime": "הגיע ב",
+				"Delete": {
+					"Text": "האם אתה בטוח שברצונך למחוק את הכרטיס הזה?",
+					"Title": "מחק כרטיס",
+					"ToastFail": "לא ניתן למחוק כרטיס",
+					"ToastSuccess": "הכרטיס נמחק"
+				},
+				"EstimatedServiceTime": "זמן שירות משוער",
+				"EstimatedWaitingTime": "זמן המתנה משוער",
+				"FeedbackSubmitButton": "שלח",
+				"FeedbackTextPlaceholder": "ספר לנו על דעתך ..",
+				"Late": {
+					"Text": "שימו לב שספק השירות עשוי לעדכן את הדירוג או לבטל את הכרטיס.",
+					"Title": "האם אתה מאחר באיחור?"
+				},
+				"NoShow": {
+					"Text": "האם אתה בטוח שברצונך לסמן לקוח זה כ- No-Show?",
+					"Title": "סמן כ- No-Show",
+					"ToastFail": "לא ניתן לסמן לקוח כ- No-Show",
+					"ToastSuccess": "לקוח מסומן כ- No-Show"
+				},
+				"PleaseShareFeedback": "אנא שתף איתנו את המשוב שלך",
+				"PushBack": {
+					"Text": "האם אתה בטוח שברצונך לדחוף לקוח זה שוב בתור?",
+					"Title": "התנגדות",
+					"ToastFail": "לא ניתן לדחוף את הלקוח בחזרה",
+					"ToastSuccess": "הלקוח נדחק לאחור"
+				},
+				"Rank": "דרגה",
+				"RatingError": {
+					"Text": "הדירוג צריך להיות בין 1-5 כוכבים",
+					"Title": "אזהרת דירוג"
+				},
+				"Redirect": {
+					"ToastFail": "לא ניתן להפנות לקוח מחדש",
+					"ToastSuccess": "הלקוח הופנה מחדש"
+				},
+				"RunningLate": "אני מאחר באיחור",
+				"ServiceTime": "זמן שירות",
+				"SwapCustomers": {
+					"Text": "האם אתה בטוח שברצונך להחליף את הלקוחות שנבחרו?",
+					"Title": "החלף לקוחות",
+					"ToastFail": "לא ניתן להחליף לקוחות",
+					"ToastSuccess": "הלקוחות החליפו"
+				},
+				"ThanksForVisiting": "תודה שביקרת ב- {date}",
+				"TicketNumber": "מספר כרטיס",
+				"WaitingTime": "זמן המתנה"
+			},
+			"TicketPopup": {
+				"Actions": {
+					"AddNotes": "להוסיף הערה",
+					"Delete": "מחק",
+					"Label": "בחר פעולה",
+					"NoShow": "סמן כ- No-Show",
+					"Placeholder": "פעולות",
+					"PushBack": "התנגדות",
+					"Redirect": "הפניה מחדש",
+					"SubmitButton": "אשר",
+					"Swap": "החלף",
+					"UpdateMember": "עדכן את חבר הצוות",
+					"UrgentSwitch": "הכרטיס הזה דחוף"
+				},
+				"KeepSameTicket": "שמור על אותו כרטיס",
+				"PushBackButton": "התנגדות",
+				"RedirectButton": "הפניה מחדש",
+				"RedirectTargetQueueLabel": "תור יעד",
+				"RedirectTargetQueuePlaceholder": "בחר תור",
+				"RedirectTitle": "הפנה מחדש של לקוח",
+				"RequestedMember": "חבר צוות נבחר",
+				"RevokeButton": "מחק",
+				"SwapLabel": "בחר לקוח איתו להחליף דירוג",
+				"SwapPlaceholder": "בחר לקוח",
+				"Title": "כרטיס"
+			}
+		},
+		"Statistics": {
+			"Content": [
+				"סקירה כללית של סטטיסטיקות האתר."
+			]
+		},
+		"Widgets": {
+			"BookingRequests": {
+				"Empty": "טרם התקבלו בקשות להזמנה!"
+			},
+			"BookingSummary": {
+				"Confirmed": "ההזמנות אושרו להיום",
+				"MoreDetails": "צפה בפרטים נוספים",
+				"Pending": "בקשות",
+				"ThisMonth": "החודש",
+				"ThisWeek": "השבוע"
+			},
+			"FeedbackSummary": {
+				"Star": "כוכב",
+				"Total": "סה\"כ",
+				"TotalText": "יש לך {total} ביקורת לקוחות שהוגשה | יש לך {total} ביקורות של לקוחות שהוגשו"
+			},
+			"QueueSummary": {
+				"Active": "רשימת המתנה פעילה",
+				"InService": "בשירות",
+				"MoreDetails": "צפה בפרטים נוספים",
+				"Pending": "בקשות",
+				"Queued": "מחכה בתור"
+			}
+		}
+	},
+	"Copyright": "זכויות יוצרים © 2020 - LIBERREX בע\"מ",
+	"Customer": {
+		"ActionsBookingsButton": "פעולות",
+		"AddCustomerButton": "הוסף לקוח",
+		"AddCustomerPrompt": {
+			"CancelButton": "בטל",
+			"ConfirmButton": "הוסף",
+			"Title": "הוסף לקוח",
+			"ToastFailMessage": "לא ניתן ליצור לקוח",
+			"ToastSuccessMessage": "לקוח נוצר"
+		},
+		"Content": [
+			"לחץ כאן לפתיחת טופס הוסף <strong>לקוח</strong> !",
+			"ניתן לערוך את פרטי הלקוח<br>על ידי לחיצה על כפתור זה"
+		],
+		"CustomerBookPrompt": {
+			"CancelButton": "בטל",
+			"ConfirmButton": "עדכון",
+			"Title": "קטגוריית לקוחות",
+			"ToastFailMessage": "לא ניתן לעדכן את קטגוריית הלקוחות",
+			"ToastSuccessMessage": "קטגוריית הלקוחות עודכנה"
+		},
+		"DateOfBirth": "תאריך לידה",
+		"DeleteCustomerPrompt": {
+			"Text": "האם אתה בטוח שברצונך למחוק את {name} ?",
+			"Title": "מחק לקוח",
+			"ToastFailMessage": "לא ניתן למחוק לקוח",
+			"ToastSuccessMessage": "הלקוח נמחק"
+		},
+		"EditCustomerPrompt": {
+			"CancelButton": "בטל",
+			"ConfirmButton": "להציל",
+			"Title": "ערוך לקוח",
+			"ToastFailMessage": "לא ניתן לעדכן את הלקוח",
+			"ToastSuccessMessage": "הלקוח עודכן"
+		},
+		"Email": "דוא\"ל",
+		"ExportBookingsButton": "ייצוא",
+		"FirstName": "שם פרטי",
+		"ImportBookingsButton": "העלה",
+		"InternalId": "זיהוי פנימי",
+		"InternalIdHint": "זיהוי פנימי יכול לייצג מספר תיק רפואי",
+		"LastName": "שם משפחה",
+		"LiberrexId": "תעודת זהות ליברrex",
+		"LiberrexIdHint": "הלקוח יכול לספק מזהה Liberrex או לאתר אותו באופן אוטומטי על ידי המערכת",
+		"Notes": "הערות",
+		"NotesHint": "הערות משותפות ברחבי המפעל",
+		"PhoneNumber": "מספר טלפון",
+		"Prompt": {
+			"Content": "Fill all required fields and press <strong>\"Add\"</strong>button"
+		},
+		"Table": {
+			"Book": "קטגוריה",
+			"BookBasic": "בסיסי",
+			"BookBlackList": "ברשימה השחורה",
+			"BookVip": "VIP",
+			"CreatedAt": "נוצר ב",
+			"LiberrexVerification": "חשבון ליברקס",
+			"LiberrexVerificationFail": "נכשל",
+			"LiberrexVerificationSuccess": "מאומת",
+			"Options": "אפשרויות",
+			"Phone": "מספר טלפון",
+			"UserInfo": "פרטי משתמש"
+		},
+		"UploadPrompt": {
+			"CancelButton": "בטל",
+			"FileLabel": "קובץ (פורמטים מקובלים: .CSV, .XSL ו- .XSLX)",
+			"SubmitButton": "העלה",
+			"Title": "העלה לקוחות",
+			"ToastFail": "לא ניתן להעלות לקוחות",
+			"ToastSuccess": "לקוחות העלו"
+		}
+	},
+	"Dashboard": {
+		"Content": [
+			"לחץ כאן לפתיחת תפריט פרופיל משתמש.",
+			"ניתן לשנות את שפת האתר על ידי בחירת שפה כלשהי מבורר שפה זה",
+			"כל ההודעות מוצגות כאן."
+		],
+		"OnBoarding": {
+			"LaterButton": "הגדרה מאוחרת",
+			"QuickSetupText": "אנו נדריך דרך הגדרת חשבון מהירה שתעזור לך להתחיל עם Liberrex תוך מספר שניות.",
+			"QuickSetupTitle": "הגדרת חשבון מהירה",
+			"SetupButton": "בואו להגדיר את החשבון שלך",
+			"Text": "תודה שבחרת בליברקס כדי לנהל את זרימת הלקוחות שלך",
+			"Title": "ברוך הבא לליברקס!"
+		},
+		"ServiceConsumption": {
+			"Title": "צריכת שירות"
+		},
+		"VisitFrequency": {
+			"Title": "תדירות ביקור לקוחות"
+		}
+	},
+	"Days": {
+		"Friday": "יום שישי",
+		"Monday": "יום שני",
+		"Saturday": "יום שבת",
+		"Sunday": "יום ראשון",
+		"Thursday": "יום חמישי",
+		"Tuesday": "יום שלישי",
+		"Wednesday": "יום רביעי"
+	},
+	"Department": {
+		"AddDepartmentButton": "הוסף מחלקה",
+		"AddDepartmentPrompt": {
+			"CancelButton": "בטל",
+			"SubmitButton": "צור",
+			"Title": "הוסף מחלקה",
+			"ToastFail": "לא ניתן ליצור מחלקה",
+			"ToastSuccess": "המחלקה נוצרה"
+		},
+		"Color": "צבע",
+		"Content": [
+			"לחץ כאן לפתיחת טופס הוסף <strong>מחלקה</strong> !",
+			"ניתן לערוך את פרטי המחלקה<br>על ידי לחיצה על כפתור זה"
+		],
+		"CreatedAt": "נוצר ב",
+		"DeleteDepartmentPrompt": {
+			"Text": "האם אתה בטוח שברצונך למחוק את {name}?",
+			"Title": "מחק את המחלקה",
+			"ToastFail": "לא ניתן למחוק את המחלקה",
+			"ToastSuccess": "המחלקה נמחקה"
+		},
+		"EditDepartmentPrompt": {
+			"CancelButton": "בטל",
+			"SubmitButton": "להציל",
+			"Title": "ערוך את המחלקה",
+			"ToastFail": "לא ניתן לעדכן את המחלקה",
+			"ToastSuccess": "המחלקה עודכנה"
+		},
+		"MaxDailyBookings": "מקסימום הזמנות יומיות",
+		"Name": "שם מחלקה",
+		"Options": "אפשרויות",
+		"TranslationPrompt": {
+			"CancelButton": "בטל",
+			"SubmitButton": "להציל",
+			"Title": "תרגום מחלקה",
+			"ToastFail": "לא ניתן לשמור תרגומים",
+			"ToastSuccess": "תרגומים נשמרו"
+		}
+	},
+	"Display": {
+		"AddDisplayButton": "צור תצוגה",
+		"AddDisplayPrompt": {
+			"CancelButton": "בטל",
+			"CollectCustomerDetails": "הפעל מודעות",
+			"IpAddress": "כתובת ה - IP",
+			"Language": "שפה",
+			"MacAddress": "כתובת מק",
+			"Name": "הצג שם",
+			"Photo": "תמונה עם מציין מקום (אופציונלי)",
+			"Queues": "תורים",
+			"Status": "סטטוס",
+			"StatusActive": "פעיל",
+			"StatusInactive": "לא פעיל",
+			"SubmitButton": "צור",
+			"Theme": "נושא",
+			"Title": "צור תצוגה",
+			"ToastFail": "לא ניתן ליצור תצוגה",
+			"ToastSuccess": "תצוגה נוצרה",
+			"VideoLink": "קישור וידיאו ביוטיוב"
+		},
+		"Content": [
+			"לחץ כאן לפתיחת טופס הוסף <strong>תצוגה</strong> !",
+			"ניתן לערוך פרטי תצוגה<br>על ידי לחיצה על כפתור זה"
+		],
+		"DeleteKioskPrompt": {
+			"Text": "האם אתה בטוח שברצונך למחוק את {name}?",
+			"Title": "מחק תצוגה",
+			"ToastFail": "לא ניתן למחוק תצוגה",
+			"ToastSuccess": "התצוגה נמחקה"
+		},
+		"EditKioskPrompt": {
+			"CancelButton": "בטל",
+			"PhotoUploaded": "לחץ כאן לצפייה בתמונת מציין המיקום המצורפת",
+			"PhotoUploadedDelete": "מחק את תמונת מציין המיקום",
+			"SubmitButton": "עדכון",
+			"Title": "ערוך תצוגה",
+			"ToastFail": "לא ניתן לעדכן את התצוגה",
+			"ToastSuccess": "התצוגה מעודכנת"
+		},
+		"ResetSecretPrompt": {
+			"Text": "האם אתה בטוח שברצונך לאפס את הקוד הסודי עבור {name}?",
+			"Title": "אפס סוד תצוגה",
+			"ToastFail": "לא ניתן לאפס את סוד התצוגה",
+			"ToastSuccess": "הצג איפוס סודי"
+		},
+		"ShowSecretPrompt": {
+			"CancelButton": "סגור",
+			"Key": "מפתח",
+			"Secret": "סוד",
+			"SecretSave": "זו ההזדמנות היחידה לראות את מפתח הקיוסק. אנא דאג לשמור אותו במקום בטוח.",
+			"Text": "אנא מצא מתחת את פרטי הכניסה לקיוסק שיצרת זה עתה:",
+			"Title": "קיוסק מפתח וסוד",
+			"ToastFail": "לא ניתן למחוק קיוסק",
+			"ToastSuccess": "קיוסק נמחק",
+			"Token": "אסימון אימות אוטומטי",
+			"TokenSave": "זו ההזדמנות היחידה לראות את אסימון הקיוסק. אנא דאג לשמור אותו במקום בטוח."
+		},
+		"Table": {
+			"CreatedAt": "נוצר ב",
+			"Key": "מפתח",
+			"Name": "שם",
+			"Options": "אפשרויות",
+			"Queues": "תורים",
+			"Status": "סטטוס"
+		}
+	},
+	"Errors": {
+		"EmailDoesNotExist": "אימייל אינו תואם את הרשומות שלנו",
+		"Invalid": "{field} אינו תקף",
+		"InvalidEmailOrUsed": "אימייל אינו חוקי או משמש חשבון אחר",
+		"InvalidFilePolite": "צרף {field}חוקי",
+		"InvalidPassword": "הסיסמא צריכה להיות לפחות 6 תווים",
+		"InvalidPolite": "הזן {field}חוקי",
+		"InvalidSelectPolite": "בחר {field}תקף",
+		"LoginFail": "אימייל וסיסמא אינם תואמים את הרשומות שלנו",
+		"PasswordConfirmDoNotMatch": "אישור סיסמא אינו תואם",
+		"PasswordResetFail": "אימייל וקוד איפוס אינם תואמים",
+		"RegisterTermsFail": "עליכם לקבל את התנאים וההגבלות שלנו!",
+		"Required": " נדרש{field} "
+	},
+	"GeneralSettings": {
+		"BusinessAccount": {
+			"DeleteAccount": "מחק חשבון",
+			"DeleteHistory": "מחק היסטוריה",
+			"IsPublished": "עסקים שפורסמו וזמינים במערכות Liberrex למשתמשים לחיפוש, להזמנה ולשתף משוב.",
+			"SaveButton": "להציל",
+			"Title": "חשבון עסקי"
+		},
+		"Content": [
+			"ניתן לנהל הגדרות נתונים ופרטיות מכאן.",
+			"ניתן לנהל הגדרות חשבון עסקי מכאן."
+		],
+		"DataAndPrivacy": {
+			"DeleteHistoryDaily": "מחק את כל היסטוריית הנתונים כל 24 שעות ואל תשמור רשומות של פעילות עסקית.",
+			"ShareData": "שתף נתוני פעילות עסקית עם שירותי צד ג 'על מנת להגביר את היעילות והדיוק של האלגוריתמים.",
+			"ShareWaitingTime": "שתף זמן המתנה וחריצי הזמנה עם משתמשים ציבוריים",
+			"Title": "פרטיות מידע"
+		},
+		"DeleteAccountPrompt": {
+			"Text": "האם אתה בטוח שברצונך למחוק את החשבון העסקי שלך? שימו לב שכל הנתונים המשויכים לחשבון זה יימחקו ולא תוכלו לשחזר אותם בעתיד. אם זו החלטה קשה לקבל, אתה יכול פשוט לפרסם את העסק שלך עד שתקבל החלטה סופית",
+			"Title": "מחק חשבון",
+			"ToastFail": "לא ניתן למחוק את החשבון",
+			"ToastSuccess": "החשבון נמחק"
+		},
+		"DeleteHistoryPrompt": {
+			"Text": "האם אתה בטוח שברצונך למחוק את כל נתוני הפעילות המשויכים לחשבון העסקי שלך?",
+			"Title": "מחק היסטוריה",
+			"ToastFail": "לא ניתן למחוק את ההיסטוריה",
+			"ToastSuccess": "ההיסטוריה נמחקה"
+		},
+		"MyLiberrex": {
+			"AnonymousFeedback": "הסתר את שם הלקוח על המשוב",
+			"BookingAllowAttachments": "לקוחות יכולים לשלוח קבצים מצורפים עם בקשות להזמנה.",
+			"BookingAllowed": "הלקוחות רשאים להזמין פגישות.",
+			"BookingRequireAttachments": "להזמנות יש קבצים מצורפים",
+			"BookingSelectDate": "הלקוחות יכולים לבחור תאריכים זמינים.",
+			"BookingSelectDepartment": "להזמנות יש לבחור את המחלקה.",
+			"BookingSelectSlot": "לקוחות יכולים לבחור משבצות זמינות.",
+			"FeedbackView": "הסתר משוב",
+			"QueueAllowed": "הלקוחות מורשים להצטרף לרשימות המתנה.",
+			"QueueOnlyBooked": "לקוחות יכולים להצטרף לרשימות המתנה רק אם יש להם הזמנה מאושרת באותו יום.",
+			"QueueRequirePayment": "על הלקוחות לשלם עמלות לפני שיוכלו להצטרף לרשימות המתנה.",
+			"SaveButton": "להציל",
+			"Title": "ליבררקס שלי"
+		},
+		"Notifications": {
+			"Email": "התראות בדוא\"ל",
+			"Push": "לחץ על הודעות",
+			"SMS": "התראות SMS",
+			"Title": "התראות"
+		}
+	},
+	"Help": {
+		"MembershipButton": "שדרג ל- LIBERUP",
+		"MembershipText": "בהתבסס על הנתונים ההיסטוריים שלך, ה- AI שלנו ממליץ על חבילת LIBERUP לעסק שלך.",
+		"MembershipTitle": "חברות",
+		"NeedHelp": "זקוק לעזרה?",
+		"TechnicalProblemText": "אם אתה נתקל בבעיה טכנית, אנא שלח תמונות למסך support@liberrex.com או התקשר אלינו למספר +44 (0) 7802-40-5359 לקבלת עזרה דחופה.",
+		"TechnicalProblemTitle": "בעיה טכנית",
+		"UserGuideLinkText": "מדריך למשתמש - סרטונים",
+		"UserGuideText": "האם אתה חדש בליבררקס ואינך יודע עדיין כיצד להשתמש בפלטפורמה? אל תיבהל, הכנו\n        תיעוד וסרטונים עבורך שידריכו אותך בכל התכונות והגדרות החשבון. אנא לחץ על הקישור הבא כדי לעבור לערוץ YouTube שלנו.",
+		"UserGuideTitle": "מדריך למשתמש"
+	},
+	"Kiosk": {
+		"AddKioskButton": "צור קיוסק",
+		"AddKioskPrompt": {
+			"CancelButton": "בטל",
+			"CollectCustomerDetails": "אסוף פרטי לקוחות",
+			"IpAddress": "הגבל לכתובת IP",
+			"MacAddress": "הגבל את כתובת ה- Mac",
+			"Name": "שם קיוסק",
+			"Photo": "תמונה עם מציין מקום (אופציונלי)",
+			"Queues": "תורים",
+			"RequireInternalId": "דרוש זיהוי פנימי",
+			"ShouldPrint": "צריך להדפיס כרטיס",
+			"ShowKeyboard": "הצגת מקלדת וירטואלית",
+			"Status": "סטטוס",
+			"StatusActive": "פעיל",
+			"StatusInactive": "לא פעיל",
+			"SubmitButton": "צור",
+			"Theme": "נושא",
+			"Title": "צור קיוסק",
+			"ToastFail": "לא ניתן ליצור קיוסק",
+			"ToastSuccess": "קיוסק נוצר"
+		},
+		"App": {
+			"AllDone": "הכל בוצע! הצטרפתם לרשימת ההמתנה",
+			"AlmostDone": "כמעט סיימנו",
+			"CancelButton": "בטל",
+			"CheckinTitle": "קבלה",
+			"ChooseWaitingList": "אנא בחר רשימת המתנה.",
+			"ConfirmButton": "אשר",
+			"ContinueButton": "המשך",
+			"EmailPlaceholder": "אימייל (לא חובה)",
+			"EnterPhone": "אנא הזן את מספר הטלפון שלך",
+			"FirstNamePlaceholder": "שם פרטי",
+			"FullName": "שם מלא",
+			"Hello": "שלום,",
+			"HelloCustomer": "שלום, {customer}",
+			"Key": "מפתח",
+			"LastNamePlaceholder": "שם משפחה",
+			"Login": "כניסה לקיוסק",
+			"LoginButton": "התחברות",
+			"LogoutButton": "להתנתק",
+			"MoreDetailsText": "אנו זקוקים למידע נוסף אודותיך",
+			"PhoneNumber": "מספר טלפון",
+			"PhoneNumberPlaceholder": "+216 __ ___ ___",
+			"PushError": "לא ניתן להצטרף לתור המבוקש, ייתכן שאתה כבר מחכה בתור!",
+			"QueuesVerify": "עליכם לבחור רשימת המתנה",
+			"ReturnButton": "חזור",
+			"Secret": "סוד",
+			"SelectEmployee": "האם ברצונך שיוגש על ידי חבר ספציפי הצוות שלנו? אם כן, אנא בחר אחת אחרת לחץ על המשך",
+			"SelectServices": "אנא בחרו את השירותים / ים הרצויים / ים שלכם",
+			"SelectedMember": "חבר צוות נבחר",
+			"SelectedServices": "שירות / ים נבחרים",
+			"ServicesVerify": "עליכם לבחור לפחות שירות אחד",
+			"StartAgainButton": "להתחיל מחדש",
+			"TicketSentText": "שלחנו כרטיס דיגיטלי למספר הטלפון שלך, אנא השתמש בו כדי לעקוב אחר התקדמות המיקום שלך בתור בזמן אמת.",
+			"VerifyData": "אנא אמת את הנתונים שנשמע ולחץ על אישור",
+			"WaitingList": "רשימת המתנה"
+		},
+		"Content": [
+			"לחץ כאן כדי לפתוח את הטופס הוסף <strong>קיוסקים</strong> !",
+			"אתה יכול לערוך את פרטי קיוסק<br>על ידי לחיצה על כפתור זה"
+		],
+		"DeleteKioskPrompt": {
+			"Text": "האם אתה בטוח שברצונך למחוק את {name}?",
+			"Title": "מחק קיוסק",
+			"ToastFail": "לא ניתן למחוק קיוסק",
+			"ToastSuccess": "קיוסק נמחק"
+		},
+		"EditKioskPrompt": {
+			"CancelButton": "בטל",
+			"PhotoUploaded": "לחץ כאן לצפייה בתמונת מציין המיקום המצורפת",
+			"PhotoUploadedDelete": "מחק את תמונת מציין המיקום",
+			"SubmitButton": "עדכון",
+			"Title": "ערוך קיוסק",
+			"ToastFail": "לא ניתן לעדכן קיוסק",
+			"ToastSuccess": "קיוסק עודכן"
+		},
+		"ResetSecretPrompt": {
+			"Text": "האם אתה בטוח שברצונך לאפס את הקוד הסודי עבור {name}?",
+			"Title": "אפס קיוסק סוד",
+			"ToastFail": "לא ניתן לאפס את סוד הקיוסק",
+			"ToastSuccess": "איפוס סודי של קיוסק"
+		},
+		"ShowSecretPrompt": {
+			"CancelButton": "סגור",
+			"IpAddress": "הגבל לכתובת IP",
+			"Key": "מפתח",
+			"MacAddress": "הגבל את כתובת ה- Mac",
+			"Secret": "סוד",
+			"SecretSave": "זו ההזדמנות היחידה לראות את מפתח הקיוסק. אנא דאג לשמור אותו במקום בטוח.",
+			"Text": "אנא מצא מתחת את פרטי הכניסה לקיוסק שיצרת זה עתה:",
+			"Title": "מסך תצוגה - כניסה",
+			"ToastFail": "לא ניתן למחוק קיוסק",
+			"ToastSuccess": "קיוסק נמחק",
+			"Token": "אסימון אימות אוטומטי",
+			"TokenSave": "זו ההזדמנות היחידה לראות את אסימון הקיוסק. אנא דאג לשמור אותו במקום בטוח."
+		},
+		"Table": {
+			"CreatedAt": "נוצר ב",
+			"Key": "מפתח",
+			"Name": "שם",
+			"Options": "אפשרויות",
+			"Queues": "תורים",
+			"Status": "סטטוס"
+		},
+		"Ticket": {
+			"Rank": "לקוחות ממתינים",
+			"ScanQR": "אנא סרוק את קוד ה- QR למעלה כדי לעקוב אחר הכרטיס שלך באופן מקוון",
+			"Services": "שירותים",
+			"ThankYou": "תודה על הביקור שלך היום",
+			"WaitingTime": "זמן המתנה",
+			"Welcome": "ברוך הבא ל"
+		}
+	},
+	"Languages": {
+		"ar": "עֲרָבִית",
+		"de": "גֶרמָנִיָת",
+		"en": "אנגלית",
+		"es": "ספרדית",
+		"fr": "פרנש",
+		"pt": "פורטוגזית",
+		"ru": "רוּסִי"
+	},
+	"Membership": {
+		"ApplyCouponButton": "להגיש מועמדות",
+		"Content": [
+			"רשימת חברות זמינות בליבררקס.",
+			"אתה יכול להירשם לחברות על ידי לחיצה על כפתור <strong>\"הירשם\"</strong>"
+		],
+		"Coupon": "קופון",
+		"CustomerDatabase": "מאגר לקוחות (CRM)",
+		"CustomerFlowManagement": "ניהול תזרים לקוחות",
+		"DigitalSignage": "שילוט דיגיטלי",
+		"ExcludeVat": "למעט מע\"מ",
+		"Forever": "לנצח",
+		"Free": "חופשי",
+		"Month": "חודש",
+		"Monthly": "חודשי",
+		"OnlineCustomerRequests": "בקשות לקוחות מקוונות",
+		"PaymentPopup": {
+			"Fail": {
+				"Message": "תשלום החברות נכשל",
+				"Text": "מצטער",
+				"Title": "כשל בתשלום"
+			},
+			"Success": {
+				"Message": "תשלום החברות הצליח",
+				"Text": "תודה",
+				"Title": "התשלום הצליח"
+			}
+		},
+		"RealTimeStatistics": "נתונים סטטיסטיים בזמן אמת",
+		"SelfCheckinTerminal": "טרמינל צ'ק-אין עצמי",
+		"SubTotal": "תת-סך הכל",
+		"SubscribeButton": "הירשם",
+		"SubscribePrompt": {
+			"CancelButton": "בטל",
+			"PayButton": "לשלם",
+			"SubmitButton": "הירשם",
+			"Title": "הירשם",
+			"ToastFail": "לא ניתן לעדכן את החברות",
+			"ToastSuccess": "החברות עודכנה"
+		},
+		"Total": "סה\"כ",
+		"Transaction": "עסקה",
+		"TrialDaysLeft": "{days} יום (ים) ו- {hours} שעה (ים)",
+		"TrialDaysText": "אתה נמצא בתקופת ניסיון שתפוג בעוד",
+		"TrialFeatures": "יש לך גישה מלאה לכל התכונות, אך אתה מוגבל לסה\"כ 200 SMS",
+		"TrialTitle": "תקופת ניסיון",
+		"VAT": "מע\"מ",
+		"Year": "שנה",
+		"Yearly": "שנתי",
+		"YouAreSubscribedToFree": "אתה מנוי ל- {package} בחינם",
+		"YouAreSubscribedToPackage": "אתה רשום ל- {package} במסגרת תוכנית {plan} "
+	},
+	"Menu": {
+		"Bookings": {
+			"Bookings": "הזמנות",
+			"Calendar": "לוח",
+			"Request": "בַּקָשָׁה",
+			"Table": "שולחן"
+		},
+		"Coupons": "קופונים ומבצעים",
+		"Customers": "לקוחות",
+		"Dashboard": "לוח מחוונים",
+		"Displays": "תצוגת מסך",
+		"EditQueue": "ערוך תור",
+		"Feedback": "משוב",
+		"Kiosks": "קיוסקים",
+		"NewQueue": "תור חדש",
+		"Profile": "פרופיל",
+		"QueueArchive": "ארכיון תורים",
+		"Queues": "רשימות המתנה",
+		"Settings": "הגדרות",
+		"SettingsBilling": "חיוב",
+		"SettingsBusiness": "מידע",
+		"SettingsDepartments": "מחלקות",
+		"SettingsGeneral": "כללי",
+		"SettingsMembership": "חברות",
+		"SettingsPayment": "תשלומים",
+		"SettingsRuleCreate": "צור כלל",
+		"SettingsRuleEdit": "ערוך כלל",
+		"SettingsRules": "חוקים",
+		"SettingsServices": "שירותים",
+		"SettingsSms": "עסקאות SMS",
+		"SettingsTeam": "צוות",
+		"Statistics": "סטטיסטיקה",
+		"WaitingList": "רשימת המתנה"
+	},
+	"Navbar": {
+		"Logout": "להתנתק",
+		"MyProfile": "הפרופיל שלי"
+	},
+	"Navigation": {
+		"Next": "הבא",
+		"Previous": "קודם"
+	},
+	"Notifications": {
+		"Backend": {
+			"queue_request": "בקשה להצטרפות לתור חדש"
+		},
+		"Pusher": {
+			"Booking": {
+				"Created": {
+					"Text": "מישהו הזמין פגישה",
+					"Title": "הזמנה חדשה"
+				},
+				"Deleted": {
+					"Text": "מישהו ביטל את ההזמנה שלו",
+					"Title": "ההזמנה בוטלה"
+				}
+			},
+			"BookingRequest": {
+				"Created": {
+					"Text": "מישהו רוצה להזמין פגישה",
+					"Title": "בקשת הזמנה חדשה"
+				},
+				"Deleted": {
+					"Text": "מישהו ביטל את בקשתו להזמין פגישה",
+					"Title": "בקשת ההזמנה בוטלה"
+				}
+			},
+			"QueueRequest": {
+				"Created": {
+					"Text": "מישהו רוצה להצטרף לתור",
+					"Title": "בקשת תור חדשה"
+				},
+				"Deleted": {
+					"Text": "מישהו ביטל את בקשתו להצטרף לתור",
+					"Title": "בקשת התור בוטלה"
+				}
+			},
+			"Ticket": {
+				"Created": {
+					"Text": "מישהו הצטרף לתור",
+					"Title": "כרטיס חדש"
+				},
+				"Deleted": {
+					"Text": "מישהו עזב את התור",
+					"Title": "הכרטיס בוטל"
+				}
+			}
+		},
+		"SeeAll": "בדוק את כל ההודעות"
+	},
+	"Payments": {
+		"Tabs": {
+			"PaymentsList": "תשלומים",
+			"Settings": "הגדרות"
+		}
+	},
+	"Privacy": "מדיניות פרטיות",
+	"Profile": {
+		"CurrentPassword": "סיסמה נוכחית",
+		"DeleteAccount": {
+			"Text": "האם אתה בטוח שברצונך למחוק את חשבונך?",
+			"Title": "מחק חשבון",
+			"ToastFail": "לא ניתן למחוק את החשבון",
+			"ToastSuccess": "החשבון נמחק"
+		},
+		"DeleteAccountButton": "מחק חשבון",
+		"Department": "המחלקה",
+		"Email": "דוא\"ל",
+		"FirstName": "שם פרטי",
+		"LastName": "שם משפחה",
+		"MemberSince": "חבר מאז",
+		"NewPassword": "סיסמה חדשה",
+		"Password": "סיסמה",
+		"PasswordConfirm": "אשר סיסמה",
+		"PasswordErrorMessage": "הסיסמה חייבת להיות לפחות 6 תווים.",
+		"PersonalInformation": "מידע אישי",
+		"PhoneNumber": "מספר טלפון",
+		"Photo": "תמונת פרופיל",
+		"Position": "עמדה",
+		"Positions": {
+			"Admin": "מנהל",
+			"CEO": "מנכ\"ל",
+			"Employee": "עובד",
+			"Front Desk": "קבלה",
+			"Manager": "מנהל",
+			"Other": "אחר",
+			"Secretary": "מזכיר"
+		},
+		"Role": "תפקיד",
+		"UpdatePasswordButton": "עדכן סיסמה",
+		"UpdatePasswordPrompt": {
+			"CancelButton": "בטל",
+			"ConfirmButton": "עדכון",
+			"Text": "האם אתה בטוח שברצונך למחוק את חשבונך?",
+			"Title": "עדכן סיסמה",
+			"ToastFail": "לא ניתן לעדכן את הסיסמה",
+			"ToastSuccess": "הסיסמה נמחקה"
+		},
+		"UpdatePersonalInformation": {
+			"ToastFail": "לא ניתן לעדכן מידע אישי",
+			"ToastSuccess": "מידע אישי מעודכן"
+		},
+		"UpdateSubmitButton": "שמור שינויים",
+		"updatePrivacySettings": {
+			"DeleteAccountFail": "מחיקת החשבון נכשלה",
+			"DeleteAccountSuccess": "החשבון נמחק בהצלחה",
+			"DeleteHistoryFail": "לא ניתן למחוק את ההיסטוריה",
+			"DeleteHistorySuccess": "ההיסטוריה נמחקה בהצלחה",
+			"ToastFail": "לא ניתן לעדכן את פרטי הפרטיות",
+			"ToastSuccess": "הגדרות הפרטיות עודכנו"
+		}
+	},
+	"Queue": {
+		"Archive": {
+			"Customer": "צרכן",
+			"ID": "מזהה",
+			"Notes": "הערות",
+			"ServedAt": "מוגש בשעה",
+			"Services": "שירותים"
+		},
+		"Content": [
+			"כל התורים יופיעו כאן ....",
+			"ליצירת תור חדש, לחץ על כפתור זה."
+		],
+		"Counter": {
+			"CreatePrompt": {
+				"CancelButton": "בטל",
+				"SubmitButton": "להציל",
+				"Title": "צור דלפק",
+				"ToastFail": "לא ניתן ליצור מונה",
+				"ToastSuccess": "מונה נוצר"
+			},
+			"DeletePrompt": {
+				"Text": "האם אתה בטוח שברצונך למחוק דלפק זה?",
+				"Title": "מחק דלפק",
+				"ToastFail": "לא ניתן למחוק דלפק",
+				"ToastSuccess": "הדלפק נמחק"
+			},
+			"EditPrompt": {
+				"CancelButton": "בטל",
+				"SubmitButton": "להציל",
+				"Title": "ערוך דלפק",
+				"ToastFail": "לא ניתן לעדכן דלפק",
+				"ToastSuccess": "הדלפק עודכן"
+			}
+		},
+		"Create": {
+			"AddNewCounterButton": "הוסף דלפק",
+			"AskCovid": "שאל את הלקוח אם יש לו תסמינים של COVID-19",
+			"AutoCall": "התקשר אוטומטית ללקוח הבא ברשימת ההמתנה",
+			"AvailableServices": "שירותים זמינים",
+			"Content": [
+				"מלא את הטופס ליצירת תור חדש.",
+				"ליצירת תור חדש, לחץ על כפתור זה."
+			],
+			"CounterName": "שם מונה",
+			"Counters": "מונים",
+			"QueueName": "שם התור",
+			"RequireBooking": "רק הלקוחות עם ההזמנות שאושרו יכולים להצטרף לרשימת ההמתנה.",
+			"SubmitButton": "צור",
+			"TeamMembers": "חברי צוות",
+			"TeamMembersChoosable": "הלקוח יכול לבחור עובד",
+			"TicketNumberStart": "מספר התחלת כרטיס",
+			"TicketNumberType": "סוג מספר כרטיס",
+			"TicketNumberTypeIncr": "מצטבר",
+			"TicketNumberTypeRand": "אקראי",
+			"TicketPrefix": "קידומת כרטיס",
+			"ToastFail": "לא ניתן ליצור תור",
+			"ToastSuccess": "התור נוצר",
+			"WorkingDays": "ימי עבודה"
+		},
+		"CreateQueueButton": "צור תור",
+		"Edit": {
+			"SubmitButton": "עדכון",
+			"ToastFail": "לא ניתן לעדכן את התור",
+			"ToastSuccess": "התור עודכן",
+			"TranslateButton": "תרגומים",
+			"TranslationPrompt": {
+				"CancelButton": "בטל",
+				"SubmitButton": "להציל",
+				"Title": "תרגום תורים",
+				"ToastFail": "לא ניתן לשמור תרגומים",
+				"ToastSuccess": "תרגומים נשמרו"
+			}
+		},
+		"SearchQueuePlaceholder": "תור חיפוש לפי שם",
+		"WaitingList": {
+			"CallNextButton": "התקשר הבא",
+			"CallNextToastFail": "לא ניתן להתקשר ללקוח הבא",
+			"CallNextToastSuccess": "הלקוח הבא התקשר",
+			"CloseCounterAlert": {
+				"Text": "האם אתה בטוח שברצונך לסגור את הדלפק הנוכחי?",
+				"Title": "סגור דלפק",
+				"ToastFail": "לא ניתן לסגור דלפק",
+				"ToastSuccess": "הדלפק סגור"
+			},
+			"CloseCounterButton": "סגור דלפק",
+			"CountersButton": "מונים",
+			"CreateDelayButton": "הוסף עיכוב",
+			"DelayText": "יש לך {delay} עיכוב בתור זה",
+			"MoveTicketAlert": {
+				"AcceptButton": "סגור",
+				"Text": "לידיעתך, העברת כרטיס זה תשפיע על כרטיסים אחרים ותביא לשינויים בזמן ההמתנה שלהם.",
+				"Title": "האם אתה באמת רוצה להזיז את הכרטיס?",
+				"ToastFail": "לא ניתן להזיז כרטיס",
+				"ToastSuccess": "הכרטיס עבר"
+			},
+			"NowServingCounter": "עכשיו מגיש דלפק",
+			"OpenCounterAlert": {
+				"AcceptButton": "סגור",
+				"Text": "לא ניתן לפתוח את הדלפק, לחץ על סגור קודם!",
+				"Title": "הדלפק כבר פתוח",
+				"ToastFail": "לא ניתן לפתוח דלפק",
+				"ToastSuccess": "הדלפק נפתח"
+			},
+			"PleaseChooseCounter": "בחר דלפק",
+			"PleaseChooseCounterLabel": "בתור זה מספר דלפקים, אנא בחר מונה אחד כדי להתחיל לשרת לקוחות.",
+			"PushButton": "הוסף לקוח",
+			"RequestsEmpty": "כרגע אין לך בקשות ממתינות!",
+			"Resume": "שירות קורות חיים",
+			"ResumeServiceAlert": {
+				"Text": "האם אתה בטוח שברצונך לחדש את השירות?",
+				"Title": "שירות קורות חיים",
+				"ToastFail": "לא ניתן לחדש את השירות",
+				"ToastSuccess": "השירות התחדש"
+			},
+			"SelectCounterButton": "אשר",
+			"WaitingListEmpty": "אף אחד לא ממתין בתור זה, אתה יכול להוסיף את הלקוחות שלך לתור זה על ידי לחיצה על כפתור ההוספה למעלה.",
+			"WaitingListEmptyTitle": "תור ריק"
+		}
+	},
+	"Rule": {
+		"AddRuleButton": "הוסף כלל",
+		"AddRulePrompt": {
+			"Action": "פעולה",
+			"ActionApprove": "אשר",
+			"ActionDecline": "דחה",
+			"ApplyFor": "החל על",
+			"ApplyForAllCustomers": "כל הלקוחות",
+			"ApplyForBlacklisted": "ברשימה השחורה",
+			"ApplyForNewCustomers": "מבקרים חדשים",
+			"ApplyForVipCustomers": "לקוחות VIP",
+			"FlowTarget": "יעד זרימה",
+			"FlowTargetBooking": "הזמנה",
+			"FlowTargetQueue": "רשימת המתנה",
+			"NameLabel": "שם",
+			"NamePlaceholder": "שם הכלל שלך",
+			"RuleSettings": "הגדרות כלל",
+			"SubmitButton": "צור",
+			"TimeFrame": "מסגרת זמן",
+			"TimeFrameCustom": "מותאם אישית",
+			"TimeFrameCustomEndDate": "תאריך סיום",
+			"TimeFrameCustomStartDate": "תאריך התחלה",
+			"TimeFrameForever": "לנצח",
+			"ToastFail": "לא ניתן ליצור כלל",
+			"ToastSuccess": "כלל נוצר",
+			"WorkingDays": "ימי עבודה"
+		},
+		"Content": [
+			"לחץ כאן כדי להוסיף <strong>כלל</strong>חדש",
+			"ניתן לערוך את פרטי הכלל<br>על ידי לחיצה על כפתור זה"
+		],
+		"Create": {
+			"Content": [
+				"אתה יכול להשתמש בטופס זה כדי להוסיף כלל חדש.",
+				"מלא את כל השדות הדרושים ולחץ על כפתור <strong>צור</strong> "
+			]
+		},
+		"DeleteRulePrompt": {
+			"Text": "האם אתה בטוח שברצונך למחוק את {rule}?",
+			"Title": "מחק כלל",
+			"ToastFail": "לא ניתן למחוק כלל",
+			"ToastSuccess": "הכלל נמחק"
+		},
+		"EditRulePrompt": {
+			"ToastFail": "לא ניתן לעדכן כלל",
+			"ToastSuccess": "הכלל עודכן"
+		},
+		"Table": {
+			"Action": "פעולה",
+			"ActionApprove": "אשר",
+			"ActionDecline": "דחה",
+			"CreatedAt": "נוצר ב",
+			"CustomerTarget": "יעד לקוחות",
+			"CustomerTargetAll": "כל הלקוחות",
+			"CustomerTargetBlacklisted": "ברשימה השחורה",
+			"CustomerTargetNew": "ביקור ראשון",
+			"CustomerTargetVIP": "VIP",
+			"Flow": "יעד זרימה",
+			"FlowBooking": "הזמנה",
+			"FlowQueue": "תור",
+			"Name": "שם",
+			"Options": "אפשרויות"
+		}
+	},
+	"SMS": {
+		"Allowance": "קצבה",
+		"BOOKING_CANCELED": "ההזמנה בוטלה",
+		"BOOKING_CREATED": "ההזמנה נוצרה",
+		"BOOKING_REMINDER_24_HOURS": "תזכורת להזמנה 24 שעות לפני",
+		"BOOKING_REMINDER_48_HOURS": "תזכורת להזמנה 48 שעות לפני",
+		"BOOKING_REMINDER_7_DAYS": "תזכורת להזמנה 7 ימים לפני",
+		"BOOKING_UPDATED": "ההזמנה עודכנה",
+		"Balance": "יתרה שנותרה",
+		"Booking": "הזמנה",
+		"Consumed": "מְאוּכָּל",
+		"History": "היסטוריה",
+		"Language": "שפה",
+		"QUEUE_CALL_NEXT": "התקשר לכרטיס התור להודעה הבאה",
+		"QUEUE_FEEDBACK": "כרטיס תור - אסוף משוב",
+		"QUEUE_GET_READY": "כרטיס תור קבל הודעה מוכנה",
+		"QUEUE_TICKET_CANCELED": "כרטיס התור בוטל",
+		"QUEUE_TICKET_CREATED": "כרטיס תור נוצר",
+		"QUEUE_TICKET_REDIRECTED": "כרטיס התור הופנה מחדש",
+		"QUEUE_TICKET_UPDATED": "כרטיס התור עודכן",
+		"Queue": "תוֹר",
+		"SaveButton": "שמור עדכונים",
+		"SettingUpdate": {
+			"ToastFail": "לא ניתן לעדכן את הגדרות ה- SMS",
+			"ToastSuccess": "הגדרות ה- SMS עודכנו"
+		},
+		"Settings": "הגדרות",
+		"Table": {
+			"Destination": "מספר טלפון",
+			"Message": "הודעה",
+			"Sent at": "נשלח בשעה",
+			"SentAt": "נשלח בשעה"
+		},
+		"delay_created": "עיכוב התור נוצר"
+	},
+	"Service": {
+		"AddServiceButton": "הוסף שירות",
+		"AddServicePrompt": {
+			"CancelButton": "בטל",
+			"Duration": "משך (בתוך דקות)",
+			"ServiceLabel": "שירות",
+			"ServicePlaceholder": "בחר שירות",
+			"SubmitButton": "הוסף",
+			"Title": "הוסף שירות",
+			"ToastFail": "לא ניתן להוסיף שירות",
+			"ToastSuccess": "השירות נוסף"
+		},
+		"Content": [
+			"לחץ כאן לפתיחת טופס הוסף <strong>שירות</strong> !",
+			"ניתן לערוך את פרטי השירות<br>על ידי לחיצה על כפתור זה"
+		],
+		"DeleteServicePrompt": {
+			"Text": "האם אתה בטוח שברצונך למחוק את {name} ?",
+			"Title": "מחק שירות",
+			"ToastFail": "לא ניתן למחוק את השירות",
+			"ToastSuccess": "השירות נמחק"
+		},
+		"EditServicePrompt": {
+			"CancelButton": "בטל",
+			"SubmitButton": "להציל",
+			"Title": "שירות עריכה",
+			"ToastFail": "לא ניתן לעדכן את השירות",
+			"ToastSuccess": "השירות עודכן"
+		},
+		"NoServiceAlert": {
+			"GoToServicesButton": "הוסף שירות",
+			"Text": "אין לך שירותים הקשורים לעסק שלך, אנא עבור להגדרות השירותים כדי להוסיף שירות אחד לפחות.",
+			"Title": "אין שירותים!"
+		},
+		"Table": {
+			"CreatedAt": "נוצר ב",
+			"EstimatedDuration": "משך זמן משוער",
+			"Options": "אפשרויות",
+			"Service": "שירות"
+		}
+	},
+	"Shared": {
+		"Date": "תאריך",
+		"Hour": "שעה | שעה (ות",
+		"Minute": "דקה | דקות",
+		"Service": "שירות | שירותים"
+	},
+	"Statistics": {
+		"ServiceFrequency": {
+			"Chart": {
+				"Daily": "יומי",
+				"Day": "יום",
+				"Monthly": "יַרחוֹן",
+				"Weekly": "שְׁבוּעִי",
+				"Yearly": "שנתי"
+			},
+			"ParamsPrompt": {
+				"CancelButton": "לְבַטֵל",
+				"ChartData": "נתוני תרשים",
+				"ChartType": "סוג תרשים",
+				"DateType": "סוג תאריך",
+				"SubmitButton": "לְאַשֵׁר",
+				"Title": "פרמטרים של תדירות שירות"
+			},
+			"ServicesPie": "תרשים עוגה של שירותים",
+			"Title": "תדירות השירות"
+		},
+		"ServiceTime": "זמן שירות",
+		"Tabs": {
+			"Customers": {
+				"AvgCustomerReturn": "תשואה ממוצעת של לקוחות",
+				"CustomerFrequencyHideButton": "הסתר לקוחות מובילים",
+				"CustomerFrequencyShowButton": "הראה לקוחות מובילים",
+				"CustomerNewEntry": "כניסה חדשה של הלקוח",
+				"Table": {
+					"FirstName": "שם פרטי",
+					"LastName": "שם משפחה",
+					"Phone": "מספר טלפון",
+					"TotalReturn": "זמני חזרה"
+				},
+				"Title": "לקוחות",
+				"TotalCustomers": "סה\"כ לקוחות"
+			},
+			"Frequency": {
+				"Chart": {
+					"Daily": "יומי",
+					"Monthly": "יַרחוֹן",
+					"Weekly": "שְׁבוּעִי",
+					"Yearly": "שנתי"
+				},
+				"Title": "תדירות"
+			},
+			"Logs": "יומני",
+			"Services": "שירותים",
+			"Time": {
+				"Chart": {
+					"Daily": "יומי",
+					"Monthly": "יַרחוֹן",
+					"Service": "זמן שירות",
+					"Waiting": "זמן המתנה",
+					"Weekly": "שְׁבוּעִי",
+					"Yearly": "שנתי"
+				},
+				"Title": "זמן"
+			}
+		},
+		"VisitFrequency": {
+			"Booking": "תדירות ההזמנה",
+			"ParamsPrompt": {
+				"Area": "אזור",
+				"Bar": "בַּר",
+				"Booking": "הזמנה",
+				"CancelButton": "לְבַטֵל",
+				"ChartData": "נתוני תרשים",
+				"ChartType": "סוג תרשים",
+				"DateType": "סוג תאריך",
+				"Queue": "תוֹר",
+				"SubmitButton": "לְאַשֵׁר",
+				"Title": "בקר בפרמטרים של תדרים"
+			},
+			"Queue": "תדר תור",
+			"Title": "ביקור בתדר"
+		},
+		"WaitingTime": "זמן המתנה"
+	},
+	"Team": {
+		"AddTeamMemberButton": "הוסף חבר צוות",
+		"AddTeamMemberPrompt": {
+			"CancelButton": "בטל",
+			"SubmitButton": "צור",
+			"Title": "הוסף חבר צוות",
+			"ToastFail": "לא ניתן ליצור חבר",
+			"ToastSuccess": "חבר נוצר"
+		},
+		"Content": [
+			"לחץ כאן לפתיחת טופס הוסף <strong>חבר צוות</strong> !",
+			"ניתן לערוך את פרטי הצוות<br>על ידי לחיצה על כפתור זה"
+		],
+		"CreatedAt": "נוצר ב",
+		"DeleteTeamMemberPrompt": {
+			"Text": "האם אתה בטוח שברצונך למחוק את {name}?",
+			"Title": "מחק את חבר",
+			"ToastFail": "לא ניתן למחוק את החבר",
+			"ToastSuccess": "החבר נמחק"
+		},
+		"EditTeamMemberPrompt": {
+			"CancelButton": "בטל",
+			"SubmitButton": "להציל",
+			"Title": "ערוך את חבר הצוות",
+			"ToastFail": "לא ניתן לעדכן את החבר",
+			"ToastSuccess": "החבר עודכן"
+		},
+		"Options": "אפשרויות",
+		"Positions": {
+			"Admin": "מנהל",
+			"CEO": "מנכ\"ל",
+			"Employee": "עובד",
+			"Front Desk": "קבלה",
+			"Manager": "מנהל",
+			"Other": "אחר",
+			"Secretary": "מזכיר"
+		},
+		"WorkingDaysPrompt": {
+			"CancelButton": "בטל",
+			"SubmitButton": "עדכון",
+			"Title": "{name} - ימי עבודה",
+			"ToastFail": "לא ניתן לעדכן ימי עבודה",
+			"ToastSuccess": "ימי העבודה עודכנו"
+		}
+	},
+	"Terms": "תנאים והגבלות",
+	"Time": {
+		"From": "מ",
+		"To": "ל"
+	},
+	"Toasts": {
+		"AcceptButton": "אשר",
+		"CancelButton": "בטל",
+		"Error": "מצטער!",
+		"Successful": "מצליח"
+	},
+	"Vendor": {
+		"AdditionalFields": "עוד מידע",
+		"Attachments": "קבצים מצורפים",
+		"AttachmentsPlaceholder": "לחץ כאן לבחירת קבצים <br>(רק תמונות ו- PDF מתקבלות)",
+		"AvailableSlots": "זמנים זמינים",
+		"BookNow": "להזמין עכשיו",
+		"Booking": "הזמנה",
+		"BookingSummary": "סיכום ההזמנה",
+		"BookingSummaryAttachments": "קבצים מצורפים",
+		"BookingSummaryDate": "תאריך",
+		"BookingSummaryDateRequestBook": "בקשה להזמנה",
+		"BookingSummaryDuration": "משך",
+		"BookingSummaryServices": "שירותים",
+		"BookingSummarySlot": "חריץ",
+		"BookingSummaryTime": "זמן",
+		"BusinessHours": "שעות עבודה",
+		"Closed": "סגור",
+		"ClosedNow": "סגור עכשיו",
+		"Confirmation": {
+			"Button": "ההזמנות שלי",
+			"ButtonGoBooking": "ההזמנות שלי",
+			"ButtonGoHome": "דף הבית",
+			"Header": "תודה על בקשת ההזמנה!",
+			"Text": "בקשת ההזמנה שלך נשלחה לספק השירות, אנו נודיע לך ברגע שתתקבל החלטה."
+		},
+		"CustomersWaiting": "לקוחות ממתינים",
+		"DateTimePicker": "בחירת תאריך ושעה",
+		"Departments": "מחלקות",
+		"DepartmentsPlaceholder": "אנא בחר מחלקה",
+		"Details": "פרטים",
+		"EstWaitingTime": "זמן המתנה",
+		"EstimatedWaitingTime": "זמן המתנה",
+		"Gallery": "גלריה",
+		"Guest": "אוֹרֵחַ_",
+		"JoinQueue": "הצטרף לרשימת ההמתנה",
+		"JoinVipQueue": "הצטרף לרשימת ההמתנה ל- VIP",
+		"Location": "מקום",
+		"MapInput": "הצמד את המיקום שלך",
+		"Minutes": "דקות",
+		"NoAvailableSlots": "אין משך זמן זמין להזמנה ..",
+		"Open": "פתח",
+		"OpenNow": "פתוח עכשיו",
+		"Overview": "סקירה כללית",
+		"QueueConfirmation": {
+			"Button": "הכרטיסים שלי",
+			"ButtonGoBooking": "הכרטיסים שלי",
+			"ButtonGoHome": "דף הבית",
+			"Header": "תודה שביקשת להצטרף לרשימת ההמתנה!",
+			"Text": "בקשת ההצטרפות לרשימת ההמתנה שלך נשלחה לספק השירות, אנו נודיע לך ברגע שתתקבל החלטה."
+		},
+		"QueueError": {
+			"Button": "סגור",
+			"ButtonClose": "סגור",
+			"Header": "מצטער! איננו יכולים להמשיך",
+			"Text": "או שאתה כבר ברשימת ההמתנה או אירעה שגיאה טכנית."
+		},
+		"QueueSummary": "סיכום",
+		"QueueSummaryQueue": "רשימת המתנה",
+		"QueueSummaryRequestJoinButton": "בקש להצטרף",
+		"QueueSummaryServiceDuration": "משך השירות",
+		"QueueSummaryWaitingTime": "זמן המתנה",
+		"Reviews": "ביקורות",
+		"Save": "להציל",
+		"Services": "שירותים",
+		"Share": "שתף",
+		"SimilarPlaces": "מקומות דומים",
+		"VIP": "VIP",
+		"Validation": {
+			"AddAttchament": "אנא הוסף קובץ מצורף",
+			"AdditionalFields": "אנא מלא את סעיף המידע הנוסף",
+			"Location": "אנא הצמד את המיקום שלך",
+			"SelectDate": "אנא בחר תאריך",
+			"SelectService": "אנא בחר שירות אחד או יותר",
+			"SelectSlot": "אנא בחר שעה",
+			"Title": "לא ניתן להמשיך"
+		},
+		"VipBookingList": "הזמנת VIP",
+		"VipBookingLists": "הזמנת VIP",
+		"WaitingList": "רשימת המתנה",
+		"WaitingLists": "רשימות המתנה"
+	}
+}
